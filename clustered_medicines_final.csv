@@ -1,0 +1,1183 @@
+name,salts,packaging_form,quantity,retail_price,discounted_price,manufacturer,quantity_numeric,cluster
+dolo 1gm tablet,paracetamol / acetaminophen(1.0 g),strip,10 tablet,0.0027903700857984373,0.0030694143861491373,micro labs,0.00045,4
+dolo 1000mg tablet,paracetamol (1000mg),strip,1001 tablet,0.0027903700857984373,0.002668429612365378,micro labs ltd,0.05,4
+dolo 1000 mg tablet 10s,paracetamol-1000mg,strip | tablet,10 tablet,0.0027852477910103725,0.0030606103292397137,micro labs ltd,0.00045,2
+dolo 120 mg suspension 60 ml,paracetamol-120mg,bottle | suspension,60 ml,0.0024330900243309,0.002676433300464854,micro labs ltd,0.00295,2
+dolo 120mg suspension 60ml,paracetamol / acetaminophen(120.0 mg/5ml),bottle,60 ml,0.00245357920348316,0.0026019990011397253,micro labs,0.00295,4
+dolo 156mg syp 60ml,paracetamol/acetaminophen 156.25 mg /5ml,bottle syrup,60 ml,0.0031374055576898446,0.0033287338805721677,micro labs ltd,0.00295,2
+dolo 15625mg suspension,paracetamol (156.25mg/5ml),bottle,6001 ml,0.0034575489819439107,0.0038289643867894323,micro labs ltd,0.30000000000000004,0
+dolo 15625 mg syrup 60 ml,paracetamol-156.25mg,bottle | syrup,60 ml,0.0034575489819439107,0.0038049533224910038,micro labs ltd,0.00295,2
+dolo 250mg suspension 60ml,paracetamol / acetaminophen(250.0 mg),bottle,60 ml,0.0027545140222819823,0.003030196314461704,micro labs,0.00295,4
+dolo 250mg syp 60ml,paracetamol/acetaminophen 250 mg /5ml,bottle syrup,60 ml,0.0027545140222819823,0.002922146525118775,micro labs ltd,0.00295,2
+dolo 250 oral suspension,paracetamol (250mg/5ml),bottle,6001 ml,0.0027545140222819823,0.002596396419470092,micro labs ltd,0.30000000000000004,0
+dolo 250 suspension 100 ml,paracetamol-250mg,bottle | suspension,100 ml,0.0046740939941093615,0.005141569235103536,micro labs ltd,0.00495,2
+dolo 250 suspension 60 ml,paracetamol-250mg,bottle | suspension,60 ml,0.002753233448584966,0.003028595576841809,micro labs ltd,0.00295,2
+dolo 500mg strip of 10 tablets,paracetamol / acetaminophen(500.0 mg),strip,10 tablet,0.0007414521705724164,0.0009460359333580916,micro labs,0.00045,4
+dolo 500mg strip of 15 tablets,paracetamol / acetaminophen(500.0 mg),strip,15 tablet,0.0008291714688180305,0.0009124204433402913,micro labs,0.0007,4
+dolo 500mg tab 1x15,paracetamol/acetaminophen 500 mg,strip tablet,15 ml,0.0008291714688180305,0.000995658799574844,micro labs ltd,0.0007,2
+dolo 500 tablet 10s,paracetamol-500mg,strip | tablet,10 tablet,0.0005122294788065053,0.0005634596422031273,micro labs ltd,0.00045,2
+dolo500 tablet 15s,paracetamol-500mg,strip | tablet,15 tablet,0.0008003585606351645,0.0008836071661821768,micro labs ltd,0.0007,2
+dolo 650mg strip of 10 tablets,paracetamol / acetaminophen(650.0 mg),strip,10 tablet,0.0013196311947752592,0.0014518690212449897,micro labs,0.00045,4
+dolo 650mg strip of 15 tablets,paracetamol / acetaminophen(650.0 mg),strip,15 tablet,0.002033551030861826,0.0022370308238036088,micro labs,0.0007,4
+dolo650 tablet 15s,paracetamol-650mg,strip | tablet,15 tablet,0.0020169035728006142,0.0022202230787947085,micro labs ltd,0.0007,2
+dolo ampoule of 2ml injection,paracetamol / acetaminophen(150.0 mg),ampoule,2 ml,0.0004994237418363427,0.0006434965231978897,micro labs,5e-05,4
+dolo bottle of 5ml drops,paracetamol / acetaminophen(100.0 mg),bottle,5 ml,0.001600717121270329,0.0020201308763078026,micro labs,0.0002,4
+dolo cold 325/10/2 mg suspension 60 ml,phenylephrine(10.0 mg) + chlorpheniramine / chlorphenamine(2.0 mg) + paracetamol / acetaminophen(325.0 mg),bottle,60 ml,0.0033583045204251503,0.0035632419418868216,micro labs,0.00295,4
+dolo cold 50 mg capsule sr 10,chlorpheniramine / chlorphenamine(50.0 mg) + pseudoephedrine(50.0 mg) + paracetamol / acetaminophen(50.0 mg),strip,10 ml,0.0008867972851837624,0.0009372318764486677,micro labs,0.00045,4
+dolo cold adult nasal drops,xylometazoline,bottle,10 ml,0.0024862338327570747,0.0027348602235910307,micro labs,0.00045,4
+dolo cold pead nasal drops,xylometazoline,bottle,10 ml,0.0024971187091817133,0.0026484203921166875,micro labs,0.00045,4
+dolo cold strip of 10 tablets,caffeine(30.0 mg) + phenylephrine(10.0 mg) + chlorpheniramine / chlorphenamine(2.0 mg) + paracetamol / acetaminophen(500.0 mg),strip,10 tablet,0.002141119221411192,0.002355485407675857,micro labs,0.00045,4
+dolo cold syrup 50 ml,piroxicam(20.0 mg),bottle,1 ml,0.002023306441285696,0.002225825660464342,micro labs,0.0,4
+dolo cold syrup 60ml,chlorpheniramine + paracetamol + pseudoephedrine,bottle,60 ml,0.003300678704059418,0.0036304729219224217,micro labs,0.00295,4
+dolo drops,paracetamol (100mg/ml),other,1501 ml,0.0017972851837623255,0.001659964911831372,micro labs ltd,0.07500000000000001,2
+dolo g tablets,dicyclomine + mefenamic acid,strip,10 tablet,0.0018510692790370085,0.002036138252506755,integra life sciences pvt ltd,0.00045,4
+dolo infusion 100ml,paracetamol / acetaminophen(1.0 g),bottle,100 ml,0.004676014854654886,0.005143970341533379,micro labs,0.00495,4
+dolo infusion 100 ml,paracetamol-1000mg,bottle | infusion,100 ml,0.021065437315917528,0.023173878523223505,micro labs ltd,0.00495,2
+dolo ivg 1 infusion 100 ml,paracetamol-1000mg,bottle | infusion,100 ml,0.02554744525547445,0.028104150392500863,micro labs ltd,0.00495,2
+dolo k 50 mg strip of 10 tablets,diclofenac(50.0 mg),strip,10 tablet,0.0003521577666794724,0.00038737850401464997,bosch pharmaceuticals pvt ltd,0.00045,4
+dolo m tablets,drotaverine + mefenamic acid,strip,10 tablet,0.002311435523114355,0.002542771709203601,integra life sciences pvt ltd,0.00045,4
+dolo mf bottle of 60ml suspension,mefenamic acid(100.0 mg/5ml) + paracetamol / acetaminophen(250.0 mg/5ml),bottle,60 ml,0.0035542322960686384,0.003909801636594143,micro labs,0.00295,4
+dolo mf junior bottle of 60ml suspension,paracetamol / acetaminophen(125.0 mg/5ml) + mefenamic acid(50.0 mg/5ml),bottle,60 ml,0.003201434242540658,0.0033967652294177157,micro labs,0.00295,4
+dolomf junior oral suspension,mefenamic acid (50mg/5ml) + paracetamol (125mg/5ml),bottle,6001 ml,0.003489563324369317,0.003929010488032886,micro labs ltd,0.30000000000000004,0
+dolomf junior oral suspension 60 ml,mefenamic acid-50mg + paracetamol-125mg,bottle | suspension,60 ml,0.003489563324369317,0.0038449717629883847,micro labs ltd,0.00295,2
+dolomf susp 60ml,mefenamic acid-100mg + paracetamol-250mg,bottle | suspension,60 ml,0.003905749775899603,0.004293178296559055,micro labs ltd,0.00295,2
+dolo micro labs forte 500 mg tablet 10,paracetamol / acetaminophen(500.0 mg),strip,10 tablet,0.0008291714688180305,0.0010556864603209158,micro labs,0.00045,4
+dolo oral drops 15 ml,paracetamol-100mg,bottle | oral drops,15 ml,0.0017928031758227686,0.001972108747710945,micro labs ltd,0.0007,2
+dolo pain relief bottle of 35gm spray,diclofenac(1.16 %) + menthol(5.0 %) + methyl salicylate(10.0 %) + linseed oil(3.0 %),bottle,35 ml,0.005218337815341273,0.005740245104944359,micro labs,0.0017000000000000001,4
+dolo pain relief spray 35 gm,piroxicam(20.0 mg),bottle | spray,35 ml,0.005698552951722372,0.006270089257129685,micro labs ltd,0.0017000000000000001,2
+dolo pain relief spray 55 gm,diclofenac-1.16%w/v + linseed oil-3%w/v + menthol-5%w/v + methyl salicylate-10%w/v,bottle | spray,55 ml,0.009060058906390063,0.009967793159087707,micro labs ltd,0.0027,2
+dolo plus tablet,diclofenac(50.0 mg) + paracetamol / acetaminophen(500.0 mg),strip,10 tablet,0.0005122294788065053,0.0005634596422031273,mankind pharmaceuticals ltd,0.00045,4
+dolo relieve tablet,diclofenac(50.0 mg) + paracetamol / acetaminophen(500.0 mg),strip,10 tablet,0.0010244589576130106,0.0011269192844062545,medico health care,0.00045,4
+dolo suspension 60ml,paracetamol / acetaminophen(156.25 mg/5ml),bottle,60 ml,0.0031374055576898446,0.003410371499186825,micro labs,0.00295,4
+dolo suspension 60 ml,paracetamol-125mg,bottle | suspension,60 ml,0.0034575489819439107,0.0038049533224910038,micro labs ltd,0.00295,2
+dolot tablet 10s,paracetamol-325mg + tramadol-37.5mg,strip | tablet,10 tablet,0.007747470866948393,0.008519125613082509,micro labs ltd,0.00045,2
+dolo th 4 tablet,paracetamol (500mg) + thiocolchicoside (4mg),strip,1001 tablet,0.01201818414649763,0.012464943846124295,micro labs ltd,0.05,4
+dolo th 4 tablet 10s,paracetamol-500mg + thiocolchicoside-4mg,strip | tablet,10 tablet,0.012005378409527468,0.013209286839375585,micro labs ltd,0.00045,2
+dolo xtraa tablet 15s,caffeine-50mg + paracetamol-650mg,strip | tablet,15 tablet,0.002881290818286592,0.0031726619626323807,micro labs ltd,0.0007,2
+doloact 25mg injection 3ml,diclofenac(25.0 mg),injection,3 ml,0.0002983736714047893,0.0003281512120785258,ochoa laboratiories ltd,0.00010000000000000002,2
+doloact dt tablet,diclofenac(50.0 mg),strip,10 tablet,0.0005929056217185299,0.0007603503694502427,ochoa laboratiories ltd,0.00045,4
+doloact gel 30gm,diclofenac(1.16 %),tube,30 ml,0.0031374055576898446,0.003451190308494154,ochoa laboratiories ltd,0.0014500000000000001,1
+doloact mouth paint,beclomethasone + clotrimazole,bottle,10 ml,0.003393520297093097,0.0037329201295957177,bmw pharmaco india pvt ltd,0.00045,2
+doloact mr 250mg/465mg/500mg tablet dt,chlorzoxazone (250mg) + diclofenac (46.5mg) + paracetamol (500mg),strip,1001 tablet,0.0024945575617876807,0.003036599264941285,ochoa laboratories ltd,0.05,4
+doloact mr dt strip of 10 tablets,chlorzoxazone + diclofenac sodium + paracetamol,strip,10 tablet,0.0024330900243309,0.002676433300464854,ochoa laboratiories ltd,0.00045,4
+doloact plus 50mg/500mg tablet,diclofenac (50mg) + paracetamol (500mg),strip,1001 tablet,0.0009668331412472789,0.001187747313962274,ochoa laboratories ltd,0.05,4
+doloact plus dt strip of 10 tablets,diclofenac sodium + paracetamol,strip,10 tablet,0.0008964015879113843,0.0009860543738554727,ochoa laboratiories ltd,0.00045,4
+doloact plus gel 30gm,diclofenac + linseed oil + menthol + methyl salicylate,tube,30 ml,0.000768344218209758,0.0008451894633046909,ochoa laboratiories ltd,0.0014500000000000001,1
+doloage 20mg tablet,piroxicam (20mg),strip,1001 tablet,0.001920860545524395,0.002340278400286852,allenge india,0.05,4
+doloage 20mg tablets,piroxicam(20.0 mg),strip,10 tablet,0.0016647458061211423,0.0018312438371601637,allenge india pharmaceuticals pvt ltd,0.00045,4
+doloage injection,piroxicam(40.0 mg),injection,2 ml,0.010628761685234986,0.011691787575714891,allenge india pharmaceuticals pvt ltd,5e-05,2
+doloage p 325mg/20mg tablet,paracetamol (325mg) + piroxicam (20mg),strip,1001 tablet,0.004225893200153669,0.005133565547004061,allenge india,0.05,4
+doloarmr tablet 10s,aceclofenac-100mg + chlorzoxazone-250mg + paracetamol-325mg,strip | tablet,10 tablet,0.005954667691125624,0.006550218340611353,unibiotech health care pvt ltd,0.00045,2
+doloar sp tab 10s,aceclofenac-100mg + paracetamol-325mg + serratiopeptidase-15mg,strip | tablet,10 ml,0.006915097963887821,0.007606705169742218,unibiotech health care pvt ltd,0.00045,2
+dolobak 100mg/450mg tablet,paracetamol (100mg) + chlormezanone (450mg),strip,1001 tablet,0.007747470866948393,0.009383523927825942,micro labs ltd,0.05,4
+dolobak strip of 10 tablets,tramadol(37.5 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.007795492380586503,0.008575151429778842,micro labs,0.00045,4
+dolobak tablet 10s,paracetamol-325mg + tramadol-37.5mg,strip | tablet,10 tablet,0.00851581508515815,0.00936751655162699,micro labs ltd,0.00045,2
+doloban 100mg tablet sr,diclofenac (100mg),strip,1001 tablet,0.002311435523114355,0.00281249599815595,mankind pharma ltd,0.05,4
+doloban 25mg injection,diclofenac (25mg),other,301 ml,0.0005442438212319119,0.0006755112755957945,mankind pharma ltd,0.015000000000000001,4
+doloban aqua 75mg ampoule of 1ml injection,diclofenac(75.0 mg),ampoule,1 ml,0.02695607632219234,0.02965206367093957,mankind pharmaceuticals ltd,0.0,1
+doloban aqua injection 1ml,diclofenac-75mg,vial | injection,1 ml,0.0012805736970162632,0.001408649105507818,mankind pharma pvt ltd,0.0,2
+doloban injection 3ml,diclofenac(25.0 mg),ampoule,3 ml,0.00016455372006658983,0.00018088335104816296,mankind pharmaceuticals ltd,0.00010000000000000002,1
+doloban injection 30ml,diclofenac(25.0 mg),vial,30 ml,0.0018837239083109236,0.0020721548489543978,mankind pharmaceuticals ltd,0.0014500000000000001,1
+dolobanmr 50/2 mg tablet mr 10,tizanidine(2.0 mg) + diclofenac(50.0 mg),strip,10 tablet,0.0005058266103214241,0.0005562563229135987,mankind pharmaceuticals ltd,0.00045,4
+doloban plus vet injection,nimesulide + paracetamol,ampoule,30 ml,0.005826610321423998,0.006409353430060573,mankind pharmaceuticals ltd,0.0014500000000000001,1
+doloban plus vet injection 90ml,nimesulide + paracetamol,ampoule,90 ml,0.01747983096427199,0.019228060290181717,mankind pharmaceuticals ltd,0.004450000000000001,1
+dolobans tablet,diclofenac (50mg) + serratiopeptidase (15mg),strip,1001 tablet,0.00384172109104879,0.004669351637234438,mankind pharma ltd,0.05,4
+doloban sr 100mg strip of 10 tablets,diclofenac(100.0 mg),strip,10 tablet,0.002311435523114355,0.002542771709203601,mankind pharmaceuticals ltd,0.00045,4
+doloban strip of 10 tablets,chlorzoxazone + diclofenac + paracetamol,strip,10 tablet,0.0024330900243309,0.002676433300464854,mankind pharmaceuticals ltd,0.00045,4
+dolobest mr strip of 10 tablets,aceclofenac(100.0 mg) + chlorzoxazone(250.0 mg) + paracetamol / acetaminophen(500.0 mg),strip,10 tablet,0.008195671660904085,0.009015354275250036,ttk healthcare ltd,0.00045,4
+dolobest mr tablet,aceclofenac-100mg + chlorzoxazone-250mg + paracetamol-500mg,strip | tablet,10 tablet,0.008195671660904085,0.009015354275250036,ttk healthcare,0.00045,2
+dolobest od strip of 10 tablets,aceclofenac(200.0 mg),strip,10 tablet,0.002798053527980535,0.0030782184430585614,ttk healthcare ltd,0.00045,4
+dolobest p 100 mg/500 mg tablet,aceclofenac (100mg) + paracetamol (500mg),strip,1001 tablet,0.0024587014982712253,0.0029965808244439038,ttk healthcare ltd,0.05,4
+dolobest p strip of 10 tablets,aceclofenac(100.0 mg) + paracetamol / acetaminophen(500.0 mg),strip,10 tablet,0.0017287744909719553,0.0019016762924355544,ttk healthcare ltd,0.00045,4
+dolobest p tablet 10s,aceclofenac-100mg + paracetamol-500mg,strip | tablet,10 tablet,0.0024587014982712253,0.0027046062825750103,ttk healthcare ltd,0.00045,2
+dolobest sp 100mg/500mg/15mg tablet,aceclofenac (100mg) + paracetamol (500mg) + serratiopeptidase (15mg),strip,1001 tablet,0.0045780509668331415,0.005565764704375776,ttk healthcare ltd,0.05,4
+dolobest sp strip of 10 tablets,aceclofenac + paracetamol + serratiopeptidase,strip,10 tablet,0.003572800614675374,0.003929810856842833,ttk healthcare ltd,0.00045,4
+dolobest sr 200 mg tablet 10,aceclofenac(200.0 mg),strip,10 tablet,0.0015770265078755281,0.0017343992111565009,ttk healthcare ltd,0.00045,4
+dolobest strip of 10 tablets,aceclofenac(100.0 mg),strip,10 tablet,0.0011461134588295555,0.0012605808756675078,ttk healthcare ltd,0.00045,4
+dolobid 50mg/15mg tablet,diclofenac-50mg + serratiopeptidase-15mg,strip | tablet,10 tablet,0.004353950569855295,0.004789406958726582,apotex life sciences,0.00045,2
+dolobid m oint 30gm,diclofenac + menthol + methyl salicylate,tube,30 ml,0.005454603662440774,0.006000364968177337,apotex pharmachem india pvt ltd,0.0014500000000000001,1
+dolobrake mr 500mg/50mg/325mg tablet,chlorzoxazone-500mg + diclofenac-50mg + paracetamol-325mg,strip | tablet,10 tablet,0.005314380842617493,0.005845893787857445,mankind pharma ltd,0.00045,2
+dolobrake sp 50mg/325mg/15mg tablet,diclofenac (50mg) + paracetamol (325mg) + serratiopeptidase (15mg),strip,1001 tablet,0.005647330003841721,0.006742306854998784,mankind pharma ltd,0.05,4
+dolocaf extra tablet,caffeine (50mg) + paracetamol (650mg),strip,1001 tablet,0.0024330900243309,0.0029645660720459986,hnf care pvt ltd,0.05,4
+dolocaine cream,prilocaine (25mg/gm) + lidocaine (25mg/gm),other,501 ml,0.012421564861057754,0.014585921192485498,cadila pharmaceuticals ltd,0.025,4
+dolocaine cream 15gm,prilocaine(2.5 %) + lidocaine / lignocaine(2.5 %),tube,15 ml,0.020332949161224228,0.02236630639398635,zydus healthcare ltd,0.0007,1
+dolocaine cream 30 gm,lidocaine-25mg + prilocaine-25mg,tube | cream,30 ml,0.05333589448072737,0.05867023524440061,zydus cadila healthcare ltd,0.0014500000000000001,1
+dolocaine cream 30gm,prilocaine(2.5 %) + lidocaine / lignocaine(2.5 %),tube,30 ml,0.0452362658470995,0.056565265274238365,cadila pharmaceuticals ltd,0.0014500000000000001,1
+dolocaine cream 5gm,lidocaine-2.5%w/w + prilocaine-2.5%w/w,tube | cream,5 ml,0.008003585606351645,0.008807258384663653,cadila healthcare ltd,0.0002,2
+dolocalm 75mg injection,diclofenac (75mg),other,101 ml,0.000768344218209758,0.0009476366709779867,sanes pharmaceuticals,0.005000000000000001,2
+dolocalm forte 50mg/500mg tablet,diclofenac (50mg) + paracetamol (500mg),strip,1001 tablet,0.0017928031758227686,0.0021882083263968038,sanes pharmaceuticals,0.05,4
+dolocalm forte tablets,diclofenac sodium + paracetamol,strip,10 tablet,0.0017928031758227686,0.001972108747710945,sresan pharmaceuticals,0.00045,4
+dolocalm gel,diclofenac + linseed oil + menthol + methyl salicylate,tube,30 ml,0.005634524266871559,0.0061980560642344,sresan pharmaceuticals,0.0014500000000000001,1
+dolocalm injection,diclofenac sodium,injection,1 ml,0.003129722115507747,0.0034423862515847304,sresan pharmaceuticals,0.0,2
+dolocam 20mg tablet,piroxicam (20mg),strip,1001 tablet,0.003129722115507747,0.0038049533224910038,cipla ltd,0.05,4
+dolocam 20 mg tablet 10,piroxicam(20.0 mg),strip,10 tablet,0.003129722115507747,0.0034423862515847304,cipla ltd,0.00045,4
+dolocam 20mg tablet dt,piroxicam (20mg),strip,2501 tablet,0.004277116148034319,0.00519759505179987,bhavishya pharmaceuticals pvt ltd,0.125,4
+dolocam dt 20mg tablet,piroxicam(20.0 mg),strip,10 tablet,0.0019848892303752077,0.002183406113537118,cipla ltd,0.00045,4
+dolocare 100 mg tablet,piroxicam(20.0 mg),strip,10 tablet,0.0030733768728390316,0.0033807578532187633,alkem laboratories ltd,0.00045,4
+dolocare 1000mg tablet,paracetamol-1000mg,strip | tablet,10 tablet,0.0030733768728390316,0.0033807578532187633,eurocare,0.00045,2
+dolocare 20mg tablets,piroxicam(20.0 mg),strip,10 tablet,0.00032014342425406585,0.0003521622763769546,vensat bio,0.00045,4
+dolocare 500 mg tablet,paracetamol / acetaminophen(500.0 mg),strip,10 tablet,0.002369061339480087,0.0029805734482449514,alkem laboratories ltd,0.00045,4
+dolocare injection 2ml,piroxicam,injection,2 ml,0.0007043155333589449,0.0007747570080292999,vensat bio,5e-05,2
+dolocef 250mg strip of 10 tablets,cefradine(250.0 mg),strip,10 tablet,0.02612370341913177,0.02873644175235949,dolphin laboratories,0.00045,4
+dolocef 500 mg tablet 10,cefuroxime(500.0 mg),strip,10 tablet,0.02612370341913177,0.02873644175235949,dolphin healthcare pvt ltd,0.00045,4
+dolocel plus tablet,diclofenac-50mg + paracetamol-325mg + serratiopeptidase-10mg,strip | tablet,10 tablet,0.004994237418363427,0.005493731511480491,cian health care pvt ltd,0.00045,2
+dolocel sp 50mg/10mg tablet,diclofenac-50mg + serratiopeptidase-10mg,strip | tablet,10 tablet,0.005967473428095787,0.006564304831666432,cian health care pvt ltd,0.00045,2
+dolocem 20mg tablet dt,piroxicam-20mg,strip | tablet,10 tablet,0.004353950569855295,0.004789406958726582,netprime pharma pvt ltd,0.00045,2
+dolocerin tablet 10s,piroxicam(20.0 mg),strip | tablet,10 tablet,0.005314380842617493,0.005845893787857445,zydus cadila,0.00045,2
+dolocet 400mg tablets,paracetamol + tramadol,strip,10 tablet,0.002753233448584966,0.003028595576841809,micro labs,0.00045,4
+dolocet p 100mg/325mg tablet,aceclofenac (100mg) + paracetamol (325mg),strip,1001 tablet,0.0022742988859008836,0.0024811433108376337,caplet india pvt ltd,0.05,4
+dolocetp tablet 10s,aceclofenac-100mg + paracetamol-325mg,strip | tablet,10 tablet,0.0022730183122038673,0.0025003521622763768,caplet india pvt ltd,0.00045,2
+dolochek 100mg strip of 10 tablets,aceclofenac(100.0 mg),strip,10 tablet,0.0012882571391983609,0.0014350612762360898,indoco remedies ltd,0.00045,4
+dolochek p 100mg/500mg tablet,aceclofenac (100mg) + paracetamol (500mg),strip,1001 tablet,0.0022410039697784603,0.002445126714389991,indoco remedies ltd,0.05,4
+dolochek p strip of 10 tablets,aceclofenac(100.0 mg) + paracetamol / acetaminophen(500.0 mg),strip,10 tablet,0.0047381226789601745,0.005212001690378927,indoco remedies ltd,0.00045,4
+dolochek sr 200mg strip of 10 tablets,aceclofenac(200.0 mg),strip,10 tablet,0.01698681009092073,0.018685410237037226,indoco remedies ltd,0.00045,4
+dolocide k plus strip of 10 tablets,diclofenac potassium,strip,10 tablet,0.0036899731079523624,0.0040250547452266,kee pharma,0.00045,4
+dolocide k strip of 10 tablets,diclofenac(50.0 mg),strip,10 tablet,0.0007363298757843514,0.0008099732356669954,kee pharma,0.00045,4
+dolocide kp strip of 10 tablets,diclofenac + paracetamol,strip,10 tablet,0.0011397105903444744,0.0012533775563779792,kee pharma,0.00045,4
+dolocide mr 250mg tablet,chlorzoxazone-250mg + diclofenac-50mg + paracetamol-325mg,strip | tablet,10 tablet,0.008067614291202459,0.008871287889459463,kee pharma ltd,0.00045,2
+dolocide mr strip of 10 tablets,chlorzoxazone(200.0 mg) + diclofenac(50.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.006174926367012421,0.006792730090025484,kee pharma,0.00045,4
+dolocide plus gel 30gm,diclofenac(1.0 %) + linseed oil(3.0 %) + menthol(5.0 %) + methyl salicylate(10.0 %),tube,30 ml,0.004097835830452042,0.004507677137625018,kee pharma,0.0014500000000000001,1
+dolocip dt 20mg tablet,piroxicam(20.0 mg),strip,10 tablet,0.0020809322576514277,0.002289054796450204,cipla ltd,0.00045,4
+doloco gel 30gm,diclofenac(1.16 %) + menthol(5.0 %) + methyl salicylate(10.0 %) + linseed oil(3.0 %),tube,30 ml,0.005634524266871559,0.007062454378977834,aero chem neutron pvt ltd,0.0014500000000000001,1
+doloco tablets,chlorzoxazone + diclofenac sodium + paracetamol,strip,10 tablet,0.0030093481879882185,0.003310325397943372,veritaz healthcare ltd,0.00045,4
+dolocold adult nasal spray,xylometazoline-200mg,bottle | nasal spray,1 ml,0.0035215776667947237,0.0038769865153862903,micro labs ltd,0.0,2
+dolocold ds suspension 60 ml,chlorpheniramine-2mg + paracetamol-250mg + phenylephrine-5mg,bottle | suspension,60 ml,0.0045460366244077345,0.004997502849312964,micro labs ltd,0.00295,2
+dolocold ds syrup 60ml,chlorpheniramine maleate(2.0 mg) + phenylephrine(5.0 mg) + paracetamol / acetaminophen(250.0 mg),bottle,60 ml,0.003806505314380843,0.004039461383805658,micro labs,0.00295,4
+dolocold junior nasal drops 10 ml,xylometazoline-0.05%w/v,bottle | nasal drops,10 ml,0.0022205147906262,0.002442597548950556,micro labs ltd,0.00045,2
+dolocold syrup 60 ml,caffeine-30mg + chlorpheniramine-2mg + paracetamol-325mg + phenylephrine-10mg,bottle | syrup,60 ml,0.0035856063516455368,0.003949019708281576,micro labs ltd,0.00295,2
+dolocold tablet 10s,caffeine-30mg + chlorpheniramine maleate-2mg + paracetamol-500mg + phenylephrine hydrochloride-10mg,strip | tablet,10 tablet,0.002305032654629274,0.0025323669146742815,micro labs ltd,0.00045,2
+dolocrat 100 mg/500 mg tablet,aceclofenac (100mg) + paracetamol (500mg),strip,1001 tablet,0.0019848892303752077,0.0024203152812816145,syncom formulations india ltd,0.05,4
+dolocrat tablets,aceclofenac(100.0 mg) + paracetamol / acetaminophen(500.0 mg),strip,10 tablet,0.0021769752849276473,0.002740462805260664,cratus life care pvt ltd,0.00045,4
+dolocuredt tablet,piroxicam (20mg),strip,1501 tablet,0.009476245357920349,0.011464482833689765,v m s pharma,0.07500000000000001,4
+dolocute gel 30 gm,diclofenac-1%w/w + linseed-3%w/w + menthol-1%w/w + salicylic acid-10%w/w,tube | gel,30 ml,0.005634524266871559,0.007062454378977834,biocute life care,0.0014500000000000001,2
+dolodart 120mg/5ml suspension,paracetamol (120mg/5ml),bottle,6001 ml,0.0036899731079523624,0.0030325974208915466,juggat pharma,0.30000000000000004,0
+dolodart 120 suspension 60 ml,paracetamol-120mg,bottle | suspension,60 ml,0.0024330900243309,0.002676433300464854,juggat pharma ltd,0.00295,2
+dolodart ds suspension 60ml,paracetamol / acetaminophen(250.0 mg/5ml),bottle,60 ml,0.0027116148034319375,0.00340877076156693,juggat pharma,0.00295,2
+dolodart ds suspension 60 ml,paracetamol-250mg,bottle | suspension,60 ml,0.002753233448584966,0.003028595576841809,juggat pharma ltd,0.00295,2
+dolodart suspension 60ml,paracetamol / acetaminophen(120.0 mg/5ml),bottle,60 ml,0.002195543603534383,0.002763673500749145,juggat pharma,0.00295,2
+dolodase tablet,diclofenac (na),strip,1001 tablet,0.0026892047637341525,0.0032767099079255724,lancer health care pvt ltd,0.05,4
+dolodil injection 2ml,piroxicam(20.0 mg),injection,2 ml,0.0036899731079523624,0.0040250547452266,madhav labs,5e-05,4
+dolodol injection,tramadol,injection,2 ml,0.0036899731079523624,0.0040250547452266,ethix healthcare,5e-05,2
+dolodol micro lab 50 mg capsule 10,tramadol(50.0 mg),strip,10 ml,0.003017031630170316,0.0033191294548527957,micro labs,0.00045,4
+doloend mr strip of 10 tablets,aceclofenac(100.0 mg) + thiocolchicoside(4.0 mg),strip,10 tablet,0.008964015879113843,0.009860543738554725,denzai innovations & therapeutics pvt ltd,0.00045,4
+doloendmr tablet,aceclofenac-100mg + thiocolchicoside-4mg,strip | tablet,10 tablet,0.0074913561275451405,0.008240597267220736,denzai innovation & therapeutics pvt ltd,0.00045,2
+doloendmr tablet,aceclofenac (na) + thiocolchicoside (na),strip,1001 tablet,0.0074913561275451405,0.009063376403846893,denzai innovations & therapeutics pvt ltd,0.05,4
+doloend p strip of 10 tablets,aceclofenac(100.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.0016455372006658983,0.001810434248101525,denzai innovations & therapeutics pvt ltd,0.00045,4
+doloendp tablet,aceclofenac (na) + paracetamol (na),strip,1001 tablet,0.0016455372006658983,0.0020121271882083264,denzai innovations & therapeutics pvt ltd,0.05,4
+doloend sp strip of 10 tablets,aceclofenac(100.0 mg) + serratiopeptidase(15.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.005602509924446152,0.006162839836596705,denzai innovations & therapeutics pvt ltd,0.00045,4
+doloendsp tablet,aceclofenac (100mg) + paracetamol (325mg) + serratiopeptidase (15mg),strip,1001 tablet,0.005762581636573185,0.006998424874182024,denzai innovations & therapeutics pvt ltd,0.05,4
+doloendsp tablet 10s,aceclofenac-100mg + paracetamol-325mg + serratiopeptidase-15mg,strip | tablet,10 tablet,0.005602509924446152,0.006166041311836495,denzai innovations & therapeutics,0.00045,2
+dolofabsp tablet,aceclofenac (100mg) + paracetamol (325mg) + serratiopeptidase (15mg),strip,1001 tablet,0.005122294788065054,0.006222067128532828,smartway wellness,0.05,4
+dolofab tablet,aceclofenac (100mg) + paracetamol (325mg),strip,1001 tablet,0.002817262133435779,0.003428779981815621,smartway wellness,0.05,4
+dolofan 20mg injection,piroxicam (20mg),other,201 ml,0.0011512357536176208,0.0014118505807476085,acto pharma pvt ltd,0.01,2
+dolofan injection,piroxicam,injection,2 ml,0.0010884876424638239,0.0011973517396816453,united biotech pvt ltd,5e-05,2
+dolofen suspension,ibuprofen (100mg) + paracetamol (162.5mg),bottle,5001 ml,0.0006915097963887823,0.0008515924137842718,oyster labs ltd,0.25,0
+dolofenac tablets,diclofenac sodium + paracetamol,strip,10 tablet,0.0012165450121654502,0.0013382166502324273,parenteral drugs india ltd,0.00045,4
+dolofin mr 250mg/50mg/500mg tablet,chlorzoxazone-250mg + diclofenac-50mg + paracetamol-500mg,strip | tablet,10 tablet,0.0037040594186195414,0.0040745175376813636,lancer health care pvt ltd,0.00045,2
+dolofin plus 50 mg/500 mg tablet,diclofenac-50mg + paracetamol-500mg,strip | tablet,10 tablet,0.0007843513894224613,0.0008627975771235384,lancer health care pvt ltd,0.00045,2
+dolofirst 650mg tablet,paracetamol (650mg),strip,1501 tablet,0.0014086310667178897,0.001723994416627182,entod pharmaceuticals ltd,0.07500000000000001,4
+dolofirst 650 mg tablet 15s,paracetamol-650mg,strip | tablet,15 tablet,0.0018248175182481751,0.0020073249753486404,entod pharmaceuticals ltd,0.0007,2
+dolofirst tablet,tramadol(37.5 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.003278268664361634,0.003606461857623993,entod pharmaceuticals pvt ltd,0.00045,4
+doloflam gel 30 gm,diclofenac sodium-1% + linseed oil-3% + menthol-5% + methyl salicylate-10%,tube | gel,30 ml,0.004353950569855295,0.004789406958726582,mudransh pharma,0.0014500000000000001,2
+doloflam mr 100mg tablets,nimesulide + tizanidine,strip,10 tablet,0.004994237418363427,0.005493731511480491,vilco laboratories pvt ltd,0.00045,4
+doloflam plus 100mg tablets,nimesulide + paracetamol,strip,10 tablet,0.0,0.0,vilco laboratories pvt ltd,0.00045,4
+doloflam tablet,nimesulide (na),strip,1001 tablet,0.0004674093994109362,0.0005794670184020797,vilco laboratories pvt ltd,0.05,4
+doloflam tablets,diclofenac + paracetamol,strip,10 tablet,0.0009604302727621976,0.0010564868291308637,vilco laboratories pvt ltd,0.00045,4
+doloflex 100mg/500mg/250mg tablet mr,aceclofenac (100mg) + paracetamol (500mg) + chlorzoxazone (250mg),strip,1001 tablet,0.004994237418363427,0.00606999705464278,nova indus pharmaceuticals,0.05,4
+doloflex gel 30 gm,diclofenac diethylamine-1.16%w/w + linseed oil-3%w/w + menthol-5%w/w + methyl salicylate-10%w/w,tube | gel,30 ml,0.005314380842617493,0.005845893787857445,nova indus pharmaceuticals,0.0014500000000000001,2
+doloflex mr strip of 10 tablets,chlorzoxazone(250.0 mg) + aceclofenac(100.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.004994237418363427,0.005493731511480491,nova indus pharmaceuticals,0.00045,4
+doloflexmr tablet,aceclofenac (100mg) + paracetamol (325mg) + chlorzoxazone (250mg),strip,1001 tablet,0.004994237418363427,0.005448910858123424,nova indus pharmaceuticals,0.05,4
+doloflexmr tablet 10s,aceclofenac-100mg + chlorzoxazone-250mg + paracetamol-325mg,strip | tablet,10 tablet,0.004994237418363427,0.005493731511480491,nova indus pharmaceuticals,0.00045,2
+doloflex oral suspension,ibuprofen (100mg) + paracetamol (125mg),bottle,6001 ml,0.0022410039697784603,0.0027324591171611875,stride healthcare,0.30000000000000004,0
+doloflexp oral suspension,aceclofenac (50mg) + paracetamol (125mg),bottle,6001 ml,0.0035856063516455368,0.0039074005301643,nova indus pharmaceuticals,0.30000000000000004,0
+doloflex p strip of 10 tablets,aceclofenac(100.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.0005762581636573184,0.0007395407803916045,nova indus pharmaceuticals,0.00045,4
+doloflexp tablet,aceclofenac (100mg) + paracetamol (325mg),strip,1001 tablet,0.0025611473940325264,0.0031166361459360474,nova indus pharmaceuticals,0.05,4
+doloflex plus tablet,aceclofenac (100mg) + paracetamol (325mg),strip,1001 tablet,0.0026251760788833394,0.0031966730269308097,stride healthcare,0.05,4
+doloflexsp tablet 10s,aceclofenac-100mg + paracetamol-325mg + serratiopeptidase-15mg,strip | tablet,10 tablet,0.006146753745678064,0.006761515706437527,nova indus pharmaceuticals,0.00045,2
+doloflex t 100mg/4mg tablet,aceclofenac (100mg) + thiocolchicoside (4mg),strip,1001 tablet,0.010436675630682546,0.012665036048611201,stride healthcare,0.05,4
+doloflex tube of 30gm gel,diclofenac(1.16 %w/w) + linseed oil(3.0 %w/w) + menthol(5.0 %w/w) + methyl salicylate(10.0 %w/w),tube,30 ml,0.0044820079395569215,0.005621790521072111,nova indus pharmaceuticals,0.0014500000000000001,1
+doloforce 40mg injection,piroxicam (40mg),other,201 ml,0.002366500192086054,0.00260359973875962,mankind pharma ltd,0.01,2
+doloforce ampoule of 2ml injection,piroxicam(20.0 mg),ampoule,2 ml,0.002077730823408887,0.0026164056397187828,mankind pharmaceuticals ltd,5e-05,4
+doloforce dt 10mg strip of 10 tablets,piroxicam(10.0 mg),strip,10 tablet,0.0048053527980535275,0.005285635620894108,mankind pharmaceuticals ltd,0.00045,4
+doloforce dt 10mg tab 1x10,piroxicam 20 mg,strip tablet,10 ml,0.005220898962735306,0.005542554008887296,mankind pharma ltd,0.00045,2
+doloforce dt 20mg strip of 10 tablets,piroxicam(20.0 mg),strip,10 tablet,0.005220898962735306,0.006077200373932308,mankind pharmaceuticals ltd,0.00045,4
+doloforce dt tablet,piroxicam (20mg),strip,1001 tablet,0.005220898962735306,0.00526162455659568,mankind pharma ltd,0.05,4
+doloforce dt tablet 10s,piroxicam-20mg,strip | tablet,10 tablet,0.005218337815341273,0.005741845842564254,mankind pharma pvt ltd,0.00045,2
+doloforce injection 4 x 2 ml,piroxicam-40mg,box | injection,42 ml,0.008932001536688437,0.009823726773297136,mankind pharma pvt ltd,0.00205,2
+doloforce plus injection,piroxicam(20.0 mg),injection,1 ml,0.0019336662824945576,0.0024363226574805673,mankind pharmaceuticals ltd,0.0,4
+doloforce plus tablet,paracetamol-325mg + piroxicam-20mg,strip | tablet,10 tablet,0.00258035599948777,0.002838427947598253,windlas biotech pvt ltd,0.00045,2
+doloforte tablet 10s,paracetamol-500mg,strip | tablet,10 tablet,0.0024971187091817133,0.002746865755740245,micro labs ltd,0.00045,2
+dolofresh 100mg/325mg tablet,aceclofenac (100mg) + paracetamol (325mg),strip,1001 tablet,0.0026892047637341525,0.003340739412721382,smart laboratories pvt ltd,0.05,4
+dolofresh alu strip of 10 tablets,aceclofenac(100.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.0030733768728390316,0.0032607025317266196,smart laboratories pvt ltd,0.00045,4
+dolofresh mr 100mg/325mg/250mg tablet,aceclofenac (100mg) + paracetamol (325mg) + chlorzoxazone (250mg),strip,1001 tablet,0.005314380842617493,0.00645417408341764,smart laboratories pvt ltd,0.05,4
+dolofresh mr strip of 10 tablets,chlorzoxazone(250.0 mg) + aceclofenac(100.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.005314380842617493,0.005641799741320801,smart laboratories pvt ltd,0.00045,4
+dolofresh oral suspension,aceclofenac (50mg) + paracetamol (125mg),bottle,6001 ml,0.0024330900243309,0.0029645660720459986,smart laboratories pvt ltd,0.30000000000000004,0
+dolofresh sp 100/500/15 mg tablet 10,piroxicam(20.0 mg),strip,10 tablet,0.004353950569855295,0.005461716759082586,smart laboratories pvt ltd,0.00045,4
+dolofresh sp 100mg/325mg/15mg tablet,aceclofenac (100mg) + paracetamol (325mg) + serratiopeptidase (15mg),strip,1001 tablet,0.005314380842617493,0.00645417408341764,smart laboratories pvt ltd,0.05,4
+dolofresh sp strip of 10 tablets,aceclofenac(100.0 mg) + serratiopeptidase(15.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.005506466897169932,0.005845893787857445,smart laboratories pvt ltd,0.00045,4
+dolofresh strip of 10 tablets,aceclofenac(100.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.0029453195031374055,0.003124639834035523,smart laboratories pvt ltd,0.00045,4
+dolofresh tablet 10s,aceclofenac-100mg + paracetamol-325mg,strip | tablet,10 tablet,0.0026892047637341525,0.0029581631215664177,smart laboratories pvt ltd,0.00045,2
+dologaba 300mg strip of 10 tablets,gabapentin(300.0 mg),strip,10 tablet,0.011461134588295556,0.01434581054950121,arwana pharmaceuticals,0.00045,4
+dologel,choline salicylate (8.7% w/w) + lidocaine (2% w/w),other,1501 ml,0.006851069279037008,0.006990421186082547,dr. reddy's laboratories ltd,0.07500000000000001,4
+dologel 15 gm,benzalkonium chloride-0.01%w/w + choline salicylate-8.7%w/w + lignocaine hydrochloride-2%w/w,tube | mouth gel,15 ml,0.006851069279037008,0.007534671976846932,dr. reddy's laboratories ltd,0.0007,2
+dologel ct gel 10gm,choline salicylate(8.7 %) + lidocaine / lignocaine(2.0 %),tube,10 ml,0.006466897169932129,0.007113677982814481,dr. reddy's laboratories ltd,0.00045,1
+dologel ct gel 10 gm,benzalkonium chloride-0.01%w/w + choline salicylate-8.7% w/w + lignocaine hydrochloride-2%w/w,tube | mouth gel,10 ml,0.006466897169932129,0.007110476507574691,dr. reddy's laboratories ltd,0.00045,2
+dologel ct tube 10gm,benzalkonium chloride 0.01 %w/w + choline salicylate 8.7 %w/w + lignocaine 2 %w/w,tube gel,10 ml,0.006466897169932129,0.006866364020540665,dr. reddy's laboratories ltd,0.00045,2
+dologel gel 15gm,choline salicylate(8.7 %) + lidocaine / lignocaine(2.0 %),tube,15 ml,0.006851069279037008,0.007536272714466827,dr. reddy's laboratories ltd,0.0007,1
+dologen plus 325mg/20mg tablet,paracetamol (325mg) + piroxicam (20mg),strip,1001 tablet,0.007875528236650019,0.009543597689815468,zerico lifesciences pvt ltd,0.05,4
+dologen strip of 10 tablets,tramadol(37.5 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.003969778460750416,0.004981495473114011,zerico lifesciences pvt ltd,0.00045,4
+dologen tablet 10s,acetaminophen + tramadol,strip | tablet,10 tablet,0.004898194391087208,0.0053880828285674046,zerico lifesciences pvt ltd,0.00045,2
+dologen xt 50mg/50mg tablet,eperisone (50mg) + diclofenac (50mg),strip,1001 tablet,0.012677679600461006,0.015386290002433122,zerico lifesciences pvt ltd,0.05,4
+dologen xt strip of 10 tablets,diclofenac sodium + eperisone,strip,10 tablet,0.012677679600461006,0.015866511288401695,zerico lifesciences pvt ltd,0.00045,4
+dologesic gold tablets,diclofenac sodium + paracetamol,strip,10 tablet,0.001152516327314637,0.0012677841949570363,micro labs,0.00045,4
+dologesic sp strip of 10 tablets,diclofenac(50.0 mg) + serratiopeptidase(10.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.005669740043539506,0.006019573819616079,micro labs,0.00045,4
+dologesic strip of 10 tablets,diclofenac(50.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.0024010756819054934,0.0030205918887423323,micro labs,0.00045,4
+dologin 500mg tablet,mefenamic acid (500mg),strip,1001 tablet,0.025200409783583042,0.030593297391437974,opal labs pvt ltd,0.05,4
+dologlan 1000mg infusion,paracetamol (1000mg),bottle,10001 ml,0.01991292098860289,0.02168519253672092,gland pharma ltd,0.5,0
+dologlan bottle of 100ml infusion,paracetamol / acetaminophen(1.0 g),bottle,100 ml,0.021641695479574848,0.023806169883082123,gland pharma ltd,0.00495,1
+doloid strip of 10 tablets,piroxicam(20.0 mg),strip,10 tablet,0.001152516327314637,0.0012677841949570363,novartis india ltd,0.00045,4
+doloid suspension 60ml,paracetamol + propoxyphene,bottle,60 ml,0.0036899731079523624,0.0040250547452266,novartis india ltd,0.00295,2
+doloja aq 75mg injection,diclofenac-75mg,vial | injection,1 ml,0.0013439620950185683,0.0014783772362304552,ajapa pharma pvt ltd,0.0,2
+dolojoy tablet 10s,codeine-30mg + paracetamol-650mg,strip | tablet,10 tablet,0.009796388782174413,0.010776165657134809,winmark healthcare pvt ltd,0.00045,2
+dolojust strip of 10 tablets,diclofenac(50.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.0013778972979894993,0.0017416025304460296,mankind pharmaceuticals ltd,0.00045,4
+dolojust tablet 10s,diclofenac-50mg + paracetamol-500mg,strip | tablet,10 tablet,0.0015046740939941093,0.0016519612237318956,mankind pharma pvt ltd,0.00045,2
+dolokam 20mg tablet dt,piroxicam (20mg),strip,1001 tablet,0.002208989627353054,0.0026924406766638065,cadila pharmaceuticals ltd,0.05,4
+dolokam dt 20mg tablets,piroxicam(20.0 mg),strip,10 tablet,0.0018568318606735819,0.0020425412029863362,zydus healthcare ltd,0.00045,4
+doloket 05 eye drop,ketorolac (0.5% w/v),other,501 ml,0.0036899731079523624,0.002780481245758045,fdc ltd,0.025,4
+doloket eye drops 5ml,ketorolac(0.5 %),bottle,5 ml,0.002208989627353054,0.0024299197070009855,fdc ltd,0.0002,2
+doloket ls eye drops 5ml,ketorolac(0.4 %),bottle,5 ml,0.0024330900243309,0.002676433300464854,fdc ltd,0.0002,2
+doloketls eye drops 5 ml,ketorolac-0.4%w/v,bottle | eye drops,5 ml,0.002208989627353054,0.0024299197070009855,fdc ltd,0.0002,2
+doloket o eye drop,ofloxacin (0.3% w/v) + ketorolac (0.4% w/v),other,501 ml,0.0032251248559354586,0.0035184212885297542,fdc ltd,0.025,4
+doloket o eye drops 5ml,ketorolac(4.0 mg) + ofloxacin(3.0 mg),bottle,5 ml,0.0032251248559354586,0.0035480349344978166,fdc ltd,0.0002,2
+dolokim capsule 10,piroxicam(20.0 mg),strip,10 ml,0.0036899731079523624,0.0040250547452266,kim laboratories,0.00045,4
+dolokind 100mg strip of 10 tablets,aceclofenac(100.0 mg),strip,10 tablet,0.002356255602509924,0.002591594206610406,mankind pharmaceuticals ltd,0.00045,4
+dolokind 100mg tablet,aceclofenac (100mg),strip,1001 tablet,0.002356255602509924,0.0023082636478889474,mankind pharma ltd,0.05,4
+dolokind aa strip of 10 tablets,aceclofenac(100.0 mg) + serratiopeptidase(15.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.006562940197208349,0.0072193266657275676,mankind pharmaceuticals ltd,0.00045,4
+dolokind aa tablet,aceclofenac (100mg) + paracetamol (325mg) + serratiopeptidase (15mg),strip,1001 tablet,0.0072320399538993475,0.007278553957663692,mankind pharma ltd,0.05,4
+dolokindaa tablet 10s,aceclofenac-100mg + paracetamol-325mg + serratiopeptidase-15mg,strip | tablet,10 tablet,0.007203227045716481,0.007926852693721268,mankind pharma pvt ltd,0.00045,2
+dolokind aq ampoule of 1ml injection,diclofenac sodium(75.0 mg/ml),ampoule,1 ml,0.0019778460750416184,0.0021754024254376416,mankind pharmaceuticals ltd,0.0,1
+dolokind aqua 75mg injection,diclofenac (75mg),other,101 ml,0.0021878601613522855,0.0018904711290962876,mankind pharma ltd,0.005000000000000001,2
+dolokind aqua injection 1s,diclofenac-75mg,vial | injection,1 ml,0.0021769752849276473,0.002396304216983186,mankind pharma pvt ltd,0.0,2
+dolokind eye drops 5ml,carmellose + flurbiprofen,bottle,5 ml,0.003365987962607248,0.0037025061148177082,mankind pharmaceuticals ltd,0.0002,1
+dolokind eye drops 5ml,flurbiprofen-0.03mg/5ml + hypromellose-0.25% w/v,bottle | eye drops,5 ml,0.00374567806377257,0.004120298633610368,mankind pharma pvt ltd,0.0002,2
+dolokind gel 15gm,methylsalicylate(5.0 %) + menthol(5.0 %) + capsaicin(0.025 %) + diclofenac(1.16 %),tube,15 ml,0.005295172237162249,0.005825084198798808,mankind pharmaceuticals ltd,0.0007,1
+dolokind gel 20 gm,capsaicin-0.025%w/w + diclofenac-1%w/w + menthol-5%w/w + methyl salicylate-5%w/w,tube | gel,20 ml,0.005826610321423998,0.006406151954820782,mankind pharma pvt ltd,0.00095,2
+dolokind gel 30gm,methylsalicylate(5.0 %) + menthol(5.0 %) + capsaicin(0.025 %) + diclofenac(1.16 %),tube,30 ml,0.002432449737482392,0.0026756329316549063,mankind pharmaceuticals ltd,0.0014500000000000001,1
+dolokind m tablet,aceclofenac (100mg) + paracetamol (325mg) + chlorzoxazone (250mg),strip,1001 tablet,0.002311435523114355,0.00281249599815595,mankind pharma ltd,0.05,4
+dolokind mr strip of 10 tablets,chlorzoxazone(250.0 mg) + aceclofenac(100.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.00515430913049046,0.00553775179602761,mankind pharmaceuticals ltd,0.00045,4
+dolokindmr tablet 10s,aceclofenac-100mg + chlorzoxazone-250mg + paracetamol-325mg,strip | tablet,10 tablet,0.00515430913049046,0.005669812649668968,mankind pharma pvt ltd,0.00045,2
+dolokind ortho tablets,aceclofenac + glucosamine + methyl sulfonylmethane,strip,10 tablet,0.002356255602509924,0.002591594206610406,mankind pharmaceuticals ltd,0.00045,4
+dolokind plus strip of 10 tablets,aceclofenac(100.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.0046933025995646045,0.005162378824162175,mankind pharmaceuticals ltd,0.00045,4
+dolokind plus strip of 15 tablets,aceclofenac(100.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,15 tablet,0.0046933025995646045,0.005162378824162175,mankind pharmaceuticals ltd,0.0007,4
+dolokind plus tablet 15s,aceclofenac-100mg + paracetamol-325mg,strip | tablet,15 tablet,0.0046740939941093615,0.005141569235103536,mankind pharma pvt ltd,0.0007,2
+dolokind spas h 10 mg tablet 10,hyoscyamine + paracetamol,strip,30 tablet,0.002006018696375976,0.002206616809025599,mankind pharmaceuticals ltd,0.0014500000000000001,4
+dolokind spas inj 1ml,hyoscine butylbromide 20 mg /ml,vial injection,1 ml,0.0005333589448072737,0.0005618589045832319,mankind pharma ltd,0.0,2
+dolokind spas injection,butylscopolamine(20.0 mg),ampoule,1 ml,0.0005333589448072737,0.0005866703376916084,mankind pharmaceuticals ltd,0.0,1
+dolokind spas injection 2 ml,scopolamine(20.0 mg),injection,2 ml,0.0005756178768088104,0.0007387404115816569,mankind pharmaceuticals ltd,5e-05,1
+dolokind spas rf strip of 10 tablets,hyoscine(10.0 mg) + paracetamol / acetaminophen(500.0 mg),strip,10 tablet,0.0014726597515687027,0.0018600571143182777,mankind pharmaceuticals ltd,0.00045,4
+dolokind spas rf tablet 10s,hyoscine butylbromide-10mg + paracetamol-500mg,strip | tablet,10 tablet,0.0014726597515687027,0.0016199464713339909,mankind pharma pvt ltd,0.00045,2
+dolokind spas tab 1x10,hyoscine butylbromide 10 mg+paracetamol/acetaminophen 500 mg,strip,10 ml,0.0014726597515687027,0.001559918810587919,mankind pharma ltd,0.00045,4
+dolokind spas tablet 10s,hyoscine butylbromide-10mg + paracetamol-500mg,strip | tablet,10 tablet,0.0016327314636957356,0.001796027609522468,mankind pharma pvt ltd,0.00045,2
+dolokind sr 200mg strip of 10 tablets,aceclofenac(200.0 mg),strip,10 tablet,0.00432129594058138,0.004753390362278938,mankind pharmaceuticals ltd,0.00045,4
+dolokind sr tab 1x10,aceclofenac 200 mg sustained release,strip tablet,10 ml,0.0029120245870149822,0.0030894236063978278,mankind pharma ltd,0.00045,2
+dolokind sr tablet 10s,aceclofenac-200mg,strip | tablet,10 tablet,0.004289921885004482,0.0047173737658312955,mankind pharma pvt ltd,0.00045,2
+dolokind tablet 10s,aceclofenac-100mg,strip | tablet,10 tablet,0.0023370469970546803,0.002572385355171663,mankind pharma pvt ltd,0.00045,2
+dolokind tube of 20gm gel,capsaicin(0.025 %w/w) + menthol(5.0 %w/w) + diclofenac sodium(1.0 %w/w) + methyl salicylate(5.0 %w/w),tube,20 ml,0.005837495197848637,0.006719896528320251,mankind pharmaceuticals ltd,0.00095,1
+dolokoff dx syrup 100 ml,dextromethorphan,bottle,100 ml,0.005634524266871559,0.007062454378977834,micro labs,0.00495,4
+dolokoffdx syrup 100 ml,dexchlorpheniramine-4mg + dextromethorphan-10mg,bottle | syrup,100 ml,0.0051575105647330005,0.005673334272432738,micro labs ltd,0.00495,2
+dolokoff syrup 100ml,chlorpheniramine + codeine,bottle,100 ml,0.0043219362274298885,0.004754190731088886,micro labs,0.00495,4
+dolokoff syrup 60ml,chlorpheniramine + codeine,bottle,60 ml,0.002489435266999616,0.002738061698830821,micro labs,0.00295,4
+dololax 100mg tablet,aceclofenac (100mg),strip,1001 tablet,0.0016647458061211423,0.001811234616911473,alpa laboratories ltd,0.05,4
+dololax tablet,aceclofenac(100.0 mg),strip,10 tablet,0.00047381226789601743,0.0005210400952759031,helax healthcare,0.00045,4
+dololsac dr capsules,diacerein,strip,10 ml,0.0072352413881418874,0.007958867446119173,cipla ltd,0.00045,4
+dololup 20mg injection 2ml,piroxicam(20.0 mg),injection,2 ml,0.000384172109104879,0.00042259473165234547,lupin,5e-05,4
+dololup 20mg tablet dt,piroxicam (20mg),strip,1001 tablet,0.0002798053527980535,0.000355363751616745,lupin ltd,0.05,4
+dololup dt 20 mg strip of 10 tablets,piroxicam(20.0 mg),strip,10 tablet,0.0002798053527980535,0.0003081419918298352,lupin,0.00045,4
+dolomade sp 100mg/325mg/15mg tablet,aceclofenac (100mg) + paracetamol (325mg) + serratiopeptidase (15mg),strip,1001 tablet,0.006210782430528877,0.006774321607396689,made inn healthcare pvt ltd,0.05,4
+dolomade th 4mg/100mg/325mg tablet,thiocolchicoside (4mg) + aceclofenac (100mg) + paracetamol (325mg),strip,1001 tablet,0.009412216673069535,0.011384445952695003,made inn healthcare pvt ltd,0.05,4
+dolomark ds bottle of 60ml suspension,paracetamol / acetaminophen(250.0 mg),bottle,60 ml,0.002407478550390575,0.0026484203921166875,unimarck pharma india ltd,0.00295,2
+dolomark oral suspension,ibuprofen (100mg) + paracetamol (125mg),bottle,6001 ml,0.0020815725444999354,0.002540370602773758,mcw healthcare,0.30000000000000004,0
+dolomas 100mg/325mg/250mg tablet mr,aceclofenac (100mg) + paracetamol (325mg) + chlorzoxazone (250mg),strip,1001 tablet,0.004610065309258548,0.005597779456773682,mas life science,0.05,4
+dolomas 200mg tablet sr,aceclofenac (200mg),strip,1001 tablet,0.003201434242540658,0.00348960801137164,mas life science,0.05,4
+dolomas p 100mg/325mg tablet,aceclofenac (100mg) + paracetamol (325mg),strip,1001 tablet,0.0026251760788833394,0.0028629192331826505,mas life science,0.05,4
+dolomas sp 100mg/325mg/10mg tablet,aceclofenac (100mg) + paracetamol (325mg) + serratiopeptidase (10mg),strip,1001 tablet,0.005826610321423998,0.00635652908860403,mas life science,0.05,4
+dolomax 650mg tablet,doxofylline (650mg),strip,1001 tablet,0.007939556921500833,0.00962363457081023,arist health care,0.05,4
+dolomec 90 tablet,etoricoxib (90mg),strip,1001 tablet,0.007171212703291074,0.008743228879867844,mcw healthcare,0.05,4
+dolomec ace tablet,aceclofenac (100mg) + paracetamol (325mg),strip,1001 tablet,0.0018888462030989884,0.002300259959789471,mcw healthcare,0.05,4
+dolomec ace tablets,aceclofenac(100.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.0020393136124983993,0.0022434337742831896,mcw healthcare,0.00045,4
+dolomec mf plus suspension 60ml,mefenamic acid + paracetamol,bottle,60 ml,0.0022410039697784603,0.002376294996734495,mcw healthcare,0.00295,2
+dolomec mf suspension 60ml,mefenamic acid + paracetamol,bottle,60 ml,0.0017358176463055448,0.0019096799805350306,mcw healthcare,0.00295,2
+dolomec mf syrup,mefenamic acid (50mg/5ml) + paracetamol (125mg/5ml),other,6001 ml,0.001687155845818927,0.002060149316805184,mcw healthcare,0.30000000000000004,0
+dolomec mr tablet,etoricoxib (60mg) + thiocolchicoside (4mg),strip,1001 tablet,0.013446023818670765,0.01634673257437027,mcw healthcare,0.05,4
+dolomec relief gel 30 gm,piroxicam(20.0 mg),tube,30 ml,0.00384172109104879,0.004225947316523455,mcw healthcare,0.0014500000000000001,4
+dolomec sp tablet,aceclofenac-100mg + paracetamol-325mg + serratiopeptidase-15mg,strip | tablet,10 tablet,0.004341144832885132,0.0047753204676715035,mcw healthcare,0.00045,2
+dolomec sp tablets,aceclofenac + paracetamol + serratiopeptidase,strip,10 tablet,0.004341144832885132,0.0047750003201475245,mcw healthcare,0.00045,4
+dolomec strip of 10 tablets,ibuprofen(400.0 mg) + methionine(50.0 mg) + paracetamol / acetaminophen(500.0 mg),strip,10 tablet,0.0005922653348700218,0.000651500211297366,mcw healthcare,0.00045,4
+dolomec suspension,ibuprofen-100mg + paracetamol-162.5mg,bottle | suspension,60 ml,0.001178127801254962,0.0012959571770671929,mcw healthcare,0.00295,2
+dolomec suspension 60 ml,piroxicam(20.0 mg),bottle,60 ml,0.001178127801254962,0.0014918874617423708,mcw healthcare,0.00295,4
+dolomed 100 mg/125 mg suspension,ibuprofen (100mg) + paracetamol (125mg),bottle,6001 ml,0.000573697016263286,0.0007075260279936995,comed chemicals ltd,0.30000000000000004,0
+dolomed 100 mg/125 mg syrup,ibuprofen (100mg) + paracetamol (125mg),other,5001 ml,0.000573697016263286,0.0007075260279936995,comed chemicals ltd,0.25,0
+dolomed 100mg suspension 60ml,ibuprofen + paracetamol,bottle,60 ml,0.000573697016263286,0.0006306906222387277,comed chemicals pvt ltd,0.00295,2
+dolomed 400/325 mg strip of 10 tablets,ibuprofen(400.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.0008003585606351645,0.0010196698638732728,comed chemicals pvt ltd,0.00045,4
+dolomed 400mg/325mg tablet,ibuprofen (400mg) + paracetamol (325mg),strip,1001 tablet,0.0008003585606351645,0.0009876551114753678,comed chemicals ltd,0.05,4
+dolomed 600mg tablet,ibuprofen(600.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.000889998719426303,0.0011317214972659403,comed chemicals pvt ltd,0.00045,4
+dolomed 650mg strip of 10 tablets,paracetamol / acetaminophen(650.0 mg),strip,10 tablet,0.0008003585606351645,0.0010196698638732728,comed chemicals pvt ltd,0.00045,4
+dolomed 650mg strip of 15 tablets,paracetamol / acetaminophen(650.0 mg),strip,15 tablet,0.0018440261237034192,0.0020281345644072787,comed chemicals pvt ltd,0.0007,4
+dolomed 650mg tablet,paracetamol (650mg),strip,1501 tablet,0.0020169035728006142,0.0018544545326486448,comed chemicals ltd,0.07500000000000001,4
+dolomed650 tablet 15s,paracetamol-650mg,strip | tablet,15 tablet,0.0020169035728006142,0.0022202230787947085,comed chemicals ltd,0.0007,2
+dolomed d tablet,ibuprofen(400.0 mg) + paracetamol / acetaminophen(500.0 mg),strip,10 tablet,0.0008003585606351645,0.0008804056909423863,comed chemicals pvt ltd,0.00045,4
+dolomed gel 30gm,pain relif,tube,30 ml,0.0018888462030989884,0.002077757430624031,comed chemicals pvt ltd,0.0014500000000000001,1
+dolomedibu tablet 10s,ibuprofen-400mg + paracetamol-325mg,strip | tablet,10 tablet,0.0009604302727621976,0.0010516846162711777,comed chemicals ltd,0.00045,2
+dolomed mr strip of 10 tablets,chlorzoxazone(250.0 mg) + ibuprofen(400.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.0010340632603406325,0.0013118044795041555,comed chemicals pvt ltd,0.00045,4
+dolomed mr tablet,ibuprofen (400mg) + paracetamol (325mg) + chlorzoxazone (250mg),strip,1001 tablet,0.0014118325009604303,0.0016999833523287532,comed chemicals ltd,0.05,4
+dolomed mr tablet 10s,chlorzoxazone-250mg + ibuprofen-400mg + paracetamol-325mg,strip | tablet,10 tablet,0.0014086310667178897,0.0015479132784387048,comed chemicals ltd,0.00045,2
+dolomed strip of 10 tablets,ibuprofen(400.0 mg) + paracetamol / acetaminophen(500.0 mg),strip,10 tablet,0.000889998719426303,0.0011317214972659403,comed chemicals pvt ltd,0.00045,4
+dolomed strip of 20 tablets,ibuprofen + paracetamol,strip,20 tablet,0.0008374951978486362,0.0009212245002497151,comed chemicals pvt ltd,0.00095,4
+dolomed t 100mg injection,tramadol(100.0 mg),injection,2 ml,0.0008323729030605712,0.0009156219185800817,comed chemicals pvt ltd,5e-05,2
+dolomed t 375 mg capsule 10,piroxicam(20.0 mg),strip,10 ml,0.00627481111537969,0.006902380616988309,comed chemicals pvt ltd,0.00045,4
+dolomed t 50mg injection,tramadol(50.0 mg),injection,1 ml,0.0006402868485081317,0.000704324552753909,comed chemicals pvt ltd,0.0,2
+dolomed t sr 100mg tablets,tramadol(50.0 mg),strip,10 tablet,0.00627481111537969,0.006902380616988309,comed chemicals pvt ltd,0.00045,4
+dolomedt tablet 10s,paracetamol-325mg + tramadol-37.5mg,strip | tablet,10 tablet,0.0032974772698168777,0.003628872184302527,comed chemicals ltd,0.00045,2
+dolomed tablet 10s,ibuprofen-400mg + paracetamol-325mg,strip | tablet,10 tablet,0.0008643872454859778,0.0009476366709779867,comed chemicals ltd,0.00045,2
+dolomeg 200mg/325mg tablet,diclofenac (200mg) + paracetamol (325mg),strip,1001 tablet,0.0029453195031374055,0.0035808500557056692,egzeon pharmaceuticals pvt ltd,0.05,4
+dolomeg mr 250mg/200mg/325mg tablet,chlorzoxazone (250mg) + diclofenac (200mg) + paracetamol (325mg),strip,1001 tablet,0.003393520297093097,0.004125100846470053,egzeon pharmaceuticals pvt ltd,0.05,4
+dolomeg sp 200mg/325mg/10mg tablet,diclofenac (200mg) + paracetamol (325mg) + serratiopeptidase (10mg),strip,1001 tablet,0.0046740939941093615,0.005677816337768445,egzeon pharmaceuticals pvt ltd,0.05,4
+dolomeg th 4mg/200mg tablet,thiocolchicoside (4mg) + diclofenac (200mg),strip,1001 tablet,0.01152516327314637,0.0139456261445274,egzeon pharmaceuticals pvt ltd,0.05,4
+dolomet 500mg tablet,paracetamol (500mg),strip,1001 tablet,0.00032014342425406585,0.0002833305587214588,symet drugs ltd,0.05,4
+dolomide tablet 10s,nimesulide-100mg + paracetamol-500mg,strip | tablet,10 tablet,0.003201434242540658,0.003524824239009335,ranbaxy pharma ltd,0.00045,2
+dolomine 500mg tablets,paracetamol / acetaminophen(500.0 mg),strip,10 tablet,0.0046420796516839545,0.0051063530074658406,cassel research laboratories,0.00045,4
+dolomine 650mg tablet,paracetamol / acetaminophen(650.0 mg),strip,10 tablet,0.0010244589576130106,0.001083699368669083,cassel research laboratories,0.00045,4
+dolomine 650 mg tablet 10s,paracetamol-650mg,strip | tablet,10 tablet,0.0010244589576130106,0.0011269192844062545,cassel research laboratories pvt ltd,0.00045,2
+dolomine plus tablets,aceclofenac + paracetamol,strip,10 tablet,0.0012030989883467793,0.0012733867766266697,cassel research laboratories,0.00045,4
+dolomol 125mg oral suspension,piroxicam(20.0 mg),bottle | suspension,60 ml,0.0012325521833781534,0.0013558247640512748,micro labs ltd,0.00295,2
+dolomol 125 mg syrup 60 ml,paracetamol / acetaminophen(125.0 mg),bottle,60 ml,0.0007523370469970546,0.0009596422031272012,micro labs,0.00295,4
+dolomol 250mg bottle of 60ml suspension,paracetamol / acetaminophen(250.0 mg/5ml),bottle,60 ml,0.0022864643360225377,0.0024243171253313526,micro labs,0.00295,4
+dolomol 500mg tablet,paracetamol / acetaminophen(500.0 mg),strip,10 tablet,0.0005096683314124729,0.0006563024241570517,micro labs,0.00045,4
+dolomol 650 mg tablet 10,piroxicam(20.0 mg),strip,10 tablet,0.0,1.9208851438742966e-05,pangea pharma ltd,0.00045,4
+dolomonsp tablet,aceclofenac (100mg) + paracetamol (325mg) + serratiopeptidase (15mg),strip,1001 tablet,0.0074913561275451405,0.009063376403846893,m d pharmaceuticals pvt ltd,0.05,4
+dolomon th 4 tablet,aceclofenac-100mg + thiocolchicoside-4mg,strip | tablet,10 tablet,0.011076962479190678,0.012184814762642627,m d pharmaceuticals pvt ltd,0.00045,2
+dolomor cold ds suspension 60 ml,chlorpheniramine-2mg + paracetamol-250mg + phenylephrine-5mg,bottle | oral suspension,60 ml,0.005634524266871559,0.0061980560642344,unipark biotech pvt ltd,0.00295,2
+dolomor cold susension 60 ml,chlorpheniramine-1mg + paracetamol-125mg + phenylephrine-2.5mg,bottle | suspension,60 ml,0.0046740939941093615,0.005141569235103536,unipark biotech pvt ltd,0.00295,2
+dolomor gel 30 gm,diclofenac-1%w/w + linseed oil-3%w/w + menthol-5%w/w + methyl salicylate-10%w/w,tube | gel,30 ml,0.006210782430528877,0.0068303474240930225,unipark biotech pvt ltd,0.0014500000000000001,2
+dolomor gel 50 gm,diclofenac-1%w/w + linseed oil-3%w/w + menthol-5%w/w + methyl salicylate-10%w/w,tube | gel,50 ml,0.010756819054936612,0.011832652486265671,unipark biotech pvt ltd,0.00245,2
+dolomor mr tablet 10s,chlorzoxazone-250mg + diclofenac-50mg + paracetamol-325mg,strip | tablet,10 tablet,0.005698552951722372,0.006270089257129685,unipark biotech pvt ltd,0.00045,2
+dolomorp tablet 10s,diclofenac-50mg + paracetamol-325mg,strip | tablet,10 tablet,0.0030733768728390316,0.0033807578532187633,unipark biotech pvt ltd,0.00045,2
+dolomor plus tablet 10s,caffeine-30mg + diphenhydramine-25mg + paracetamol-325mg + phenylephrine-5mg,strip | tablet,10 tablet,0.004289921885004482,0.0047173737658312955,unipark biotech pvt ltd,0.00045,2
+dolomorsp tablet 10s,diclofenac-50mg + paracetamol-325mg + serratiopeptidase-10mg,strip | tablet,10 tablet,0.00505826610321424,0.005565764704375776,unipark biotech pvt ltd,0.00045,2
+dolomort tablet 10s,diclofenac-50mg + tolperisone-150mg,strip | tablet,10 tablet,0.009412216673069535,0.010351970187862568,unipark biotech pvt ltd,0.00045,2
+dolona injection,diclofenac(75.0 mg),injection,3 ml,0.0002023306441285696,0.00022250252916543943,agron remedies,0.00010000000000000002,2
+dolona p tablets,diclofenac potassium + paracetamol,strip,10 tablet,0.006530925854782943,0.007184110438089872,agron remedies,0.00045,4
+dolonac gel 30 gm,diclofenac sodium-1%w/w + linseed oil-3%w/w%methyl salicylate + menthol-5%w/w,tube | gel,30 ml,0.009444231015494941,0.010391988628359949,sumac pharma pvt ltd,0.0014500000000000001,2
+dolonacp tablet,diclofenac (50mg) + paracetamol (325mg),strip,1001 tablet,0.002753233448584966,0.003348743100820858,baroque pharmaceuticals pvt ltd,0.05,4
+dolonac pc tablet,chlorzoxazone-500mg + diclofenac-50mg + paracetamol-325mg,strip | tablet,10 tablet,0.003201434242540658,0.003521622763769545,baroque pharmaceuticals pvt ltd,0.00045,2
+dolonar 20mg tablet dt,piroxicam-20mg,strip | tablet,10 tablet,0.002881290818286592,0.0031694604873925905,zennar life sciences,0.00045,2
+dolonase 50 mg/10 mg tablet,diclofenac (50mg) + serratiopeptidase (10mg),strip,1001 tablet,0.0033250096043027275,0.0040450639654752915,profess health products pvt ltd,0.05,4
+dolonase a tablet,aceclofenac (100mg) + paracetamol (325mg),strip,1001 tablet,0.0018408246894608784,0.002244234143093137,profess health products pvt ltd,0.05,4
+dolonase a tablet 10,aceclofenac(100.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.0021129466000768342,0.0023242710240879,profess health products pvt ltd,0.00045,4
+dolonase sp tablet 10,diclofenac(50.0 mg) + serratiopeptidase(10.0 mg),strip,10 tablet,0.005122294788065054,0.006422159331019734,profess health products pvt ltd,0.00045,4
+dolonase spray 60 ml,piroxicam(20.0 mg),bottle,60 ml,0.011076962479190678,0.012184814762642627,profess health products pvt ltd,0.00295,4
+dolonase strip of 10 tablets,diclofenac(50.0 mg) + serratiopeptidase(10.0 mg),strip,10 tablet,0.003969778460750416,0.004981495473114011,profess health products pvt ltd,0.00045,4
+dolonase tablet 10s,diclofenac-50mg + serratiopeptidase-10mg,strip | tablet,10 tablet,0.003969778460750416,0.004365211489454341,profess health product pvt ltd,0.00045,2
+dolonat tablet,paracetamol-325mg + tramadol-37.5mg,strip | tablet,10 tablet,0.003265462927391471,0.003592055219044936,phizer ltd,0.00045,2
+dolonek excel gel,benzyl alcohol + diclofenac + menthol + methyl salicylate,tube,30 ml,0.0037136637213471633,0.0040850824059726724,kentreck laboratories pvt ltd,0.0014500000000000001,1
+doloneuron 100mg strip of 10 tablets,vitamin b12 / mecobalamin / cynocobalamin / methylcobalamin(500.0 mcg) + gabapentin(100.0 mg),strip,10 tablet,0.008835958509412217,0.009719678828003946,pulse pharmaceuticals pvt ltd,0.00045,4
+doloneuron 100mg strip of 15 tablets,vitamin b12 / mecobalamin / cynocobalamin / methylcobalamin(500.0 mcg) + gabapentin(100.0 mg),strip,15 tablet,0.009675374567806379,0.010643304434683504,pulse pharmaceuticals pvt ltd,0.0007,4
+doloneuron 100 tablet,gabapentin (100mg) + methylcobalamin (500mcg),strip,1501 tablet,0.010628761685234986,0.011168346374009146,pulse pharmaceuticals,0.07500000000000001,4
+doloneuron 100 tablet 15s,gabapentin-100mg + methylcobalamin-500mcg,strip | tablet,15 tablet,0.010628761685234986,0.011688586100475101,pulse pharmaceuticals,0.0007,2
+doloneuron 300mg strip of 10 tablets,gabapentin(300.0 mg) + vitamin b12 / mecobalamin / cynocobalamin / methylcobalamin(500.0 mcg),strip,10 tablet,0.012057881931105135,0.014025663025522161,pulse pharmaceuticals pvt ltd,0.00045,4
+doloneuron 300 tablet,gabapentin (300mg) + methylcobalamin (500mcg),strip,1001 tablet,0.013029837367140478,0.014625939632982879,pulse pharmaceuticals,0.05,4
+doloneuron 300 tablet 10s,gabapentin-300mg + methylcobalamin-500mcg,strip | tablet,10 tablet,0.013029837367140478,0.01432980317330226,pulse pharmaceuticals,0.00045,2
+doloneuron nt 100/10mg strip of 10 tablets,nortriptyline(10.0 mg) + gabapentin(100.0 mg),strip,10 tablet,0.004930208733512614,0.005423299056205099,pulse pharmaceuticals pvt ltd,0.00045,4
+doloneuron nt 100 tablet,gabapentin (100mg) + nortriptyline (10mg),strip,1001 tablet,0.005954667691125624,0.006702288414501403,pulse pharmaceuticals,0.05,4
+doloneuron nt 100 tablet 10s,gabapentin-100mg + nortriptyline-10mg,strip | tablet,10 tablet,0.005954667691125624,0.006550218340611353,pulse pharmaceuticals,0.00045,2
+doloneuronnt 200 tablet,gabapentin (200mg) + nortriptyline (10mg),strip,1001 tablet,0.011044948136765272,0.011384445952695003,pulse pharmaceuticals,0.05,4
+doloneuronnt 200 tablet 10s,gabapentin-200mg + nortriptyline-10mg,strip | tablet,10 tablet,0.011044948136765272,0.012152800010244722,pulse pharmaceuticals,0.00045,2
+doloneuron nt 400mg strip of 10 tablets,gabapentin(400.0 mg) + nortriptyline(10.0 mg),strip,10 tablet,0.015046740939941093,0.016551626989716864,pulse pharmaceuticals pvt ltd,0.00045,4
+doloneuronnt capsule 10s,gabapentin-400mg + nortriptyline-10mg,strip | capsule,10 ml,0.018088103470354718,0.01990037009053772,pulse pharmaceuticals,0.00045,1
+doloneuron pg 75mg capsule,vitamin b12 / mecobalamin / cynocobalamin / methylcobalamin(750.0 mcg) + pregabalin(75.0 mg),strip,10 ml,0.004930208733512614,0.006182048688035447,pulse pharmaceuticals pvt ltd,0.00045,4
+dolonex 20mg ampoule of 1ml injection,piroxicam(20.0 mg),ampoule,1 ml,0.001911256242796773,0.0019753102229507357,pfizer ltd,0.0,4
+dolonex 20mg strip of 10 capsules,piroxicam(20.0 mg),strip,10 ml,0.012003457548981944,0.01320368425770595,pfizer ltd,0.00045,4
+dolonex 40 mg im injection 5 x 2 ml,piroxicam-40mg,box | injection,52 ml,0.020361121782558583,0.022397520777574308,pfizer ltd,0.00255,1
+dolonex 5mg gel 15gm,piroxicam(5.0 mg),tube,15 ml,0.004978230247150724,0.0054761233976616435,pfizer ltd,0.0007,1
+dolonex dt 10mg strip of 15 tablets,piroxicam(10.0 mg),strip,15 tablet,0.011294660007683442,0.012424125036816967,pfizer ltd,0.0007,4
+dolonex dt 20mg tab 1x15,piroxicam 20 mg,strip,15 ml,0.015046740939941093,0.0159825647658441,pfizer pharmaceutical india pvt ltd,0.0007,4
+dolonex dt 20mg tablet,piroxicam(20.0 mg),strip,10 tablet,0.01369061339480087,0.01505973952797449,pfizer ltd,0.00045,4
+dolonex dt 20 mg tablet 10s,piroxicam-20mg,strip | tablet,10 tablet,0.01367012421564861,0.015034127726056168,pfizer ltd,0.00045,2
+dolonex dt 20 mg tablet 15s,piroxicam-20mg,strip | tablet,15 tablet,0.015046740939941093,0.016554828464956654,pfizer ltd,0.0007,2
+dolonex dt 20 strip of 15 tablets,piroxicam(20.0 mg),strip,15 tablet,0.015046740939941093,0.016551626989716864,pfizer ltd,0.0007,4
+dolonex e 120 mg strip of 15 tablets,etoricoxib(120.0 mg),strip,15 tablet,0.019520425150467407,0.021473094802084803,pfizer ltd,0.0007,4
+dolonex e 120mg tablet,etoricoxib (120mg),strip,1501 tablet,0.019520425150467407,0.021963720882582697,pfizer ltd,0.07500000000000001,4
+dolonex e 120 mg tablet 15s,etoricoxib-120mg,strip | tablet,15 tablet,0.019496734537072607,0.02144668263135653,pfizer ltd,0.0007,2
+dolonex e 60mg strip of 15 tablets,etoricoxib(60.0 mg),strip,15 tablet,0.013393520297093097,0.014225755228009068,pfizer ltd,0.0007,4
+dolonex e 60mg tablet,etoricoxib (60mg),strip,1501 tablet,0.013393520297093097,0.016026585050391222,pfizer ltd,0.07500000000000001,4
+dolonex e 60 mg tablet 15s,etoricoxib-60mg,strip | tablet,15 tablet,0.01338199513381995,0.0147203831525567,pfizer ltd,0.0007,2
+dolonex e 90mg strip of 15 tablets,etoricoxib(90.0 mg),strip,15 tablet,0.015083877577154566,0.01659244579902419,pfizer ltd,0.0007,4
+dolonex e 90mg tablet,etoricoxib (90mg),strip,1501 tablet,0.0036899731079523624,0.01887429727618487,pfizer ltd,0.07500000000000001,4
+dolonex e 90 tablet 15s,etoricoxib-90mg,strip | tablet,15 tablet,0.0150787552823665,0.01658684321735456,pfizer ltd,0.0007,2
+dolonex gel,piroxicam (0.5% w/w),other,1501 ml,0.0036899731079523624,0.006242076348781519,pfizer ltd,0.07500000000000001,4
+dolonex gel 15gm,piroxicam 5 mg,tube,15 ml,0.004374439749007555,0.004642939466506167,pfizer pharmaceutical india pvt ltd,0.0007,1
+dolonex gel 15 gm,piroxicam-5mg,tube | gel,15 ml,0.004962223075938021,0.0054585152838427945,pfizer ltd,0.0007,2
+dolonex im 20 mg injection 1 ml,piroxicam-20mg,ampoule | injection,1 ml,0.0021129466000768342,0.0023242710240879,pfizer ltd,0.0,2
+dolonex im ampoule of 2ml solution for injection,piroxicam(40.0 mg),ampoule,2 ml,0.0036124983992828785,0.003973831141389952,pfizer ltd,5e-05,2
+dolonex im ampoule of 2ml solution for injection pack of 5,piroxicam(40.0 mg),ampoule,2 ml,0.005405941861954156,0.005946740257910846,pfizer ltd,5e-05,2
+dolonex rapid 20mg tablets,piroxicam(20.0 mg),strip,10 tablet,0.008589448072736587,0.010756156436886119,pfizer ltd,0.00045,4
+dolonex rapid 20 tablet 10s,piroxicam-20mg,strip | tablet,10 tablet,0.008589448072736587,0.00944851387519369,pfizer ltd,0.00045,2
+doloni 75mg injection,diclofenac (75mg),other,101 ml,0.0005122294788065053,0.0006354928350984134,gerrysun pharmaceuticals pvt ltd,0.005000000000000001,2
+doloni ampoule of 3ml injection,diclofenac sodium(75.0 mg),ampoule,3 ml,0.00012805736970162632,0.00017928261342826774,nimoli pharmaceuticals pvt ltd,0.00010000000000000002,2
+dolonik 20mg tablet dt,piroxicam (20mg),strip,1001 tablet,0.002817262133435779,0.003428779981815621,saffron medicare pvt ltd,0.05,4
+dolonik 40mg injection,piroxicam-40mg,vial | injection,2 ml,0.0018568318606735819,0.0020425412029863362,saffron medicare pvt ltd,5e-05,2
+dolonil 50mg capsules,diacerein(50.0 mg),strip,10 ml,0.0024330900243309,0.002676433300464854,rosch elmer pharmaceuticals pvt ltd,0.00045,4
+dolonim 50mg syrup,nimesulide (50mg),other,6001 ml,0.0008323729030605712,0.0010196698638732728,baxter india pvt ltd,0.30000000000000004,0
+dolonim active gel,aconitum napellus dh20 2. arsenicum album dh18 3. asafoetida dh20 4. calcarea carbonica dh16 5. conium maculatum . ipecacuanha dh13 7. phosphoru,tube,30 ml,0.00384172109104879,0.004077078717873196,micro labs,0.0014500000000000001,4
+dolonim dt 100mg strip of 15 tablets,nimesulide(100.0 mg),strip,15 tablet,0.002808938404405173,0.0030902239752077757,plus india pharma,0.0007,4
+dolonim gold 100/500 mg tablet 10,nimesulide(100.0 mg) + paracetamol / acetaminophen(500.0 mg),strip,10 tablet,0.0022410039697784603,0.0028204996862554264,micro labs,0.00045,4
+dolonim p 100mg/500mg tablet,nimesulide (100mg) + paracetamol (500mg),strip,1001 tablet,0.0014726597515687027,0.001796027609522468,baxter india pvt ltd,0.05,4
+dolonim tablets,nimesulide + paracetamol,strip,10 tablet,0.001920860545524395,0.002036138252506755,micro labs,0.00045,4
+dolonip 20mg injection,piroxicam (20mg),other,201 ml,0.0016903572800614675,0.0018400478940695873,dhamus pharma,0.01,2
+dolonip 20mg tablet,piroxicam (20mg),strip,1001 tablet,0.0030349596619285435,0.0036929016890983363,dhamus pharma,0.05,4
+dolonip 250 mg syrup 60 ml,piroxicam(20.0 mg),bottle,60 ml,0.002753233448584966,0.003028595576841809,standard pharmaceuticals ltd,0.00295,4
+dolonip tablets,paracetamol + tramadol,strip,10 tablet,0.002753233448584966,0.003028595576841809,standard pharmaceuticals ltd,0.00045,4
+dolonis gel 30 gm,piroxicam(20.0 mg),tube | gel,30 ml,0.00627481111537969,0.006902380616988309,galenis life science pvt ltd,0.0014500000000000001,4
+dolonismr tablet 10s,chlorzoxazone-500mg + diclofenac-50mg + paracetamol-325mg,strip | tablet,10 tablet,0.010436675630682546,0.011480490209888717,galenis life science pvt ltd,0.00045,2
+dolonix mf oral suspension,mefenamic acid (100mg) + paracetamol (250mg),bottle,6001 ml,0.0026828018952490713,0.0029277491067884083,blue planet laboratories pvt ltd,0.30000000000000004,0
+dolono 40mg injection,piroxicam (40mg),other,201 ml,0.002753233448584966,0.0029997822996836944,welgenic pharma,0.01,2
+dolonol tablet,caffeine-25mg + paracetamol-325mg,strip | tablet,10 tablet,0.0020681265206812646,0.002274968305395126,overseas pharma pvt ltd,0.00045,2
+dolonovasp tablet 10s,aceclofenac-100mg + paracetamol-325mg + serratiopeptidase-15mg,strip | tablet,10 tablet,0.005634524266871559,0.0061980560642344,medinova labs,0.00045,2
+dolop plus 375/325 mg tablet 10,piroxicam(20.0 mg),strip,10 tablet,0.000481495710078115,0.0005298441521853271,aurum life science pvt ltd,0.00045,4
+dolopac 50 mg/500 mg tablet,diclofenac (50mg) + paracetamol (500mg),strip,1001 tablet,0.0020329107440133177,0.002476341097977948,bioguard organics ltd,0.05,4
+dolopac mr 250mg/50mg/500mg tablet,chlorzoxazone (250mg) + diclofenac (50mg) + paracetamol (500mg),strip,1001 tablet,0.0021129466000768342,0.002572385355171663,bioguard organics ltd,0.05,4
+dolopac sp 50/10 mg tablet 10,diclofenac(50.0 mg) + serratiopeptidase(10.0 mg),strip,10 tablet,0.0036496350364963502,0.004014649950697282,bioguard organics ltd,0.00045,4
+dolopac sp 50 mg/10 mg tablet,diclofenac (50mg) + serratiopeptidase (10mg),strip,1001 tablet,0.0037136637213471633,0.00451728156334439,bioguard organics ltd,0.05,4
+dolopar 120 oral suspension 60 ml,paracetamol-120mg,bottle | oral suspension,60 ml,0.0024330900243309,0.002676433300464854,micro labs ltd,0.00295,2
+dolopar 125mg suspension 60ml,paracetamol / acetaminophen(125.0 mg),bottle,60 ml,0.0013349980791394545,0.001431859800996299,micro labs,0.00295,4
+dolopar 125 mg syrup 60 ml,paracetamol-125mg,bottle | syrup,60 ml,0.0013446023818670765,0.0014790815607832089,micro labs ltd,0.00295,2
+dolopar 15625mg syrup 60ml,paracetamol,bottle,60 ml,0.0019848892303752077,0.0025003521622763768,micro labs,0.00295,4
+dolopar 250mg suspension 60ml,paracetamol / acetaminophen(250.0 mg/5ml),bottle,60 ml,0.0027545140222819823,0.003030196314461704,micro labs,0.00295,4
+dolopar 250 suspension,paracetamol (250mg/5ml),bottle,10001 ml,0.0036899731079523624,0.00586430227048624,micro labs ltd,0.5,0
+dolopar250 suspension 100 ml,paracetamol-250mg,bottle | suspension,100 ml,0.0046740939941093615,0.005141569235103536,micro labs ltd,0.00495,2
+dolopar250 suspension 60 ml,paracetamol-250mg,bottle | suspension,60 ml,0.002753233448584966,0.003028595576841809,micro labs ltd,0.00295,2
+dolopar 650mg strip of 10 tablets,paracetamol / acetaminophen(650.0 mg),strip,10 tablet,0.0019477525931617366,0.002453930771299415,micro labs,0.00045,4
+dolopar 650mg strip of 15 tablets,paracetamol / acetaminophen(650.0 mg),strip,15 tablet,0.0017972851837623255,0.001976910960570631,micro labs,0.0007,4
+dolopar 650 tablet,paracetamol (650mg),strip,1501 tablet,0.002023306441285696,0.0018760644905172306,micro labs ltd,0.07500000000000001,4
+dolopar650 tablet 15s,paracetamol-650mg,strip | tablet,15 tablet,0.0020169035728006142,0.0022202230787947085,micro labs ltd,0.0007,2
+dolopar cc tablets,caffeine(30.0 mg) + phenylephrine(10.0 mg) + chlorpheniramine / chlorphenamine(2.0 mg) + paracetamol / acetaminophen(500.0 mg),strip,10 tablet,0.0011634012037392753,0.0012797897271062506,micro labs,0.00045,4
+dolopar drops 15 ml,paracetamol-100mg,bottle | oral drops,15 ml,0.0017928031758227686,0.001972108747710945,micro labs ltd,0.0007,2
+dolopar gel,diclofenac(1.16 %) + menthol(5.0 %) + methyl salicylate(10.0 %) + linseed oil(3.0 %),tube,30 ml,0.006530925854782943,0.007184110438089872,micro labs,0.0014500000000000001,4
+dolopar gel 30 gm,capsaicin-0.025%w/w + diclofenac sodium-1%w/w + linseed oil-3%w/w + menthol-5%w/w + methyl salicylate-10%w/w,tube | gel,30 ml,0.006530925854782943,0.007184110438089872,micro labs ltd,0.0014500000000000001,2
+dolopar m ds suspension,mefenamic acid (100mg/5ml) + paracetamol (250mg/5ml),bottle,6001 ml,0.003905749775899603,0.00432519304895696,micro labs ltd,0.30000000000000004,0
+dolopar m suspension,mefenamic acid (50mg/5ml) + paracetamol (125mg/5ml),bottle,6001 ml,0.003489563324369317,0.0038929938915852427,micro labs ltd,0.30000000000000004,0
+dolopar m suspension 60ml,paracetamol / acetaminophen(125.0 mg/5ml) + mefenamic acid(50.0 mg/5ml),bottle,60 ml,0.003435138942246126,0.003778541151762732,micro labs,0.00295,4
+dolopar m suspension 60 ml,mefenamic acid-50mg + paracetamol-125mg,bottle | suspension,60 ml,0.003489563324369317,0.0038369680748889094,micro labs ltd,0.00295,2
+dolopar mds suspension 60ml,mefenamic acid(100.0 mg/5ml) + paracetamol / acetaminophen(250.0 mg/5ml),bottle,60 ml,0.003265462927391471,0.003592055219044936,micro labs,0.00295,4
+doloparmds suspension 60ml,mefenamic acid-100mg + paracetamol-250mg,bottle | suspension,60 ml,0.003905749775899603,0.004293178296559055,micro labs ltd,0.00295,2
+dolopar ointment 30 gm,menthol(5.0 %) + methyl salicylate(10.0 %) + capsaicin(0.025 %) + linseed oil(1.0 %) + diclofenac(1.16 %),tube,30 ml,0.004749647842233321,0.005956344683630218,micro labs,0.0014500000000000001,4
+dolopar oral suspension,paracetamol (120mg/5ml),bottle,6001 ml,0.00245357920348316,0.002740462805260664,micro labs ltd,0.30000000000000004,0
+dolopar plus 10 mg capsule 10,caffeine + paracetamol,strip,10 ml,0.0015789473684210526,0.0019929183367695833,micro labs,0.00045,4
+dolopar strip of 10 tablets,caffeine(25.0 mg) + paracetamol / acetaminophen(500.0 mg),strip,10 tablet,0.003265462927391471,0.003592055219044936,micro labs,0.00045,4
+dolopar strip of 15 tablets,caffeine(25.0 mg) + paracetamol / acetaminophen(500.0 mg),strip,15 tablet,0.0035856063516455368,0.0035728463676061926,micro labs,0.0007,4
+dolopar tablet 10s,caffeine-25mg + paracetamol-500mg,strip | tablet,10 tablet,0.0019528748879498014,0.0021481898858994224,micro labs ltd,0.00045,2
+dolopar tablet 15s,caffeine-25mg + paracetamol-500mg,strip | tablet,15 tablet,0.0035856063516455368,0.0039410160201821,micro labs ltd,0.0007,2
+dolopax d capsules,dextropropoxyphene + diclofenac + paracetamol,strip,10 ml,0.0008964015879113843,0.0009860543738554727,acron pharmaceuticals,0.00045,4
+dolopee gel 10gm,diclofenac + linseed oil + menthol + methyl salicylate,tube,10 ml,0.00014470482776283774,0.00015927339317957717,agron remedies,0.00045,1
+dolopee gel 30gm,diclofenac + linseed oil + menthol + methyl salicylate,tube,30 ml,0.0029453195031374055,0.0037009053771978125,agron remedies,0.0014500000000000001,1
+dolopee tablets,chlorpheniramine + diclofenac sodium + magnesium trisilicate + paracetamol,strip,10 tablet,0.00014470482776283774,0.00015927339317957717,agron remedies,0.00045,4
+dolopent injection 1 ml,pentazocine-30mg,vial | injection,1 ml,0.0017928031758227686,0.001972108747710945,modi mundipharma pvt ltd,0.0,2
+dolophob gel,heparin(0.01 mg) + diclofenac(200.0 iu),tube,20 ml,0.029261108976821614,0.03218763206085364,zydus healthcare ltd,0.00095,1
+dolopic dt tablets,piroxicam,strip,10 tablet,0.0019528748879498014,0.0020697537425245554,salud care india pvt ltd,0.00045,4
+dolopir injection,piroxicam(20.0 mg),injection,2 ml,0.001536688436419516,0.001627950159433467,bmw pharmaco india pvt ltd,5e-05,4
+dolopir md 20mg tablets,piroxicam(20.0 mg),strip,10 tablet,0.00384172109104879,0.004225947316523455,bmw pharmaco india pvt ltd,0.00045,4
+dolopir md tablet,piroxicam (20mg),strip,1001 tablet,0.001920860545524395,0.002340278400286852,bmw pharmaco india pvt ltd,0.05,4
+doloplan 20mg tablet,duloxetine (20mg),strip,1001 tablet,0.0029805352798053524,0.003628872184302527,health plan,0.05,4
+doloplus 50mg/325mg tablet,diclofenac (50mg) + paracetamol (325mg),strip,1001 tablet,0.0005122294788065053,0.0006354928350984134,mankind pharma ltd,0.05,4
+dolopolo 650mg strip of 10 tablets,paracetamol / acetaminophen(650.0 mg),strip,10 tablet,0.0013343577922909464,0.0014678763974439425,elfin drug pvt ltd,0.00045,4
+dolopolo 650 tablet 10s,paracetamol-650mg,strip | tablet,10 tablet,0.014214368036880523,0.015634404333516885,dawson healthcare pvt ltd,0.00045,2
+dolopot mr tablet,chlorzoxazone-250mg + diclofenac-50mg + paracetamol-500mg,strip | tablet,10 tablet,0.002305032654629274,0.002535568389914072,oyster labs ltd,0.00045,2
+dolopred 1 eye drop,prednisolone (1% w/v),other,1001 ml,0.002059162504802151,0.0025083558503758534,doeshealth systems pvt ltd,0.05,4
+dolopred eye drop 10ml,prednisolon(1.0 %),bottle,10 ml,0.002059162504802151,0.0022650437321517754,doeshealth systems pvt ltd,0.00045,2
+doloprex 20mg injection,piroxicam-20mg,vial | injection,2 ml,0.0014726597515687027,0.0016199464713339909,aarotax pharmaceutical pvt ltd,5e-05,2
+dolopyrin250 suspension 60 ml,paracetamol-250mg,bottle | suspension,60 ml,0.002753233448584966,0.003028595576841809,micro labs ltd,0.00295,2
+doloqueen 100mg/500mg tablet,nimesulide (100mg) + paracetamol (500mg),strip,1001 tablet,0.0008323729030605712,0.0010196698638732728,raddison health care pvt ltd,0.05,4
+doloqueen a 100mg/500mg tablet,aceclofenac (100mg) + paracetamol (500mg),strip,1001 tablet,0.0022410039697784603,0.0027324591171611875,raddison health care pvt ltd,0.05,4
+doloquik 500mg tablets,paracetamol / acetaminophen(500.0 mg),strip,10 tablet,0.000481495710078115,0.0005298441521853271,micro labs,0.00045,4
+doloquik suspension 60ml,paracetamol / acetaminophen(250.0 mg),bottle,60 ml,0.0007523370469970546,0.0008275813494858431,micro labs,0.00295,4
+doloquit 1 ointment,diclofenac (1% w/w),other,3001 ml,0.004353950569855295,0.005293639308993585,3m india ltd,0.15000000000000002,4
+doloquit 30gm ointment,diclofenac-1.16% w/w,tube | ointment,30 ml,0.004353950569855295,0.004789406958726582,3m india ltd,0.0014500000000000001,2
+doloral 25mg injection 1ml,aceclofenac,injection,1 ml,0.0036899731079523624,0.0040250547452266,biomiicron pharmaceuticals,0.0,2
+doloral p 100 mg/650 mg tablet,aceclofenac (100mg) + paracetamol (650mg),strip,1001 tablet,0.002349852734024843,0.0028605181267528077,biomiicron pharmaceuticals,0.05,4
+doloral p strip of 10 tablets,aceclofenac(100.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.0037136637213471633,0.0040850824059726724,biomiicron pharmaceuticals,0.00045,4
+doloral p tablet 10s,aceclofenac-100mg + paracetamol-325mg,strip | tablet,10 tablet,0.004097835830452042,0.004509277875244914,biomiicron pharma india pvt ltd,0.00045,2
+doloral sp 100mg/325mg/15mg tablet,aceclofenac (100mg) + paracetamol (325mg) + serratiopeptidase (15mg),strip,1001 tablet,0.006658983224484569,0.008102933831909744,biomiicron pharmaceuticals,0.05,4
+doloralsp tablet 10s,aceclofenac-100mg + paracetamol-325mg + serratiopeptidase-15mg,strip | tablet,10 tablet,0.006658983224484569,0.007324975348640655,biomiicron pharma india pvt ltd,0.00045,2
+doloral tablet,aceclofenac(100.0 mg) + serratiopeptidase(15.0 mg),strip,10 tablet,0.003393520297093097,0.00426116354416115,biomiicron pharmaceuticals,0.00045,4
+doloral tab 10s,piroxicam(20.0 mg),strip | tablet,10 ml,0.003393520297093097,0.0037329201295957177,biomiicron pharma india pvt ltd,0.00045,2
+dolorap tablet 10s,aceclofenac-100mg + paracetamol-500mg,strip | tablet,10 tablet,0.003393520297093097,0.0037329201295957177,veritaz healthcare ltd,0.00045,2
+dolorap tablets,aceclofenac(100.0 mg) + paracetamol / acetaminophen(500.0 mg),strip,10 tablet,0.0014726597515687027,0.0016199464713339909,veritaz healthcare ltd,0.00045,4
+dolorasep tablet,aceclofenac (100mg) + paracetamol (325mg) + serratiopeptidase (15mg),strip,1001 tablet,0.005634524266871559,0.006846354800291975,cavalry laboratories pvt ltd,0.05,4
+dolorel 50mg/325mg tablet,diclofenac (50mg) + paracetamol (325mg),strip,1001 tablet,0.0014726597515687027,0.001796027609522468,biogenetic pharmaceuticals,0.05,4
+doloretard 100mg/325mg tablet,aceclofenac (100mg) + paracetamol (325mg),strip,1001 tablet,0.0029453195031374055,0.0035808500557056692,mars therapeutics & chemicals ltd,0.05,4
+doloretard tablet 15s,aceclofenac-100mg + paracetamol-325mg,strip | tablet,15 tablet,0.0034575489819439107,0.003803352584871109,mars therapeutics and chemicals ltd,0.0007,2
+dolorgesicp tablet 10s,aceclofenac-100mg + paracetamol-325mg,strip | tablet,10 tablet,0.0034575489819439107,0.003803352584871109,medieos life sciences llp,0.00045,2
+dolorgesicsp tablet 10s,aceclofenac-100mg + paracetamol-325mg + serratiopeptidase-15mg,strip | tablet,10 tablet,0.005890639006274811,0.0064781851477160686,medieos life sciences llp,0.00045,2
+dolorid 50mg/325mg tablet,diclofenac-50mg + paracetamol-325mg,strip | tablet,10 tablet,0.002305032654629274,0.002535568389914072,stride healthcare,0.00045,2
+dolorid mr 250mg/50mg/325mg tablet,chlorzoxazone-250mg + diclofenac-50mg + paracetamol-325mg,strip | tablet,10 tablet,0.003905749775899603,0.004296379771798845,stride healthcare,0.00045,2
+doloridmr 50/325/250 mg tablet 10,piroxicam(20.0 mg),strip,10 tablet,0.005762581636573185,0.007222528140967358,pride pharma,0.00045,4
+doloride th 4 strip of 10 tablets,aceclofenac(100.0 mg) + thiocolchicoside(4.0 mg),strip,10 tablet,0.009732360097323601,0.010335962811663615,univentis medicare ltd,0.00045,4
+dolorideth8 tablet 10s,aceclofenac-100mg + thiocolchicoside-8mg,strip | tablet,10 tablet,0.01571904213087463,0.01966826313565291,univentis medicare ltd,0.00045,2
+dolorin plus tablet 10s,piroxicam(20.0 mg),strip | tablet,10 tablet,0.003041362530413625,0.003345541625581068,embiotic laboratories pvt ltd,0.00045,2
+dolorin suspension 60ml,paracetamol,bottle,60 ml,0.0020169035728006142,0.002137785091370103,embiotic laboratories pvt ltd,0.00295,2
+dolorin tablets,caffeine + domperidone + paracetamol,strip,10 tablet,0.003041362530413625,0.003345541625581068,embiotic laboratories pvt ltd,0.00045,4
+dolornilaq injection,piroxicam(20.0 mg),ampoule | injection,1 ml,0.001302983736714048,0.0014333004648542048,lancer therapeutics,0.0,4
+doloroff 125mg tablets,rofecoxib(12.5 mg),strip,10 tablet,0.0006402868485081317,0.000704324552753909,indoco remedies ltd,0.00045,4
+doloroff 25mg tablets,rofecoxib(25.0 mg),strip,10 tablet,0.001600717121270329,0.0017608113818847726,indoco remedies ltd,0.00045,4
+doloroff 50mg tablets,rofecoxib(50.0 mg),strip,10 tablet,0.031181969522346007,0.03430060571911536,indoco remedies ltd,0.00045,4
+doloroff ap 100 mg/500 mg tablet,piroxicam(20.0 mg),strip | tablet,10 tablet,0.0015847099500576258,0.0017432032680659247,indoco remedies ltd,0.00045,2
+doloroff ap tablets,aceclofenac(100.0 mg) + paracetamol / acetaminophen(500.0 mg),strip,10 tablet,0.021193494685619155,0.02331314269615439,indoco remedies ltd,0.00045,4
+doloroff asp tablets,aceclofenac + paracetamol + serratiopeptidase,strip,10 tablet,0.0029453195031374055,0.0032398929426679813,indoco remedies ltd,0.00045,4
+doloron gel 10gm,diclofenac + linseed oil + menthol + methyl salicylate,tube,10 ml,0.000768344218209758,0.0008115739732868906,agron remedies,0.00045,1
+doloron gel 30gm,diclofenac + linseed oil + menthol + methyl salicylate,tube,30 ml,0.0046740939941093615,0.005141569235103536,agron remedies,0.0014500000000000001,1
+doloron injection,diclofenac(75.0 mg),injection,3 ml,0.0036899731079523624,0.0040250547452266,agron remedies,0.00010000000000000002,2
+doloron p 50 mg/500 mg tablet,diclofenac (50mg) + paracetamol (500mg),strip,1001 tablet,0.00024010756819054936,0.00030734162301988756,agron remedies pvt ltd,0.05,4
+doloron p tablets,diclofenac sodium + paracetamol,strip,10 tablet,0.00024010756819054936,0.00025051543751360627,agron remedies,0.00045,4
+dolorub active gel,diclofenac + linseed oil + menthol + methyl salicylate,tube,30 ml,0.004193878857728262,0.004451651320928685,micro labs,0.0014500000000000001,1
+doloryl plus tablet,piroxicam(20.0 mg),strip | tablet,10 tablet,0.004994237418363427,0.005493731511480491,shrion pharmaceuticals,0.00045,2
+dolosac 75mg injection,diclofenac sodium,injection,3 ml,0.0006402868485081317,0.000704324552753909,cipla ltd,0.00010000000000000002,2
+dolosac gel,diclofenac + linseed oil + menthol + methyl salicylate,tube,30 ml,0.00515430913049046,0.005669812649668968,cipla ltd,0.0014500000000000001,1
+dolosac p injection,piroxicam,injection,2 ml,0.0011461134588295555,0.0012605808756675078,cipla ltd,5e-05,2
+dolosacpx 20mg tablet dt,piroxicam-20mg,strip | tablet,10 tablet,0.00306697400435395,0.003373714607691224,sac pharmaceuticals,0.00045,2
+dolosac px dt tablets,piroxicam,strip,10 tablet,0.00306697400435395,0.003373554533929234,cipla ltd,0.00045,4
+dolosac px injection,piroxicam,injection,2 ml,0.0013446023818670765,0.0014790815607832089,cipla ltd,5e-05,2
+dolosac tablets,chlorzoxazone + diclofenac potassium + paracetamol,strip,10 tablet,0.00012805736970162632,0.0001408649105507818,cipla ltd,0.00045,4
+dolosac tr injection,tramadol,injection,2 ml,0.0036899731079523624,0.0040250547452266,cipla ltd,5e-05,2
+dolosac trp tablets,paracetamol + tramadol,strip,10 tablet,0.0030733768728390316,0.0033807578532187633,cipla ltd,0.00045,4
+dolosafe d tablets,tramadol(37.5 mg) + domperidone(10.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.006562940197208349,0.0072193266657275676,tidal laboratories pvt ltd,0.00045,4
+dolosafe tablet,tramadol(37.5 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.0026539889870662056,0.002919745418688932,tidal laboratories pvt ltd,0.00045,4
+dolosafe tablet 10s,paracetamol-325mg + tramadol-37.5mg,strip | tablet,10 tablet,0.010244589576130106,0.011272394319302334,tidal laboratories pvt ltd,0.00045,2
+dolosaid p strip of 10 tablets,aceclofenac(100.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.0036496350364963502,0.0045813110681401994,univentis medicare ltd,0.00045,4
+dolosaid sp strip of 10 tablets,serratiopeptidase(10.0 mg) + aceclofenac(100.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.006402868485081316,0.006798332671695118,univentis medicare ltd,0.00045,4
+dolosaid tp 4mg strip of 10 tablets,aceclofenac(100.0 mg) + thiocolchicoside(4.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.01171724932769881,0.01466595807348026,univentis medicare ltd,0.00045,4
+dolosaid tp 8mg strip of 10 tablets,aceclofenac(100.0 mg) + thiocolchicoside(8.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.014918683570239467,0.01866780212321838,albert david ltd,0.00045,4
+dolosal 30 capsules,piroxicam(20.0 mg),bottle | capsule,30 ml,0.015238826994493533,0.019067986528192193,medilab india,0.0014500000000000001,4
+dolosal gel 30 gm,aceclofenac-1.5%w/w + capsaicin-0.01%w/w + linseed oil-3%w/w + menthol-5%w/w + methyl salicylate-10%w/w,tube | gel,30 ml,0.006915097963887821,0.007606705169742218,saltire remedies pvt ltd,0.0014500000000000001,2
+dolosal injection,tramadol,injection,2 ml,0.001600717121270329,0.001695981508279015,salveo lifecare,5e-05,2
+dolosal mr capsule 10,piroxicam(20.0 mg),strip,10 ml,0.009476245357920349,0.010424003380757853,medilab india,0.00045,4
+dolosal mr strip of 10 tablets,gloria superba(8.0 mg) + boswelia serrata(400.0 mg) + curcuma longa(25.0 mg),strip,10 tablet,0.018760404661288255,0.020636709395689536,medilab india,0.00045,4
+dolosal p tablets,paracetamol + tramadol,strip,10 tablet,0.003393520297093097,0.0037329201295957177,salveo lifecare,0.00045,4
+dolosant p bottle of 60ml suspension,aceclofenac(100.0 mg) + paracetamol / acetaminophen(125.0 mg),bottle,60 ml,0.003201434242540658,0.003521622763769545,pleasant care pharma,0.00295,2
+dolosap tablet 10s,aceclofenac-100mg + paracetamol-325mg + serratiopeptidase-15mg,strip | tablet,10 tablet,0.00627481111537969,0.006902380616988309,proliva pharmaceuticals,0.00045,2
+doloscan50 tablet 10s,tapentadol-50mg,strip | tablet,10 tablet,0.011397105903444744,0.012536977039019582,medishri healthcare pvt ltd,0.00045,2
+dolosec sp 100mg/500mg/15mg tablet,aceclofenac (100mg) + paracetamol (500mg) + serratiopeptidase (15mg),strip,1001 tablet,0.0037136637213471633,0.00451728156334439,care formulations,0.05,4
+dolosen 650mg tablet,paracetamol (650mg),strip,1001 tablet,0.0008964015879113843,0.0010997067448680353,sentosa geigy india labs ltd,0.05,4
+dolosen p 50mg/325mg tablet,diclofenac (50mg) + paracetamol (325mg),strip,1001 tablet,0.0021769752849276473,0.002652422236166425,sentosa geigy india labs ltd,0.05,4
+doloser ap 100mg/325mg/15mg tablet,aceclofenac-100mg + paracetamol-325mg + serratiopeptidase-15mg,strip | tablet,10 tablet,0.004930208733512614,0.005423299056205099,global health care,0.00045,2
+doloserch mf syrup 60ml,mefenamic acid + paracetamol,bottle,60 ml,0.0030093481879882185,0.003310325397943372,healthkind labs pvt ltd,0.00295,2
+doloserch tablets,nimesulide + paracetamol,strip,10 tablet,0.002305032654629274,0.002535568389914072,healthkind labs pvt ltd,0.00045,4
+doloset 20mg tablet dt,piroxicam-20mg,strip | tablet,10 tablet,0.0021129466000768342,0.0023242710240879,amwin pharmaceuticals,0.00045,2
+dolosic mr 100mg/325mg/250mg tablet,aceclofenac (100mg) + paracetamol (325mg) + chlorzoxazone (250mg),strip,1001 tablet,0.005506466897169932,0.00668628103830245,zemilon biotech,0.05,4
+dolosic p 100mg/325mg tablet,aceclofenac (100mg) + paracetamol (325mg),strip,1001 tablet,0.002305032654629274,0.0028044923100564736,zemilon biotech,0.05,4
+dolosic p oral suspension,aceclofenac (50mg) + paracetamol (125mg),bottle,6001 ml,0.0030733768728390316,0.003740923817695194,zemilon biotech,0.30000000000000004,0
+dolosic sp 100mg/325mg/15mg tablet,aceclofenac (100mg) + paracetamol (325mg) + serratiopeptidase (15mg),strip,1001 tablet,0.005698552951722372,0.006918387993187261,zemilon biotech,0.05,4
+dolosig gel,diclofenac diethylamine (1.16% w/w) + linseed oil (3% w/w) + methyl salicylate (10% w/w) + menthol (5% w/w),other,3001 ml,0.005954667691125624,0.007230531829066834,signity pharmaceuticals pvt ltd,0.15000000000000002,4
+dolosig gel 30 gm,diclofenac-1.16%w/w + linseed oil-3%w/w + menthol-5%w/w + methyl salicylate-10%w/w,tube | gel,30 ml,0.006594954539633756,0.007254542893365264,signity pharma pvt ltd,0.0014500000000000001,2
+dolosig mr 100mg/4mg tablet,aceclofenac (100mg) + thiocolchicoside (4mg),strip,1001 tablet,0.013020873351261366,0.015786474407406933,signity pharmaceuticals pvt ltd,0.05,4
+dolosig sp 100mg/325mg/15mg tablet,aceclofenac (100mg) + paracetamol (325mg) + serratiopeptidase (15mg),strip,1001 tablet,0.005314380842617493,0.00645417408341764,signity pharmaceuticals pvt ltd,0.05,4
+dolosig sp strip of 10 tablets,aceclofenac(100.0 mg) + serratiopeptidase(15.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.00627481111537969,0.007862823188925457,signity pharmaceuticals pvt ltd,0.00045,4
+dolosmilerb capsule 10s,aceclofenac-200mg + rabeprazole-20mg,strip | capsule,10 ml,0.0072352413881418874,0.007958867446119173,migliore life sciences,0.00045,2
+dolosmile sp tablet,aceclofenac (100mg) + paracetamol (325mg) + serratiopeptidase (15mg),strip,1001 tablet,0.004289921885004482,0.0052136024279988225,migliore life sciences,0.05,4
+dolospa oral suspension,dicyclomine (10mg) + simethicone (40mg),bottle,3001 ml,0.0037136637213471633,0.00451728156334439,indus life sciences pvt ltd,0.15000000000000002,4
+dolospan dp strip of 10 tablets,dicycloverine hydrochloride,strip,10 tablet,0.0046740939941093615,0.005141569235103536,emcure pharmaceuticals ltd,0.00045,4
+dolospan injection 2ml,tramadol(100.0 mg),injection,2 ml,0.0012344730439236779,0.0013582258704811178,emcure pharmaceuticals ltd,5e-05,2
+dolospan od strip of 10 tablets,dexketoprofen(75.0 mg),strip,10 tablet,0.005705596107055961,0.006276492207609267,emcure pharmaceuticals ltd,0.00045,4
+dolospan p fizz 325/375 mg tablet 15,paracetamol + tramadol,strip,1000 tablet,0.009796388782174413,0.010776165657134809,emcure pharmaceuticals ltd,0.04995,4
+dolospan p fizz tablet 10,paracetamol + tramadol,strip,30 tablet,0.009796388782174413,0.010776165657134809,emcure pharmaceuticals ltd,0.0014500000000000001,4
+dolospan p tablet 10s,paracetamol + tramadol,strip | tablet,10 tablet,0.003393520297093097,0.0037329201295957177,emcure pharma ltd renal care,0.00045,2
+dolospan pfizz tablet 15s,acetaminophen-325mg + tramadol hydrochloride-37.5mg,strip | tablet,15 tablet,0.009796388782174413,0.010776165657134809,emcure pharma ltd renal care,0.0007,2
+dolospan sr strip of 10 tablets,dexketoprofen,strip,10 tablet,0.009156101933666283,0.0100718411043809,emcure pharmaceuticals ltd,0.00045,4
+dolospan tablets,nimesulide(100.0 mg) + dicycloverine / dicyclomine(20.0 mg),strip,10 tablet,0.0044820079395569215,0.004930271869277364,emcure pharmaceuticals ltd,0.00045,4
+dolosparksp 100 mg/325 mg/15 mg tablet 10s,aceclofenac-100mg + paracetamol-325mg + serratiopeptidase-15mg,strip | tablet,10 tablet,0.004994237418363427,0.005493731511480491,spark medicare pvt ltd,0.00045,2
+dolospark sp tablets,aceclofenac(100.0 mg) + serratiopeptidase(15.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.004994237418363427,0.005493731511480491,spark medicare pvt ltd,0.00045,4
+dolospark tablet 10s,aceclofenac-100mg + paracetamol-325mg,strip | tablet,10 tablet,0.0030093481879882185,0.003310325397943372,spark medicare pvt ltd,0.00045,2
+dolospark tablets,aceclofenac + paracetamol,strip,10 tablet,0.0030093481879882185,0.003310325397943372,spark medicare pvt ltd,0.00045,4
+dolosparkth tablet 10s,aceclofenac-100mg + paracetamol-325mg + thiocolchicoside-4mg,strip | tablet,10 tablet,0.012037392751952874,0.013241301591773488,spark medicare pvt ltd,0.00045,2
+dolospas 20mg/325mg tablet,dicyclomine (20mg) + paracetamol (325mg),strip,1001 tablet,0.001760788833397362,0.0017319981047266581,intas pharmaceuticals ltd,0.05,4
+dolospas 20 mg/500 mg tablet,dicyclomine (20mg) + paracetamol (500mg),strip,1001 tablet,0.0021129466000768342,0.002572385355171663,intas pharmaceuticals ltd,0.05,4
+dolospas drops,dicycloverine + paracetamol,bottle,10 ml,0.0007408118837239084,0.0007819603273188286,intas pharmaceuticals ltd gx,0.00045,2
+dolospas spas oral drops,dicyclomine (10mg) + simethicone (40mg),other,1001 ml,0.0014086310667178897,0.0013790354595397559,intas pharmaceuticals ltd,0.05,4
+dolospas tablet,dicycloverine / dicyclomine(20.0 mg) + paracetamol / acetaminophen(500.0 mg),strip,10 tablet,0.0044820079395569215,0.004757392206328677,intas pharmaceuticals ltd,0.00045,4
+dolostan tablet,mefenamic acid (250mg),strip,1001 tablet,0.0011461134588295555,0.0014038468926481323,stanford biotech pvt ltd,0.05,4
+dolostat 200mg tablet sr,aceclofenac (200mg),strip,1001 tablet,0.0019176591112818541,0.002340278400286852,blue cross laboratories ltd,0.05,4
+dolostat 200 mg tablet sr 10,aceclofenac(200.0 mg),strip,10 tablet,0.0021769752849276473,0.0023947034793632906,blue cross laboratories pvt ltd,0.00045,4
+dolostat gel 30gm,diclofenac(1.16 %) + methyl salicylate(5.0 %) + menthol(5.0 %) + linseed oil(3.0 %) + capsaicin(0.025 %),tube,30 ml,0.004225893200153669,0.004485266810946484,blue cross laboratories pvt ltd,0.0014500000000000001,1
+dolostat mr 100 mg/325 mg/500 mg tablet,aceclofenac (100mg) + paracetamol (325mg) + chlorzoxazone (500mg),strip,1001 tablet,0.003329491612242284,0.0035328279271088117,blue cross laboratories ltd,0.05,4
+dolostat mr strip of 10 tablets,aceclofenac(100.0 mg) + chlorzoxazone(500.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.003329491612242284,0.003662487674320327,blue cross laboratories pvt ltd,0.00045,4
+dolostat mr tablet 10s,aceclofenac-100mg + chlorzoxazone-500mg + paracetamol-325mg,strip | tablet,10 tablet,0.003329491612242284,0.0036608869367004315,blue cross laboratories pvt ltd,0.00045,2
+dolostat pc 100 mg/325 mg tablet,aceclofenac (100mg) + paracetamol (325mg),strip,1001 tablet,0.001760788833397362,0.0019480976834125167,blue cross laboratories ltd,0.05,4
+dolostat pc strip of 10 tablets,aceclofenac(100.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.001760788833397362,0.0019368925200732498,blue cross laboratories pvt ltd,0.00045,4
+dolostat pc tablet 10s,aceclofenac-100mg + paracetamol-325mg,strip | tablet,10 tablet,0.001760788833397362,0.0019400939953130405,blue cross laboratories pvt ltd,0.00045,2
+dolostat plus 100 mg/325 mg/10 mg tablet,aceclofenac (100mg) + paracetamol (325mg) + rabeprazole (10mg),strip,1001 tablet,0.001920860545524395,0.002340278400286852,blue cross laboratories ltd,0.05,4
+dolostat plus gel,capsaicin + diclofenac + linseed oil + menthol + methyl salcylate,tube,30 ml,0.004994237418363427,0.00626208556903021,blue cross laboratories pvt ltd,0.0014500000000000001,1
+dolostat plus r capsule sr,aceclofenac (200mg) + rabeprazole (20mg),other,1001 ml,0.004033807145601229,0.004901458592119249,blue cross laboratories ltd,0.05,4
+dolostat plus r strip of 10 capsules,rabeprazole(20.0 mg) + aceclofenac(200.0 mg),strip,10 ml,0.004866180048661801,0.005352866600929709,blue cross laboratories pvt ltd,0.00045,4
+dolostat plus tablets,aceclofenac + paracetamol + rabeprazole,strip,10 tablet,0.005185683186067358,0.005704228508496716,blue cross laboratories pvt ltd,0.00045,4
+dolostat r 200mg/20mg capsule,aceclofenac (200mg) + rabeprazole (20mg),other,1001 ml,0.0044179792547061085,0.005477724135281538,blue cross laboratories ltd,0.05,4
+dolostat r capsule 10s,aceclofenac-200mg + rabeprazole-20mg,strip | capsule,10 ml,0.004866180048661801,0.005349665125689918,blue cross laboratories pvt ltd,0.00045,2
+dolostat r strip of 10 capsules,rabeprazole(20.0 mg) + aceclofenac(200.0 mg),strip,10 ml,0.0044179792547061085,0.005541753640077348,blue cross laboratories pvt ltd,0.00045,4
+dolostat sp strip of 10 tablets,aceclofenac(100.0 mg) + serratiopeptidase(15.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.003329491612242284,0.003662487674320327,blue cross laboratories pvt ltd,0.00045,4
+dolostatsp tablet 10s,aceclofenac-100mg + paracetamol-325mg + serratiopeptidase-15mg,strip | tablet,10 tablet,0.003329491612242284,0.0036608869367004315,blue cross laboratories pvt ltd,0.00045,2
+dolosun tablet,caffeine-25mg + paracetamol-325mg,strip | tablet,10 tablet,0.0010244589576130106,0.0011269192844062545,sun life sciences pvt ltd,0.00045,2
+dolosure 100mg tablet sr,diclofenac (100mg),strip,1001 tablet,0.0030093481879882185,0.0036608869367004315,amwin pharmaceuticals,0.05,4
+dolosure aq 75mg injection,diclofenac (75mg/ml),other,3001 ml,0.0009860417467025227,0.0012117583782607026,amwin pharmaceuticals,0.15000000000000002,4
+doloswift 2mg injection 2ml,piroxicam,injection,2 ml,0.000768344218209758,0.0008451894633046909,ind swift laboratories ltd,5e-05,2
+doloswift 20mg capsule,piroxicam (20mg),other,1001 ml,0.00017159687540017928,0.00021930105392564895,ind swift laboratories ltd,0.05,4
+doloswift 20mg capsules,piroxicam(20.0 mg),strip,10 ml,0.017735945703675246,0.01950979011128328,ind swift laboratories ltd,0.00045,4
+doloswift 20mg tablet dt,piroxicam (20mg),strip,1001 tablet,0.00011205019848892304,0.00014726786103036278,ind swift laboratories ltd,0.05,4
+doloswift 50 tablet 10s,tapentadol-50mg,strip | tablet,10 tablet,0.017735945703675246,0.019508189373663384,cell salve pharmaceutical,0.00045,2
+doloswift dt 20mg tablet,piroxicam(20.0 mg),strip,10 tablet,0.0021129466000768342,0.0023242710240879,ind swift laboratories ltd,0.00045,4
+doloswin 650mg tablet,paracetamol-650mg,strip | tablet,10 tablet,0.0010724804712511206,0.0011797436258627976,indmark biotech pvt ltd,0.00045,2
+dolosys mr 100mg/325mg/250mg tablet,aceclofenac (100mg) + paracetamol (325mg) + chlorzoxazone (250mg),strip,1001 tablet,0.004994237418363427,0.00606999705464278,curelife pharmaceuticals,0.05,4
+dolotejaqua injection,diclofenac (75mg),other,101 ml,0.0018568318606735819,0.002268245207391566,oxyzeal pharmaceuticals pvt ltd,0.005000000000000001,2
+doloten 20mg injection,piroxicam-20mg,vial | injection,2 ml,0.0014726597515687027,0.0016199464713339909,tuttsan pharma pvt ltd,5e-05,2
+dolotez gel,diclofenac (1.16% w/w) + capsaicin (0.01% w/w) + methyl salicylate (10% w/w) + menthol (5% w/w) + linseed oil (3% w/w),other,3001 ml,0.006210782430528877,0.007542675664946407,oxyzeal pharmaceuticals pvt ltd,0.15000000000000002,4
+dolotop cream 15gm,capsicum oleoresin + menthol + methyl salcylate + piroxicam,tube,15 ml,0.0014086310667178897,0.0015495140160585999,commonwealth pharmaceuticals,0.0007,1
+dolotop cream 5gm,capsicum oleoresin + menthol + methyl salcylate + piroxicam,tube,5 ml,0.0010884876424638239,0.0011973517396816453,commonwealth pharmaceuticals,0.0002,1
+dolotrag p tablets,paracetamol + tramadol,strip,10 tablet,0.0036899731079523624,0.0040250547452266,agron remedies,0.00045,4
+dolotram 100mg injection 2ml,tramadol(100.0 mg),injection,2 ml,0.0014566525803559995,0.0016023383575151432,ranbaxy laboratories sun pharma,5e-05,2
+dolotram 50mg capsules,tramadol(50.0 mg),strip,10 ml,0.0035215776667947237,0.003873785040146499,ranbaxy laboratories sun pharma,0.00045,4
+dolotram 50mg injection 1ml,tramadol(50.0 mg),injection,1 ml,0.0008016391343321808,0.0008820064285622814,ranbaxy laboratories sun pharma,0.0,2
+dolotrap tablet 10s,paracetamol-325mg + tramadol-37.5mg,strip | tablet,10 tablet,0.004994237418363427,0.005493731511480491,integral lifesciences,0.00045,2
+dolotus aqua 75 mg injection 1 ml,diclofenac(75.0 mg),vial,1 ml,0.0008547829427583557,0.0009404333516884582,aptus pharma pvt ltd,0.0,2
+dolotus p syrup,paracetamol (250mg/5ml),other,6001 ml,0.0036899731079523624,0.003052606641140237,aptus pharma pvt ltd,0.30000000000000004,0
+dolotus p tablet,aceclofenac (100mg) + paracetamol (500mg),strip,1001 tablet,0.0023626584709950053,0.00287652550295176,aptus pharma pvt ltd,0.05,4
+dolotusp tablet 10s,aceclofenac-100mg + paracetamol-325mg,strip | tablet,10 tablet,0.0030093481879882185,0.003308724660323477,aptus pharma pvt ltd,0.00045,2
+dolotus sf syrup 100 ml,levocloperastine fendizoate(20.0 mg),bottle,100 ml,0.007107184018440261,0.007818002535568391,micro labs,0.00495,4
+dolotus sp tablet,aceclofenac (100mg) + paracetamol (325mg) + serratiopeptidase (15mg),strip,1001 tablet,0.0036899731079523624,0.004973491785014535,aptus pharma pvt ltd,0.05,4
+dolotuss sf bottle of 100ml suspension,levocloperastine fendizoate(20.0 mg/5ml),bottle,100 ml,0.007747470866948393,0.008522327088322299,micro labs,0.00495,4
+dolotuss sf oral suspension 100 ml,levocloperastine fendizoate-20mg,bottle | oral suspension,100 ml,0.008451786400307337,0.009295483358731704,micro labs ltd,0.00495,2
+dolotuss sf oral suspension sugar free,levocloperastine (20mg/5ml),bottle,10001 ml,0.008451786400307337,0.00843108504398827,micro labs ltd,0.5,0
+dolotuss sugar free bottle of 100ml suspension,levocloperastine fendizoate(20.0 mg),bottle,100 ml,0.007107184018440261,0.007908444211092472,micro labs,0.00495,4
+dolour 100mg tablet,aceclofenac-100mg,strip | tablet,10 tablet,0.002369061339480087,0.0026060008451894634,saviour health care,0.00045,2
+dolour 100mg tablets,aceclofenac(100.0 mg),strip,10 tablet,0.006530925854782943,0.007184110438089872,savior lifesciences,0.00045,4
+dolout p tablets,tramadol(37.5 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.0024330900243309,0.002676433300464854,ttk healthcare ltd,0.00045,4
+doloval 10 mg tablet 10,valdecoxib(10.0 mg),strip,10 tablet,0.0017287744909719553,0.0019016762924355544,elder pharmaceuticals ltd,0.00045,4
+dolovay 50 injection,nandrolone decanoate (50mg),other,101 ml,0.0075553848123959535,0.009143413284841655,anevay pharmaceuticals pvt ltd,0.005000000000000001,2
+dolovera gel 30gm,aloe vera-2%w/w + diclofenac sodium-1%w/w + menthol-5%w/w + methyl salicylate-15%w/w,tube | gel,30 ml,0.006242796772954283,0.006870365864590403,adinos,0.0014500000000000001,2
+dolovera tube of 30gm gel,diclofenac(1.16 %w/w) + menthol(5.0 %w/w) + methyl salicylate(15.0 %w/w) + aloe vera(2.0 %w/w),tube,30 ml,0.00617876808810347,0.006796731934075223,denzai innovations & therapeutics pvt ltd,0.0014500000000000001,1
+dolovij oint,diclofenac + linseed oil + menthol + methyl salicylate,tube,30 ml,0.0036899731079523624,0.0040250547452266,agron remedies,0.0014500000000000001,1
+dolovis r 200/20 mg capsule 10,aceclofenac(100.0 mg) + rabeprazole(20.0 mg),strip,10 ml,0.004033807145601229,0.005061532354108774,inovis healthcare pvt ltd,0.00045,4
+dolovis sp 100/325/15 mg tablet 10,aceclofenac(100.0 mg) + serratiopeptidase(15.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.006787040594186195,0.008503118236883557,inovis healthcare pvt ltd,0.00045,4
+dolovistpg tablet sr,aceclofenac (200mg) + pregabalin (75mg),strip,1001 tablet,0.012613650915610192,0.01530625312143836,lifevista biotech,0.05,4
+dolovistsp tablet,aceclofenac (100mg) + paracetamol (325mg) + serratiopeptidase (15mg),strip,1001 tablet,0.004994237418363427,0.00606999705464278,lifevista biotech,0.05,4
+doloviz drops 5ml,piroxicam(20.0 mg),bottle,5 ml,0.0008643872454859778,0.0009508381462177773,ochoa laboratiories ltd,0.0002,4
+dolowalk 50mg/500mg tablet,diclofenac-50mg + paracetamol-500mg,strip | tablet,10 tablet,0.001920860545524395,0.002112973658261727,invision medi sciences pvt ltd,0.00045,2
+dolowalk gel,benzyl alcohol + diclofenac diethylamine + menthol + methyl salicylate + oleum,tube,30 ml,0.004802151363810988,0.005282434145654318,invision medi sciences pvt ltd,0.0014500000000000001,1
+dolowalk injection 3ml,diclofenac sodium,injection,3 ml,0.00032014342425406585,0.0003521622763769546,invision medi sciences pvt ltd,0.00010000000000000002,2
+dolowalk mr tablets,chlorzoxazone + diclofenac sodium + paracetamol,strip,10 tablet,0.0021129466000768342,0.0023242710240879,invision medi sciences pvt ltd,0.00045,4
+dolowalk s tablets,diclofenac potassium + serratiopeptidase,strip,10 tablet,0.01026379818158535,0.011290002433121182,invision medi sciences pvt ltd,0.00045,4
+dolowalk tablets,diclofenac sodium + paracetamol,strip,10 tablet,0.0036899731079523624,0.0040250547452266,invision medi sciences pvt ltd,0.00045,4
+dolowell gel 30gm,methyl salicylate(10.0 %w/w) + linseed oil(3.0 %w/w) + diclofen diethylamine(1.16 %w/w) + menthol(5.0 %w/w),tube,30 ml,0.005314380842617493,0.006662269974004022,uniwell medicare pvt ltd,0.0014500000000000001,1
+dolowell gel 30 gm,diclofenac-1%w/w + linseed oil-3%w/w + menthol-5%w/w + methyl salicylate-10%w/w,tube | gel,30 ml,0.005314380842617493,0.005845893787857445,uniwell medicare pvt ltd,0.0014500000000000001,2
+dolowell sp 100mg/325mg/15mg tablet,aceclofenac (100mg) + paracetamol (325mg) + serratiopeptidase (15mg),strip,1001 tablet,0.005762581636573185,0.006998424874182024,uniwell medicare pvt ltd,0.05,4
+dolowhite emulsion 100 ml,piroxicam(20.0 mg),bottle | liquid,100 ml,0.018120117812780123,0.022669646172956498,dr. jrk s research and pharmaceuticals pvt ltd,0.00495,4
+dolowhite emulsion 50 ml,piroxicam(20.0 mg),bottle | emulsion,50 ml,0.010436675630682546,0.011480490209888717,dr. jrk's research and pharmaceuticals pvt ltd,0.00245,4
+dolowin 100mg strip of 10 tablets,aceclofenac(100.0 mg),strip,10 tablet,0.0037136637213471633,0.004661347949134962,micro labs,0.00045,4
+dolowin 100 mg tablet 10s,aceclofenac-100mg,strip | tablet,10 tablet,0.0037136637213471633,0.0040850824059726724,micro labs ltd,0.00045,2
+dolowin forte strip of 10 tablets,aceclofenac(100.0 mg) + serratiopeptidase(15.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.010244589576130106,0.01191749158012012,micro labs,0.00045,4
+dolowin forte tablet 10s,aceclofenac-100mg + paracetamol-325mg + serratiopeptidase-15mg,strip | tablet,10 tablet,0.010244589576130106,0.011272394319302334,micro labs ltd,0.00045,2
+dolowin gel,methyl salicylate(10.0 %) + menthol(5.0 %) + capsaicin(0.025 %) + linseed oil(3.0 %),tube,30 ml,0.00768344218209758,0.00962363457081023,micro labs,0.0014500000000000001,4
+dolowin gel 30 gm,capsaicin-0.025%w/w + diclofenac diethylamine-1.16%w/w + menthol-5%w/w + methyl salicylate-10%w/w + virgin linseed oil-3%w/w,tube | gel,30 ml,0.00768344218209758,0.0084550961082867,micro labs ltd,0.0014500000000000001,2
+dolowin injection,aceclofenac(150.0 mg),injection,1 ml,0.00019208605455243947,0.0002112973658261727,micro labs,0.0,4
+dolowin mr strip of 10 tablets,chlorzoxazone(250.0 mg) + aceclofenac(100.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.006658983224484569,0.007324975348640655,micro labs,0.00045,4
+dolowinmr tablet,aceclofenac (100mg) + paracetamol (325mg) + chlorzoxazone (250mg),strip,1001 tablet,0.006658983224484569,0.006630255221606116,micro labs ltd,0.05,4
+dolowin mr tablet 10s,aceclofenac-100mg + chlorzoxazone-250mg + paracetamol-500mg,strip | tablet,10 tablet,0.006658983224484569,0.0073265760862605495,micro labs ltd,0.00045,2
+dolowin nano gel 30 gm,capsaicin-0.025%w/w + diclofenac-1%w/w + menthol-5%w/w + methyl salicylate-10%w/w + virgin linseed oil-3%w/w,tube | gel,30 ml,0.00768344218209758,0.0084550961082867,micro labs ltd,0.0014500000000000001,2
+dolowin old tablet 10,pentazocine,strip,10 tablet,0.0015027532334485848,0.0016527615925418433,micro labs,0.00045,4
+dolowin plus strip of 10 tablets,aceclofenac(100.0 mg) + paracetamol / acetaminophen(500.0 mg),strip,10 tablet,0.005122294788065054,0.005634596422031272,micro labs,0.00045,4
+dolowin plus tab 1x10,aceclofenac 100 mg+paracetamol/acetaminophen 500 mg,strip,10 ml,0.005122294788065054,0.005437705694784157,micro labs ltd,0.00045,2
+dolowinplus tablet,aceclofenac (100mg) + paracetamol (325mg),strip,1001 tablet,0.005122294788065054,0.005405690942386252,micro labs ltd,0.05,4
+dolowin plus tablet 10s,aceclofenac-100mg + paracetamol-325mg,strip | tablet,10 tablet,0.005122294788065054,0.005637797897271063,micro labs ltd,0.00045,2
+dolowin spas strip of 10 tablets,drotaverine(80.0 mg) + aceclofenac(100.0 mg),strip,10 tablet,0.007534255346395185,0.008287819027007646,micro labs,0.00045,4
+dolowin spas tab 1x10,aceclofenac 100 mg+drotaverine 80 mg,strip,10 ml,0.0074913561275451405,0.007954865602069434,micro labs ltd,0.00045,2
+dolowin spas tablet 10s,aceclofenac-100mg + drotaverine-80mg,strip | tablet,10 tablet,0.008195671660904085,0.009015354275250036,micro labs ltd,0.00045,2
+dolowin sr 200mg strip of 10 tablets,aceclofenac(200.0 mg),strip,10 tablet,0.005378409527468306,0.005916326243132836,micro labs,0.00045,4
+dolowin sr tablet 10s,aceclofenac-200mg,strip | tablet,10 tablet,0.005890639006274811,0.0064781851477160686,micro labs ltd,0.00045,2
+dolowin tc 4 strip of 10 tablets,aceclofenac(100.0 mg) + thiocolchicoside(4.0 mg),strip,10 tablet,0.010244589576130106,0.012825109810600725,micro labs,0.00045,4
+dolowin tc 4 tablet 10s,aceclofenac-100mg + thiocolchicoside-4mg,strip | tablet,10 tablet,0.012165450121654502,0.013385367977564061,micro labs ltd,0.00045,2
+dolowin tc 8mg strip of 10 tablets,aceclofenac(100.0 mg) + thiocolchicoside(8.0 mg),strip,10 tablet,0.016519400691509794,0.02066872414808744,micro labs,0.00045,4
+dolowin tc 8 tablet,aceclofenac (100mg) + thiocolchicoside (8mg),strip,1001 tablet,0.016519400691509794,0.02026853974311363,micro labs ltd,0.05,4
+dolowin tc 8 tablet 10s,aceclofenac-100mg + thiocolchicoside-8mg,strip | tablet,10 tablet,0.01805608912792931,0.01986035165004034,micro labs ltd,0.00045,2
+dolowind aq injection,diclofenac (75mg),other,101 ml,0.0008323729030605712,0.0010196698638732728,glanwind healthcare,0.005000000000000001,2
+dolox 20mg tablet dt,piroxicam (20mg),strip,1001 tablet,0.002369061339480087,0.0028845291910512363,aronex life sciences pvt ltd,0.05,4
+dolox dt 20mg tablets,piroxicam(20.0 mg),strip,10 tablet,0.002369061339480087,0.0026060008451894634,aronex life sciences pvt ltd,0.00045,4
+doloxer 650mg tablet,paracetamol (650mg),strip,1501 tablet,0.0036899731079523624,0.0020121271882083264,alisier drugs pvt ltd,0.07500000000000001,4
+doloxia 90mg strip of 10 tablets,etoricoxib(90.0 mg),strip,10 tablet,0.006210782430528877,0.006831948161712918,dolopharma healthcare,0.00045,4
+doloxicam 20mg/2ml inj,piroxicam-20mg,ampoule | injection,2 ml,0.015302855679344345,0.01683495754843832,troikaa laboratories,5e-05,2
+doloxicam 20mg dt tablet 15s,piroxicam-20mg,strip | tablet,15 tablet,0.013734152900499423,0.015106160918951454,triokaa pharmaceuticals ltd,0.0007,2
+doloxicam ampoule of 2ml injection,piroxicam(40.0 mg),ampoule,2 ml,0.003270585222179536,0.003597657800714569,troikaa pharmaceuticals ltd,5e-05,2
+doloxicam dt 20mg tab 1x15,piroxicam 20 mg,strip tablet,15 ml,0.013739915482135996,0.014593924880584974,troikaa pharmaceuticals ltd,0.0007,2
+doloxicam dt strip of 15 tablets,piroxicam(20.0 mg),strip,15 tablet,0.01133307721859393,0.012466544583744191,troikaa pharmaceuticals ltd,0.0007,4
+doloxicam dt tablet,piroxicam (20mg),strip,1501 tablet,0.013739915482135996,0.015418304754831027,troikaa pharmaceuticals ltd,0.07500000000000001,4
+doloxicam injection,piroxicam (40mg),other,201 ml,0.002681521321552055,0.0032607025317266196,troikaa pharmaceuticals ltd,0.01,2
+doloxicam injection 5 x 2 ml,piroxicam-20mg,packet | injection,52 ml,0.01683954411576386,0.018523735737427806,troikaa pharmaceuticals ltd,0.00255,1
+doloxicam tablet,piroxicam (na),strip,1501 tablet,0.0036899731079523624,0.015618396957317933,troikaa pharmaceuticals ltd,0.07500000000000001,4
+doloxycv 375 mg tablet 6s,amoxycillin-250mg + clavulanic acid-125mg,strip | tablet,6 tablet,0.00870790113971059,0.009578813917453162,dolvis bio pharma pvt ltd,0.00025,2
+doloxycv 375 tablet,amoxycillin (250mg) + clavulanic acid (125mg),strip,601 tablet,0.005954667691125624,0.007230531829066834,dolvis bio pharma pvt ltd,0.03,4
+doloxycv 500/125 mg tablet 6,amoxicillin(500.0 mg) + clavulanate(125.0 mg),strip,6 tablet,0.005954667691125624,0.006550218340611353,dolvis biopharma,0.00025,4
+doloxycv forte dry syrup,amoxycillin-400mg + clavulanic acid-57mg,bottle | syrup,30 ml,0.008131642976053273,0.008944921819974645,dolvis bio pharma pvt ltd,0.0014500000000000001,2
+doloxycv lb tablet,amoxycillin (500mg) + clavulanic acid (125mg) + lactobacillus (60million spores),strip,601 tablet,0.009860417467025227,0.010736147216637428,dolvis bio pharma pvt ltd,0.03,4
+doloxy cv oral drops,amoxycillin (80mg) + clavulanic acid (11.4mg),other,1001 ml,0.003393520297093097,0.004125100846470053,dolvis bio pharma pvt ltd,0.05,4
+dolozak tablet,chlorzoxazone (250mg) + diclofenac (50mg) + paracetamol (325mg),strip,1001 tablet,0.0021769752849276473,0.002373093521494705,zetek pharmaceuticals pvt ltd,0.05,4
+dolozap 100/325mg strip of 10 tablets,aceclofenac(100.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.0029453195031374055,0.0032398929426679813,stable pharma,0.00045,4
+dolozap 100mg/325mg tablet,aceclofenac (100mg) + paracetamol (325mg),strip,1001 tablet,0.002753233448584966,0.0029997822996836944,stable pharma,0.05,4
+dolozap gel 30 gm,diclofenac(1.16 %w/w) + linseed oil(3.0 %w/w) + menthol(5.0 %w/w) + methyl salicylate(10.0 %w/w),tube,30 ml,0.004802151363810988,0.005282434145654318,stable pharma,0.0014500000000000001,1
+dolozap mr 4 mg tablet 10,aceclofenac(100.0 mg) + thiocolchicoside(4.0 mg),strip,10 tablet,0.01011653220642848,0.011128327933511763,stable pharma,0.00045,4
+dolozed mr tablet,chlorzoxazone (250mg) + diclofenac (50mg) + paracetamol (325mg),strip,1001 tablet,0.0021065437315917527,0.0025643816670721867,zed pharmaceuticals,0.05,4
+dolozed tablet,diclofenac (50mg) + paracetamol (325mg),strip,1001 tablet,0.0011461134588295555,0.0014038468926481323,zed pharmaceuticals,0.05,4
+dolozen d 50 mg/10 mg tablet,diclofenac (50mg) + serratiopeptidase (10mg),strip,1001 tablet,0.003801383019592777,0.004145110066718744,litaka pharmaceuticals ltd,0.05,4
+dolozer mr tablet,chlorzoxazone (250mg) + diclofenac (50mg) + paracetamol (325mg),strip,1001 tablet,0.0037136637213471633,0.004051466915954873,zerdia healthcare pvt ltd,0.05,4
+dolozest mr 250mg/50mg/325mg tablet,piroxicam(20.0 mg),strip | tablet,10 tablet,0.003393520297093097,0.0037329201295957177,aerozest life science,0.00045,2
+dolozest p 100mg/325mg tablet,aceclofenac (100mg) + paracetamol (325mg),strip,1001 tablet,0.0028940965552567547,0.003524824239009335,scieniq healthcare pvt ltd,0.05,4
+dolozest sp 100mg/325mg/15mg tablet,aceclofenac (100mg) + paracetamol (325mg) + serratiopeptidase (15mg),strip,1001 tablet,0.004904597259572288,0.005957945421250113,scieniq healthcare pvt ltd,0.05,4
+dolozest sp 50mg/325mg/15mg tablet,diclofenac (50mg) + paracetamol (325mg) + serratiopeptidase (15mg),strip,1001 tablet,0.004097835830452042,0.004981495473114011,aerozest life science,0.05,4
+dolozid 75mg injection,diclofenac (75mg),other,101 ml,0.0010244589576130106,0.00125978050685756,next wave india,0.005000000000000001,2
+dolozit 20mg injection,piroxicam (20mg),other,201 ml,0.0014726597515687027,0.001796027609522468,zither pharmaceutical pvt ltd,0.01,2
+dolozox mr neo strip of 1o tablets,diclofenac sodium(50.0 mg) + chlorzoxazone(250.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.00408503009348188,0.004335597843486279,micro labs,0.00045,4
+dolozoxmr neo tablet 10s,chlorzoxazone-250mg + diclofenac-50mg + paracetamol-325mg,strip | tablet,10 tablet,0.004065821488026636,0.004472460909987323,micro labs ltd,0.00045,2
+dolozox mr strip of 10 tablets,diclofenac(50.0 mg) + chlorzoxazone(250.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.00408503009348188,0.004335597843486279,micro labs,0.00045,4
+dolozoxmr tablet 10s,chlorzoxazone-250mg + diclofenac-50mg + paracetamol-325mg,strip | tablet,10 tablet,0.003969778460750416,0.004365211489454341,micro labs ltd,0.00045,2
+dolozox strip of 10 tablets,diclofenac(50.0 mg) + chlorzoxazone(250.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.004056217185299014,0.004305183828708269,micro labs,0.00045,4
+dolozox tablet 10s,chlorzoxazone-250mg + diclofenac-50mg + paracetamol-325mg,strip | tablet,10 tablet,0.004962223075938021,0.005461716759082586,micro labs ltd,0.00045,2
+paracip 100 mg tablet 10,paracetamol / acetaminophen(100.0 mg),strip,10 tablet,0.004797029069022922,0.0052768315639846845,cipla health ltd,0.00045,4
+paracip 1000mg injection,paracetamol (1000mg),other,201 ml,0.0036899731079523624,0.0004193932564125549,cipla ltd,0.01,2
+paracip 125mg suspension,paracetamol (125mg),bottle,6001 ml,0.0036899731079523624,0.001659964911831372,cipla ltd,0.30000000000000004,0
+paracip 125mg syp 60ml,paracetamol/acetaminophen 125 mg /5 ml,bottle,60 ml,0.0014636957356895888,0.001749606218545506,cipla pharmaceutical company ltd,0.00295,2
+paracip 125mg syrup 60ml,paracetamol / acetaminophen(125.0 mg/5ml),bottle,60 ml,0.0014675374567806377,0.001634353109913048,cipla health ltd,0.00295,2
+paracip 150 mg injection 2 ml,paracetamol / acetaminophen(150.0 mg),bottle,2 ml,0.0002561147394032527,0.00028172982110156357,cipla health ltd,5e-05,2
+paracip 150 mg injection 30 ml,paracetamol,injection,10 ml,0.026871558458189268,0.028546754344401903,cipla health ltd,0.00045,1
+paracip 250mg suspension 60ml,paracetamol / acetaminophen(250.0 mg/5ml),bottle,60 ml,0.0027545140222819823,0.0022010142273559655,cipla health ltd,0.00295,2
+paracip 250mg syp 60ml,paracetamol/acetaminophen 250 mg /5ml,bottle syrup,60 ml,0.0027545140222819823,0.003282312489595206,cipla pharmaceutical company ltd,0.00295,2
+paracip 500mg strip of 10 tablets,paracetamol / acetaminophen(500.0 mg),strip,10 tablet,0.0005096683314124729,0.0005370474714748557,cipla health ltd,0.00045,4
+paracip 500mg strip of 15 tablets,paracetamol / acetaminophen(500.0 mg),strip,15 tablet,0.0005096683314124729,0.0005370474714748557,cipla health ltd,0.0007,4
+paracip 500 tablet,paracetamol (500mg),strip,1001 tablet,0.0005096683314124729,0.0005578570605334939,cipla ltd,0.05,4
+paracip 650mg strip of 10 tablets,paracetamol / acetaminophen(650.0 mg),strip,10 tablet,0.001313228326290178,0.0013902406228790227,cipla health ltd,0.00045,4
+paracip 650mg tab 1x10,paracetamol/acetaminophen 650 mg,strip tablet,10 ml,0.0013061851709565884,0.001562319917017762,cipla pharmaceutical company ltd,0.00045,2
+paracip 650mg tablet,paracetamol (650mg),strip,1001 tablet,0.0036899731079523624,0.0016607652806413197,salud care india pvt ltd,0.05,4
+paracip650 tablet 10s,paracetamol-650mg,strip | tablet,10 tablet,0.00131258803944167,0.0014438653331455137,cipla ltd,0.00045,2
+paracip cpm tablets,chlorpheniramine / chlorphenamine(5.0 mg) + paracetamol / acetaminophen(500.0 mg),strip,10 tablet,0.0002740427711614803,0.00030173904135025425,cipla health ltd,0.00045,4
+paracip drops 15 ml,paracetamol-150mg,bottle | drops,15 ml,0.0022410039697784603,0.002468337409878472,cipla ltd,0.0007,2
+paracip injection 100ml,paracetamol / acetaminophen(1000.0 mg),bottle,100 ml,0.032540658214880266,0.034570330008067716,cipla health ltd,0.00495,1
+paracip injection 100 ml,paracetamol-1000mg,vial | injection,100 ml,0.039377641183250094,0.04331916146960519,cipla ltd,0.00495,1
+paracip injection 2ml,paracetamol / acetaminophen(1000.0 mg),ampoule,2 ml,0.01834421820975797,0.020178898436399494,cipla health ltd,5e-05,1
+paracip plus tablets,diclofenac potassium + paracetamol,strip,10 tablet,0.000768344218209758,0.0008451894633046909,cipla health ltd,0.00045,4
+paracip suspension 60 ml,paracetamol-250mg,bottle | suspension,60 ml,0.002753233448584966,0.003028595576841809,cipla ltd,0.00295,2
+paracip suspension 60ml for fever pain management,paracetamol (250mg/5ml),bottle,6001 ml,0.0027545140222819823,0.0020921640692030887,cipla ltd,0.30000000000000004,0
+paracip syrup 60 ml,paracetamol-125mg,bottle | syrup,60 ml,0.0014406454091432962,0.001587931718936086,cipla ltd,0.00295,2
+zerodol 100mg strip of 10 tablets,aceclofenac(100.0 mg),strip,10 tablet,0.0036688436419515936,0.00403545953975592,ipca laboratories,0.00045,4
+zerodol 100mg tablet 10s,aceclofenac 100 mg,strip,10 tablet,0.0036688436419515936,0.0037513286122245132,ipca laboratories ltd,0.00045,4
+zerodol 100 tablet 10s,aceclofenac-100mg,strip | tablet,10 tablet,0.0036496350364963502,0.004013049213077386,ipca laboratories ltd,0.00045,2
+zerodol 150 mg injection 1 ml,aceclofenac-150mg,vial | injection,1 ml,0.0074913561275451405,0.008240597267220736,ipca laboratories ltd,0.0,2
+zerodol ampoule of 1ml injection,aceclofenac(150.0 mg/ml),ampoule,1 ml,0.0011397105903444744,0.0014438653331455137,ipca laboratories,0.0,2
+zerodol cr 200mg strip of 10 tablets,aceclofenac(200.0 mg),strip,10 tablet,0.006319631194775259,0.006952003483205062,ipca laboratories,0.00045,4
+zerodol cr 200mg tablet 10s,aceclofenac 200 mg,strip,10 tablet,0.006319631194775259,0.006467780353186748,ipca laboratories ltd,0.00045,4
+zerodol cr tab 1x10,aceclofenac 200 mg sustained release,strip tablet,10 ml,0.006319631194775259,0.006710292102600879,ipca laboratories ltd,0.00045,2
+zerodol cr tablet,aceclofenac (200mg),strip,1001 tablet,0.006319631194775259,0.006774321607396689,ipca laboratories ltd,0.05,4
+zerodol cr tablet 10s,aceclofenac-200mg,strip | tablet,10 tablet,0.006306825457805097,0.006934395369386214,ipca laboratories ltd,0.00045,2
+zerodol gel 30gm,aceclofenac-1.5%w/w + linseed oil-3%w/w + menthol-1.25%w/w + methyl salicylate-2.5%w/w,tube | gel,30 ml,0.009540274042771161,0.010496036573653141,visco,0.0014500000000000001,2
+zerodol gel 30gm,aceclofenac 1.5 %+linseed oil 3 %+menthol 5 %+methyl salicylate 10 %,tube,30 ml,0.009540274042771161,0.009769301694220698,ipca laboratories ltd,0.0014500000000000001,1
+zerodol mr strip of 10 tablets,aceclofenac(100.0 mg) + tizanidine(2.0 mg),strip,10 tablet,0.00749455756178768,0.008243798742460527,ipca laboratories,0.00045,4
+zerodol mr tab 1x10,aceclofenac 100 mg + tizanidine 2 mg,strip tablet,10 ml,0.00749455756178768,0.007958067077309224,ipca laboratories ltd,0.00045,2
+zerodolmr tablet 10s,aceclofenac-100mg + tizanidine-2mg,strip | tablet,10 tablet,0.0074913561275451405,0.00823899652960084,ipca laboratories ltd,0.00045,2
+zerodol mr tablet 10s,aceclofenac 100 mg+tizanidine 2 mg,strip,10 tablet,0.00749455756178768,0.007672335412157923,ipca laboratories ltd,0.00045,4
+zerodol p 100mg/500mg tablet,aceclofenac (100mg) + paracetamol (500mg),strip,1001 tablet,0.015826610321423996,0.019228060290181717,ipca laboratories ltd,0.05,4
+zerodol p strip of 10 tablets,aceclofenac(100.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.0045460366244077345,0.005292838940183637,ipca laboratories,0.00045,4
+zerodol p tab 1x10,aceclofenac 100 mg+paracetamol/acetaminophen 325 mg,strip,10 ml,0.0045460366244077345,0.004825423555174225,ipca laboratories ltd,0.00045,4
+zerodol p tablet,aceclofenac (100mg) + paracetamol (325mg),strip,1001 tablet,0.0045460366244077345,0.004901458592119249,ipca laboratories ltd,0.05,4
+zerodol p tablet 10s,aceclofenac 100 mg+paracetamol 325 mg,strip,10 tablet,0.0045460366244077345,0.004650142785795695,ipca laboratories ltd,0.00045,4
+zerodolp tablet 10s,aceclofenac-100mg + paracetamol-325mg,strip | tablet,10 tablet,0.0045460366244077345,0.004997502849312964,ipca laboratories ltd,0.00045,2
+zerodol pg 200/150mg tablet,aceclofenac-200mg + pregabalin-150mg,strip | tablet,10 tablet,0.0037136637213471633,0.0040850824059726724,ipca laboratories ltd,0.00045,2
+zerodolpg 200/150 tablet sr,aceclofenac (200mg) + pregabalin (150mg),strip,1001 tablet,0.013606095530797797,0.016506806336359797,ipca laboratories ltd,0.05,4
+zerodol pg 200/75mg strip of 10 tablets,aceclofenac(200.0 mg) + pregabalin(75.0 mg),strip,10 tablet,0.014797029069022923,0.016277100487904827,ipca laboratories,0.00045,4
+zerodol pg 200/75mg tablet,aceclofenac-200mg + pregabalin-75mg,strip | tablet,10 tablet,0.014790626200537841,0.016266695693375507,ipca laboratories ltd,0.00045,2
+zerodol pg 200/75 tablet 10s,aceclofenac 200 mg+pregabalin 75 mg,strip,10 tablet,0.014797029069022923,0.0151573845227881,ipca laboratories ltd,0.00045,4
+zerodolpg 200/75 tablet sr,aceclofenac (200mg) + pregabalin (75mg),strip,1001 tablet,0.014797029069022923,0.015994570297993317,ipca laboratories ltd,0.05,4
+zerodol pg tablet,pregabalin(150.0 mg) + aceclofenac(200.0 mg),strip,10 tablet,0.013606095530797797,0.017027046062825752,ipca laboratories,0.00045,4
+zerodol pt tablet,aceclofenac(100.0 mg) + tramadol(37.5 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.006298501728774491,0.00789243683489352,ipca laboratories,0.00045,4
+zerodol pt tablet 10s,aceclofenac-100mg + paracetamol-325mg + tramadol-37.5mg,strip | tablet,10 tablet,0.010276603918555513,0.011304409071700241,ipca laboratories ltd,0.00045,2
+zerodol s 100/15 mg tablet 10,aceclofenac(100.0 mg) + serratiopeptidase(15.0 mg),strip,10 tablet,0.007917146881803049,0.009915769186441114,ipca laboratories,0.00045,4
+zerodol s tab 1x10,aceclofenac 100 mg + serratiopeptidase 15 mg,strip tablet,10 ml,0.006527724420540402,0.006931193894146423,ipca laboratories ltd,0.00045,2
+zerodol s tablet 10s,aceclofenac-100mg + serratiopeptidase-15mg,strip | tablet,10 tablet,0.007171212703291074,0.007886834253223885,ipca laboratories ltd,0.00045,2
+zerodol s tablet 10s,aceclofenac 100 mg+serratiopeptidase 15 mg,strip,10 tablet,0.007190421308746318,0.006262885937840157,ipca laboratories ltd,0.00045,4
+zerodol sp strip of 10 tablets,aceclofenac(100.0 mg) + serratiopeptidase(15.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.008202074529389166,0.009022557594539564,ipca laboratories,0.00045,4
+zerodol sp tab 1x10,aceclofenac 100 mg+paracetamol/acetaminophen 325 mg+serratiopeptidase 15 mg,strip,10 ml,0.008202074529389166,0.008710413758659991,ipca laboratories ltd,0.00045,4
+zerodolsp tablet,aceclofenac (100mg) + paracetamol (325mg) + serratiopeptidase (15mg),strip,1001 tablet,0.008202074529389166,0.008863284201359987,ipca laboratories ltd,0.05,4
+zerodol sp tablet 10s,aceclofenac 100 mg+paracetamol 325 mg+serratiopeptidase 15 mg,strip,10 tablet,0.008202074529389166,0.008397469553970471,ipca laboratories ltd,0.00045,4
+zerodolsp tablet 10s,aceclofenac-100mg + paracetamol-325mg + serratiopeptidase-15mg,strip | tablet,10 tablet,0.008195671660904085,0.009015354275250036,ipca laboratories ltd,0.00045,2
+zerodol spas strip of 10 tablets,drotaverine(80.0 mg) + aceclofenac(100.0 mg),strip,10 tablet,0.010058906390062747,0.0110650987975259,ipca laboratories,0.00045,4
+zerodol spas tab 1x10,aceclofenac 100 mg + drotaverine 80 mg,strip tablet,10 ml,0.010058906390062747,0.010683322875180885,ipca laboratories ltd,0.00045,2
+zerodol spas tablet,drotaverine (80mg) + aceclofenac (100mg),strip,1001 tablet,0.010058906390062747,0.010952246795323285,ipca laboratories ltd,0.05,4
+zerodolspas tablet 10s,aceclofenac-100mg + drotaverine-80mg,strip | tablet,10 tablet,0.010052503521577667,0.011056294740616477,ipca laboratories ltd,0.00045,2
+zerodol spas tablet 10s,aceclofenac 100 mg+drotaverine 80 mg,strip,10 tablet,0.010058906390062747,0.010300746584025921,ipca laboratories ltd,0.00045,4
+zerodol tab 1x10,aceclofenac 100 mg,strip tablet,10 ml,0.0036688436419515936,0.00389379426039519,ipca laboratories ltd,0.00045,2
+zerodol tc 100mg/325mg tablet,aceclofenac (100mg) + paracetamol (325mg),strip,1001 tablet,0.009802791650659495,0.010808180409532714,ipca laboratories ltd,0.05,4
+zerodol tc tablet 10s,aceclofenac-100mg + paracetamol-325mg + trypsin chymotrypsin-150000au,strip | tablet,10 tablet,0.009796388782174413,0.010776165657134809,ipca laboratories ltd,0.00045,2
+zerodol th 4mg strip of 10 tablets,aceclofenac(100.0 mg) + thiocolchicoside(4.0 mg),strip,10 tablet,0.016051991292098857,0.017657736685064478,ipca laboratories,0.00045,4
+zerodol th 4mg tab 1x10,aceclofenac 100 mg + thiocolchicoside 4 mg,strip tablet,10 ml,0.016051991292098857,0.01705105712712418,ipca laboratories ltd,0.00045,2
+zerodol th 4mg tablet 10s,aceclofenac 100 mg+thiocolchicoside 4 mg,strip,10 tablet,0.016051991292098857,0.016443577200373934,ipca laboratories ltd,0.00045,4
+zerodol th 4 tablet 10s,aceclofenac-100mg + thiocolchicoside-4mg,strip | tablet,10 tablet,0.016039185555128697,0.017643330046485422,ipca laboratories ltd,0.00045,2
+zerodol th 8mg strip of 10 tablets,aceclofenac(100.0 mg) + thiocolchicoside(8.0 mg),strip,10 tablet,0.023873095146625688,0.026260901023191487,ipca laboratories,0.00045,4
+zerodol th 8mg tab 1x10,aceclofenac 100 mg + thiocolchicoside 8 mg,strip tablet,10 ml,0.023873095146625688,0.02536048611200041,ipca laboratories ltd,0.00045,1
+zerodol th 8mg tablet 10s,aceclofenac 100 mg+thiocolchicoside 8 mg,strip,10 tablet,0.023873095146625688,0.02446087156961928,ipca laboratories ltd,0.00045,4
+zerodol th 8 tablet,aceclofenac (100mg) + thiocolchicoside (8mg),strip,1001 tablet,0.023873095146625688,0.026079217303333378,ipca laboratories ltd,0.05,4
+zerodol th 8 tablet 10s,aceclofenac-100mg + thiocolchicoside-8mg,strip | tablet,10 tablet,0.0238506851069279,0.026239291065322905,ipca laboratories ltd,0.00045,2
+zerodol th max 4mg/100mg/325mg tablet,thiocolchicoside (4mg) + aceclofenac (100mg) + paracetamol (325mg),strip,1001 tablet,0.013253937764118325,0.014337806861401734,ipca laboratories ltd,0.05,4
+zerodol th max 4mg strip of 10 tablets,aceclofenac(100.0 mg) + thiocolchicoside(4.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.012040594186195417,0.013244503067013282,ipca laboratories,0.00045,4
+zerodol th max 4 tablet 10s,aceclofenac 100 mg+paracetamol 325 mg+thiocolchicoside 4 mg,strip,10 tablet,0.012040594186195417,0.01233208262367299,ipca laboratories ltd,0.00045,4
+zerodol th max 8mg strip of 10 tablets,aceclofenac(100.0 mg) + thiocolchicoside(8.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.018424254065821485,0.02119456645622303,ipca laboratories,0.00045,4
+zerodol th max 8 tablet,thiocolchicoside (8mg) + aceclofenac (100mg) + paracetamol (325mg),strip,1001 tablet,0.018424254065821485,0.019956395907234054,ipca laboratories ltd,0.05,4
+zerodol th max 8 tablet 10s,aceclofenac-100mg + paracetamol-325mg + thiocolchicoside-8mg,strip | tablet,10 tablet,0.018408246894608783,0.020252532366914676,ipca laboratories ltd,0.00045,2
+zerodol th max 8 tablet 10s,aceclofenac 100 mg+paracetamol 325 mg+thiocolchicoside 8 mg,strip,10 tablet,0.018424254065821485,0.01887589801380476,ipca laboratories ltd,0.00045,4
+zerodol th od 16mg strip of 10 capsules,thiocolchicoside(16.0 mg) + aceclofenac(200.0 mg),strip,10 ml,0.011076962479190678,0.013865589263532636,ipca laboratories,0.00045,4
+zerodol th od 16mg tablet,aceclofenac-16mg + thiocolchicoside-16mg,strip | tablet,1 tablet,0.01235753617620694,0.013593463868150444,ipca laboratories ltd,0.0,2
+zerodol th od 200 mg/8 mg capsule sr,aceclofenac (200mg) + thiocolchicoside (8mg),other,501 ml,0.014598540145985401,0.016210669876679174,ipca laboratories ltd,0.025,4
+zerodol th od 8 capsule 5s,aceclofenac-200mg + thiocolchicoside-8mg,strip | capsule,5 ml,0.014598540145985401,0.016058599802789127,ipca laboratories ltd,0.0002,2
+zerodol th od 8mg capsule 5s,aceclofenac 200 mg+thiocolchicoside 8 mg,strip,5 ml,0.014598540145985401,0.012745072929605963,ipca laboratories ltd,0.0002,4
+zerodol th od 8mg strip of 10 capsules,aceclofenac(200.0 mg) + thiocolchicoside(8.0 mg),strip,10 ml,0.012050198488923037,0.015082149854653023,ipca laboratories,0.00045,4
+zerodol th od 8mg strip of 5 capsules,aceclofenac(200.0 mg) + thiocolchicoside(8.0 mg),strip,5 ml,0.014598540145985401,0.016058599802789127,ipca laboratories,0.0002,4
+zerodol th od 8mg strip of 5 tablets,aceclofenac(200.0 mg) + thiocolchicoside(8.0 mg),strip,5 tablet,0.013263542066845947,0.014589923036535238,ipca laboratories,0.0002,4
+afpincl capsule 10s,piroxicam(20.0 mg),strip | capsule,10 ml,0.014950697912664873,0.016442776831563984,zuventus healthcare ltd,0.00045,4
+afpin cl strip of 10 capsules,boswelia serrata extract(50.0 mg) + curcuma longa rhizome extract(400.0 mg),strip,10 ml,0.014950697912664873,0.016445978306803777,zuventus health care ltd,0.00045,4
+cumigold capsule 10s,nano curcumin-500mg + piperine-5mg,strip | capsule,10 ml,0.023370469970546804,0.02571104765075747,prisure medicare,0.00045,1
+cumigold strip of 10 capsules,nano curcumin + piperine,strip,10 ml,0.018888462030989882,0.020777574306240318,influx healthcare,0.00045,4
+celtere 120 injection 30 ml,docetaxel-120mg,vial | injection,03 ml,0.9999999999999999,1.0,celon laboratories pvt ltd,0.00010000000000000002,3
+celtere 120mg injection,docetaxel(120.0 mg),injection,1 ml,0.4483333333333333,0.4931728540511468,celon laboratories ltd,0.0,3
+celtere 20mg injection,docetaxel(20.0 mg),injection,1 ml,0.2047637341529005,0.2252429919707001,celon laboratories ltd,0.0,1
+celtere 20 mg injection 05 ml,docetaxel-20mg,vial | injection,05 ml,0.2513125880394417,0.2575858955806836,celon laboratories pvt ltd,0.0002,1
+celtere 80mg injection,docetaxel,vial,1 ml,0.9647842233320527,0.15344990971839823,celon laboratories ltd,0.0,3
+celtere 80 mg injection 2 ml,docetaxel-80mg,vial | injection,2 ml,0.9647842233320527,0.9647837723623046,celon laboratories pvt ltd,5e-05,3
+nimulid 100 mg strip of 10 tablets,nimesulide(100.0 mg),strip,10 tablet,0.0058445383531822255,0.006429362650309263,mankind pharmaceuticals ltd,0.00045,4
+nimulid 100mg strip of 15 tablets,nimesulide(100.0 mg),strip,15 tablet,0.0058445383531822255,0.006429362650309263,mankind pharmaceuticals ltd,0.0007,4
+nimulid ap 100mg/325mg tablet,aceclofenac (100mg) + paracetamol (325mg),strip,1501 tablet,0.004258547829427584,0.004642139097696218,mankind pharma ltd,0.07500000000000001,4
+nimulidap tablet 15s,aceclofenac-100mg + paracetamol-325mg,strip | tablet,15 tablet,0.004257907542579075,0.00468535901343339,mankind pharma pvt ltd,0.0007,2
+nimulid ath 100mg/4mg tablet,aceclofenac (100mg) + thiocolchicoside (4mg),strip,1001 tablet,0.0036899731079523624,0.013785552382537874,mankind pharma ltd,0.05,4
+nimulid ath 100mg/8mg tablet,aceclofenac (100mg) + thiocolchicoside (8mg),strip,1001 tablet,0.0036899731079523624,0.021057703389721984,mankind pharma ltd,0.05,4
+nimulidath 4 tablet 10s,aceclofenac-100mg + thiocolchicoside-4mg,strip | tablet,10 tablet,0.011012933794339864,0.01211278156974734,mankind pharma pvt ltd,0.00045,2
+nimulidath 8 tablet 10s,aceclofenac-100mg + thiocolchicoside-8mg,strip | tablet,10 tablet,0.016807529773338454,0.018491720985029905,mankind pharma pvt ltd,0.00045,2
+nimulid ds 200mg tablet,nimesulide (200mg),strip,1001 tablet,0.0022730183122038673,0.002772477557658569,mankind pharma ltd,0.05,4
+nimulid ds 200mg tablets,nimesulide(200.0 mg),strip,10 tablet,0.0023344858496606477,0.0025675831423119773,mankind pharmaceuticals ltd,0.00045,4
+nimulid ef tablet 2,nimesulide,strip,2 tablet,0.00024971187091817136,0.00033135268731831634,mankind pharmaceuticals ltd,5e-05,4
+nimulid er tablet,nimesulide(200.0 mg),strip,10 tablet,0.004808554232296068,0.005289637464943846,mankind pharmaceuticals ltd,0.00045,4
+nimulid er tab 10s,piroxicam(20.0 mg),strip | tablet,10 ml,0.0045460366244077345,0.0050007043245527535,panacea biotec ltd,0.00045,2
+nimulid hf strip of 10 tablets,nimesulide(100.0 mg) + paracetamol / acetaminophen(325.0 mg),strip,10 tablet,0.004654885388654118,0.005120759646044897,mankind pharmaceuticals ltd,0.00045,4
+nimulid hf tablet,nimesulide-100mg + paracetamol-325mg,strip | tablet,10 tablet,0.0046420796516839545,0.00510955448270563,panacea biotec ltd,0.00045,2
+nimulid md kid tablet,nimesulide(50.0 mg),strip,10 tablet,0.0035196568062491993,0.0038713839337166565,mankind pharmaceuticals ltd,0.00045,4
+nimulid md strip of 10 tablets,nimesulide(100.0 mg),strip,10 tablet,0.0061883723908310925,0.007754773399582528,mankind pharmaceuticals ltd,0.00045,4
+nimulid md strip of 15 tablets,nimesulide(100.0 mg),strip,15 tablet,0.0068158535023690615,0.007844414706296661,mankind pharmaceuticals ltd,0.0007,4
+nimulid md tablet 15s,nimesulide-100mg,strip | tablet,15 tablet,0.006787040594186195,0.0074626387839516455,mankind pharma pvt ltd,0.0007,2
+nimulidmd tablet orange,nimesulide (100mg),strip,1501 tablet,0.0068158535023690615,0.006918387993187261,mankind pharma ltd,0.07500000000000001,4
+nimulid mr tablets,nimesulide(100.0 mg) + tizanidine(2.0 mg),strip,10 tablet,0.007497758996030221,0.008247800586510265,mankind pharmaceuticals ltd,0.00045,4
+nimulid nu gel 30gm,nimesulide(10.0 mg),tube,30 ml,0.004706108336534768,0.005176785462741231,mankind pharmaceuticals ltd,0.0014500000000000001,1
+nimulid safe 75mg injection 2ml,nimesulide(75.0 mg),ampoule,2 ml,0.000768344218209758,0.0008451894633046909,mankind pharmaceuticals ltd,5e-05,1
+nimulid sp capsules,serratiopeptidase(15.0 mg) + nimesulide(100.0 mg),strip,10 ml,0.005532078371110258,0.006085204062031785,mankind pharmaceuticals ltd,0.00045,4
+nimulid strip of 10 tablets,nimesulide(100.0 mg),strip,10 tablet,0.0058445383531822255,0.006429362650309263,mankind pharmaceuticals ltd,0.00045,4
+nimulid strong 1 spray,nimesulide (1% w/v),other,4201 ml,0.009476245357920349,0.011464482833689765,mankind pharma ltd,0.21000000000000002,0
+nimulid strong pain relief gel 30 gm,piroxicam(20.0 mg),tube | gel,30 ml,0.008323729030605711,0.009159420661040609,mankind pharma pvt ltd,0.0014500000000000001,4
+nimulid strong pain relief spray 42 gm,piroxicam(20.0 mg),bottle | spray,42 ml,0.009476245357920349,0.010424003380757853,mankind pharma pvt ltd,0.00205,4
+nimulid syrup,nimesulide (50mg/5ml),other,6001 ml,0.0015763862210270202,0.001924086619114088,panacea biotec pharma ltd,0.30000000000000004,0
+nimulid syrup 30ml,nimesulide,bottle,30 ml,0.0006767831988730952,0.0007443429932512903,mankind pharmaceuticals ltd,0.0014500000000000001,1
+nimulid syrup 60ml,nimesulide(50.0 mg),bottle,60 ml,0.0014950697912664874,0.001644757904442367,mankind pharmaceuticals ltd,0.00295,1
+nimulid tablet 15s,nimesulide-100mg,strip | tablet,15 tablet,0.005826610321423998,0.006406151954820782,panacea biotec ltd,0.0007,2
+nimulid transgel,nimesulide (1% w/w),other,3001 ml,0.005259956460494302,0.005765856906862683,panacea biotec pharma ltd,0.15000000000000002,4
+nimulid transgel 30 gm,nimesulide-1%w/w,tube | gel,30 ml,0.004770137021385581,0.005245617180396727,panacea biotec ltd,0.0014500000000000001,2
+nimulid tube of 30gm transgel,nimesulide(10.0 mg),tube,30 ml,0.005259956460494302,0.006055590416063723,mankind pharmaceuticals ltd,0.0014500000000000001,1
+nimulide p 100mg/325mg tablet,nimesulide (100mg) + paracetamol (325mg),strip,1001 tablet,0.0025611473940325264,0.0031166361459360474,nasa pharmaceutical,0.05,4
+corsango d3 strip of 15 tablets,vitamin d3 / cholecalciferol(500.0 iu) + elemental calcium(500.0 mg),strip,15 tablet,0.014150339352029709,0.01770735955128123,hegde and hegde pharmaceuticals llp,0.0007,4
+corsangod3 suspension 100ml,calcium-200mg + vitamin d3-125iu,bottle | suspension,100 ml,0.007875528236650019,0.008663191998873082,hegde & hegde pharmaceutica llp,0.00495,2
+corsango d3 suspension 100ml,calcium carbonate(200.0 mg) + vitamin d3 / cholecalciferol(125.0 iu),bottle,100 ml,0.007875528236650019,0.008663191998873082,hegde and hegde pharmaceuticals llp,0.00495,2
+corsangod3 tablet 15s,elemental calcium-500mg + vitamin d3-500iu,strip | tablet,15 tablet,0.014150339352029709,0.0155623711406216,hegde & hegde pharmaceutica llp,0.0007,2
+risdone 1mg liquid 60ml,risperidone 1 mg,bottle,60 ml,0.009375720322704572,0.009600423875321748,intas pharmaceuticals ltd,0.00295,2
+risdone 1mg tablet,risperidone(1.0 mg),strip,10 tablet,0.001546933025995646,0.0019528998962722022,intas pharmaceuticals ltd,0.00045,4
+risdone 1mg tablet 10s,risperidone 1 mg,strip,10 tablet,0.0017499039569727236,0.0017840220773732538,intas pharmaceuticals ltd,0.00045,4
+risdone1 tablet 10s,risperidone-1mg,strip | tablet,10 tablet,0.0017287744909719553,0.0019000755548156591,intas pharmaceuticals ltd,0.00045,2
+risdone 2mg tab 1x10,risperidone 2 mg,strip tablet,10 ml,0.003084902036112178,0.003272708063875834,intas pharmaceuticals ltd,0.00045,2
+risdone 2mg tablet,risperidone(2.0 mg),strip,10 tablet,0.0025509028044563963,0.0028060930476763693,intas pharmaceuticals ltd,0.00045,4
+risdone 2mg tablet 10s,risperidone 2 mg,strip,10 tablet,0.003084902036112178,0.0031526527423836903,intas pharmaceuticals ltd,0.00045,4
+risdone 2 tablet 10s,risperidone-2mg,strip | tablet,10 tablet,0.0030733768728390316,0.0033807578532187633,intas pharmaceuticals ltd,0.00045,2
+risdone 3mg tab 1x10,risperidone 3 mg,strip tablet,10 ml,0.004866180048661801,0.0051655802994019645,intas pharmaceuticals ltd,0.00045,2
+risdone 3mg tablet 10s,risperidone 3 mg,strip,10 tablet,0.0044179792547061085,0.004518882300964285,intas pharmaceuticals ltd,0.00045,4
+risdone 3mg tablets,risperidone(3.0 mg),strip,10 tablet,0.004866180048661801,0.006102011807040685,intas pharmaceuticals ltd,0.00045,4
+risdone 3 tablet,risperidone (3mg),strip,1001 tablet,0.004866180048661801,0.005333657749490966,intas pharmaceuticals ltd,0.05,4
+risdone 3 tablet 10s,risperidone-3mg,strip | tablet,10 tablet,0.004866180048661801,0.005349665125689918,intas pharmaceuticals ltd,0.00045,2
+risdone 4mg tablet 10s,risperidone 4 mg,strip,10 tablet,0.005094762453579203,0.005212802059188875,intas pharmaceuticals ltd,0.00045,4
+risdone 4mg tablets,risperidone(4.0 mg),strip,10 tablet,0.0045300294531950315,0.005681818181818182,intas pharmaceuticals ltd,0.00045,4
+risdone 4 tablet 10s,risperidone-4mg,strip | tablet,10 tablet,0.005090280445639647,0.005597779456773682,intas pharmaceuticals ltd,0.00045,2
+risdoneforte tablet,risperidone (4mg) + trihexyphenidyl (2mg),strip,1001 tablet,0.007171212703291074,0.007854819500825982,intas pharmaceuticals ltd,0.05,4
+risdone forte tablet,risperidone(4.0 mg) + trihexyphenidyl / benzhexol hydrochloride(2.0 mg),strip,10 tablet,0.005986682033551031,0.0075026572244490265,intas pharmaceuticals ltd,0.00045,4
+risdone forte tablet 10s,risperidone-4mg + trihexyphenidyl-2mg,strip | tablet,10 tablet,0.007171212703291074,0.007886834253223885,intas pharmaceuticals ltd,0.00045,2
+risdone forte tablet 10s,risperidone 4 mg+trihexyphenidyl 2 mg,strip,10 tablet,0.007171212703291074,0.007340982724839607,intas pharmaceuticals ltd,0.00045,4
+risdone liquid,risperidone (1mg/ml),other,6001 ml,0.009375720322704572,0.010159881673475138,intas pharmaceuticals ltd,0.30000000000000004,0
+risdone liquid 60 ml,risperidone-1mg,bottle | solution,60 ml,0.009348187988218721,0.01027993699496728,intas pharmaceuticals ltd,0.00295,2
+risdone ls tablet,risperidone (2mg) + trihexyphenidyl (2mg),strip,1001 tablet,0.005314380842617493,0.005693823713967397,intas pharmaceuticals ltd,0.05,4
+risdone ls tablet,risperidone(2.0 mg) + trihexyphenidyl / benzhexol hydrochloride(2.0 mg),strip,10 tablet,0.005314380842617493,0.006662269974004022,intas pharmaceuticals ltd,0.00045,4
+risdone ls tablet 10s,risperidone-2mg + trihexyphenidyl-2mg,strip | tablet,10 tablet,0.005314380842617493,0.005845893787857445,intas pharmaceuticals ltd,0.00045,2
+risdone ls tablet 10s,risperidone 2 mg+trihexyphenidyl 2 mg,strip,10 tablet,0.005314380842617493,0.005437705694784157,intas pharmaceuticals ltd,0.00045,4
+risdone mt 05mg tablet,risperidone(0.5 mg),strip,10 tablet,0.0020169035728006142,0.002137785091370103,intas pharmaceuticals ltd,0.00045,4
+risdone mt 05mg tablet 10s,risperidone 0.5 mg,strip,10 tablet,0.0020169035728006142,0.0020577482103753407,intas pharmaceuticals ltd,0.00045,4
+risdone mt 05 tablet 10s,risperidone-0.5mg,strip | tablet,10 tablet,0.0020169035728006142,0.0022202230787947085,intas pharmaceuticals ltd,0.00045,2
+risdone mt 1mg tablet,risperidone(1.0 mg),strip,10 tablet,0.002043155333589448,0.00216579799971827,intas pharmaceuticals ltd,0.00045,4
+risdone mt 1mg tablet,risperidone-1mg,strip | tablet,10 tablet,0.0020169035728006142,0.0022202230787947085,intas pharmaceuticals ltd,0.00045,2
+risdone mt 1mg tablet 10s,risperidone 1 mg,strip,10 tablet,0.002043155333589448,0.00208496074991356,intas pharmaceuticals ltd,0.00045,4
+risdone mt 2mg tab 1x10,risperidone 2 mg,strip,10 ml,0.003084902036112178,0.003272708063875834,intas pharmaceuticals ltd,0.00045,4
+risdone mt 2mg tablet,risperidone(2.0 mg),strip,10 tablet,0.0031374055576898446,0.0039410160201821,intas pharmaceuticals ltd,0.00045,4
+risdone mt 2mg tablet 10s,risperidone 2 mg,strip,10 tablet,0.003084902036112178,0.0026708307187952207,intas pharmaceuticals ltd,0.00045,4
+risdonemt2 tablet 10s,risperidone-2mg,strip | tablet,10 tablet,0.0030733768728390316,0.0033807578532187633,intas pharmaceuticals ltd,0.00045,2
+risdone plus tablet,risperidone(3.0 mg) + trihexyphenidyl / benzhexol hydrochloride(2.0 mg),strip,10 tablet,0.0044179792547061085,0.005541753640077348,intas pharmaceuticals ltd,0.00045,4
+risdone plus tablet 10s,risperidone-3mg + trihexyphenidyl-2mg,strip | tablet,10 tablet,0.005314380842617493,0.005845893787857445,intas pharmaceuticals ltd,0.00045,2
+risdone plus tablet 10s,risperidone 3 mg+trihexyphenidyl 2 mg,strip,10 tablet,0.005314380842617493,0.005437705694784157,intas pharmaceuticals ltd,0.00045,4
+risdone suspension 60ml,risperidone(1.0 mg),bottle,60 ml,0.008219362274298887,0.010293543264736391,intas pharmaceuticals ltd,0.00295,2
+risdone syp 60ml,risperidone 1 mg,bottle syrup,60 ml,0.009375720322704572,0.00995738836455839,intas pharmaceuticals ltd,0.00295,2
+neovec 10mg dry vial of 1 powder for injection,vecuronium(10.0 mg),dry vial,1 ml,0.006883083621462415,0.007571488942104522,neon laboratories ltd,0.0,2
+neovec 10mg injection,vecuronium bromide,vial,1 ml,0.0077314636957356905,0.008182970712904507,neon laboratories ltd,0.0,2
+neovec 20mg injection,vecuronium bromide,injection,20 ml,0.030157510564733,0.03317368643470911,neon laboratories ltd,0.00095,1
+neovec20mg inj,vecuronium-20mg,vial | injection,1 ml,0.03316685875272122,0.036484011832652485,neon laboratories ltd,0.0,1
+neovec 4mg ampoule of 1 powder for injection,vecuronium(4.0 mg),ampoule,1 ml,0.005666538609296965,0.006015571975566341,neon laboratories ltd,0.0,2
+oflomac 03 e/e drops 5ml,ofloxacin(0.3 %) + dexamethasone(0.1 %),bottle,5 ml,0.0010916890767063644,0.0013838376723994419,macleods pharmaceuticals,0.0002,2
+oflomac 100mg strip of 10 tablets,ofloxacin(100.0 mg),strip,10 tablet,0.0031117940837495197,0.0034231774001459874,macleods pharmaceuticals,0.00045,4
+oflomac 100mg tab 1x10,ofloxacin 100 mg,strip,10 ml,0.0031117940837495197,0.003301521341033948,macleods pharmaceuticals pvt ltd,0.00045,4
+oflomac 100 tablet,ofloxacin (100mg),strip,1001 tablet,0.0037808938404405167,0.004094686831692044,macleods pharmaceuticals pvt ltd,0.05,4
+oflomac 100 tablet 10s,ofloxacin-100mg,strip | tablet,10 tablet,0.0037776924061979763,0.004157115598867959,macleods pharmaceuticals ltd,0.00045,2
+oflomac 200mg infusion,ofloxacin (200mg),bottle,10001 ml,0.008675886797285183,0.009439549744522277,macleods pharmaceuticals pvt ltd,0.5,0
+oflomac 200mg strip of 10 tablets,ofloxacin(200.0 mg),strip,10 tablet,0.005538481239595339,0.006304505115957434,macleods pharmaceuticals,0.00045,4
+oflomac 200 tablet,ofloxacin (200mg),strip,1001 tablet,0.005538481239595339,0.005405690942386252,macleods pharmaceuticals pvt ltd,0.05,4
+oflomac 200 tablet 10s,ofloxacin-200mg,strip | tablet,10 tablet,0.005538481239595339,0.006094008118941209,macleods pharmaceuticals ltd,0.00045,2
+oflomac 300mg strip of 10 tablets,ofloxacin(300.0 mg),strip,10 tablet,0.00923933922397234,0.01028073736377723,macleods pharmaceuticals,0.00045,4
+oflomac 300 tablet 10s,ofloxacin-300mg,strip | tablet,10 tablet,0.009220130618517095,0.010143874297276185,macleods pharmaceuticals ltd,0.00045,2
+oflomac 400mg strip of 10 tablets,ofloxacin(400.0 mg),strip,10 tablet,0.008816749903956972,0.009698869238945307,macleods pharmaceuticals,0.00045,4
+oflomac 400mg tab 1x10,ofloxacin 400 mg,strip,10 ml,0.009668331412472787,0.010267931462818068,macleods pharmaceuticals pvt ltd,0.00045,4
+oflomac 400 tablet 10s,ofloxacin-400mg,strip | tablet,10 tablet,0.011685234985273402,0.012857124562998631,macleods pharmaceuticals ltd,0.00045,2
+oflomac 50 oral solution 60 ml,ofloxacin-50mg,bottle | oral solution,60 ml,0.0045140222819823285,0.004965488096915059,macleods pharmaceuticals ltd,0.00295,2
+oflomac cx 100dt tablet 10s,cefixime-100mg + ofloxacin-100mg,strip | tablet,10 tablet,0.004353950569855295,0.004789406958726582,macleods pharmaceuticals ltd,0.00045,2
+oflomac cx 100mg/100mg tablet dt,cefixime (100mg) + ofloxacin (100mg),strip,1001 tablet,0.004802151363810988,0.005837890099757969,macleods pharmaceuticals pvt ltd,0.05,4
+oflomac cx 100mg dt strip of 10 tablets,ofloxacin(100.0 mg) + cefixime(100.0 mg),strip,10 tablet,0.005538481239595339,0.006092407381321313,macleods pharmaceuticals,0.00045,4
+oflomac cx 200mg strip of 10 tablets,cefixime(200.0 mg) + ofloxacin(200.0 mg),strip,10 tablet,0.012165450121654502,0.015226216240443596,macleods pharmaceuticals,0.00045,4
+oflomac cx bottle of 30ml dry syrup,cefixime + ofloxacin,bottle,30 ml,0.0026635932897938275,0.0029301502132182506,macleods pharmaceuticals,0.0014500000000000001,2
+oflomac cx dry syrup,cefixime (50mg/5ml) + ofloxacin (50mg/5ml),other,3001 ml,0.002817262133435779,0.003428779981815621,macleods pharmaceuticals pvt ltd,0.15000000000000002,4
+oflomac dx bottle of 5ml eye/ear drops,ofloxacin(0.3 %) + dexamethasone(0.1 %),bottle,5 ml,0.00035279805352798053,0.00046021206571988374,macleods pharmaceuticals,0.0002,2
+oflomac dx eye/ear drops,ofloxacin (0.3%) + dexamethasone (0.1%),other,501 ml,0.00035279805352798053,0.0004434043207109836,macleods pharmaceuticals pvt ltd,0.025,4
+oflomac eye/ear drops,ofloxacin-0.3%w/v,bottle | eye/ear drops,5 ml,0.0010916890767063644,0.001200873362445415,macleods pharmaceuticals ltd,0.0002,2
+oflomac forte bottle of 30ml oral solution,ofloxacin(100.0 mg/5ml),bottle,30 ml,0.0044339864259188115,0.00487744752782082,macleods pharmaceuticals,0.0014500000000000001,2
+oflomac forte oral solution 30 ml,ofloxacin-100mg,bottle | oral solution,30 ml,0.0044179792547061085,0.004861440151621868,macleods pharmaceuticals ltd,0.0014500000000000001,2
+oflomac forte oral solution 60 ml,ofloxacin-100mg,bottle | oral solution,60 ml,0.009892431809450633,0.010880213602427998,macleods pharmaceuticals ltd,0.00295,2
+oflomac injection 100ml,ofloxacin(200.0 mg),bottle,100 ml,0.007901139710590345,0.008390266234680942,macleods pharmaceuticals,0.00495,2
+oflomac iv 100ml,ofloxacin-200mg + sodium chloride-0.9g,bottle | infusion,100 ml,0.008675886797285183,0.009543597689815468,macleods pharmaceuticals ltd,0.00495,2
+oflomac iv 200mg infusion,ofloxacin (200mg),bottle,20001 ml,0.004930208733512614,0.005989960173648017,macleods pharmaceuticals pvt ltd,1.0,0
+oflomac m bottle of 30ml suspension,ofloxacin(50.0 mg/5ml) + metronidazole(100.0 mg/5ml),bottle,30 ml,0.002796772954283519,0.003515219813289964,macleods pharmaceuticals,0.0014500000000000001,2
+oflomac m bottle of 60ml suspension,ofloxacin(50.0 mg/5ml) + metronidazole(100.0 mg/5ml),bottle,60 ml,0.003886541170444359,0.004275570182740207,macleods pharmaceuticals,0.00295,2
+oflomacm forte suspension,ofloxacin (100mg/5ml) + metronidazole (200mg/5ml),bottle,6001 ml,0.005522474068382636,0.006126022871339113,macleods pharmaceuticals pvt ltd,0.30000000000000004,0
+oflomac m forte suspension 30ml,ofloxacin(100.0 mg/5ml) + metronidazole(200.0 mg/5ml),bottle,30 ml,0.0028287872967089254,0.003555238253787345,macleods pharmaceuticals,0.0014500000000000001,2
+oflomacm forte suspension 60 ml,metronidazole-200mg + ofloxacin-100mg,bottle | suspension,60 ml,0.005506466897169932,0.006053989678443828,macleods pharmaceuticals ltd,0.00295,2
+oflomac m forte suspension 60ml,ofloxacin(100.0 mg/5ml) + metronidazole(200.0 mg/5ml),bottle,60 ml,0.005522474068382636,0.006074799267502465,macleods pharmaceuticals,0.00295,2
+oflomac m forte syrup 30 ml,"ofloxacin-100mg,metronidazole",bottle | syrup,30 ml,0.004994237418363427,0.005493731511480491,macleods pharmaceuticals ltd,0.0014500000000000001,2
+oflomacm suspension,ofloxacin (50mg/5ml) + metronidazole (100mg/5ml),bottle,6001 ml,0.003886541170444359,0.004253159856061673,macleods pharmaceuticals pvt ltd,0.30000000000000004,0
+oflomacm suspension 30 ml,metronidazole-100mg + ofloxacin-50mg,bottle | suspension,30 ml,0.003873735433474196,0.00426116354416115,macleods pharmaceuticals ltd,0.0014500000000000001,2
+oflomacm suspension 60 ml,metronidazole-100mg + ofloxacin-50mg,bottle | suspension,60 ml,0.003873735433474196,0.00426116354416115,macleods pharmaceuticals ltd,0.00295,2
+oflomacm tablet,ofloxacin (na) + metronidazole (na),strip,1001 tablet,0.0005845818926879243,0.0007235334041926521,macleods pharmaceuticals pvt ltd,0.05,4
+oflomac m tablets,ofloxacin(200.0 mg) + metronidazole(600.0 mg),strip,10 tablet,0.0005845818926879243,0.0007499455749209237,macleods pharmaceuticals,0.00045,4
+oflomac mn suspension 30ml,metronidazole + ofloxacin,bottle,30 ml,0.001775515430913049,0.002238631561423504,macleods pharmaceuticals,0.0014500000000000001,2
+oflomac mn suspension 60ml,metronidazole + ofloxacin,bottle,60 ml,0.013269944935331028,0.016606852437603247,macleods pharmaceuticals,0.00295,2
+oflomac mn syrup 60 ml,metronidazole-100mg + ofloxacin-50mg,bottle | syrup,60 ml,0.0045140222819823285,0.004965488096915059,macleods pharmaceuticals ltd,0.00295,2
+oflomac od 100 mg strip of 10 tablets,ofloxacin(100.0 mg),strip,10 tablet,0.0020726085286208217,0.0022802507395407803,macleods pharmaceuticals,0.00045,4
+oflomac od 400mg tablet,ofloxacin (400mg),strip,501 tablet,0.0032084773978742474,0.003900997579684719,macleods pharmaceuticals pvt ltd,0.025,4
+oflomac od tablets,ofloxacin(400.0 mg),strip,5 tablet,0.0032084773978742474,0.003529626451869021,macleods pharmaceuticals,0.0002,4
+oflomac oz infusion 100ml,ofloxacin(200.0 mg) + ornidazole(500.0 mg),vial,100 ml,0.008627865283647073,0.009490773348358924,macleods pharmaceuticals,0.00495,2
+oflomac oz strip of 10 tablets,ofloxacin(200.0 mg) + ornidazole(500.0 mg),strip,10 tablet,0.011352285824049175,0.012200822138841577,macleods pharmaceuticals,0.00045,4
+oflomac oz syrup 30ml,ofloxacin + ornidazole,bottle,30 ml,0.0028108592649506974,0.003091824712827671,macleods pharmaceuticals,0.0014500000000000001,2
+oflomac oz tablet 10s,ofloxacin-200mg + ornidazole-500mg,strip | tablet,10 tablet,0.01133307721859393,0.012464943846124295,macleods pharmaceuticals ltd,0.00045,2
+oflomac solution 30ml,ofloxacin(50.0 mg),bottle,30 ml,0.002407478550390575,0.00255317650373292,macleods pharmaceuticals,0.0014500000000000001,2
+oflomac solution 60ml,ofloxacin(50.0 mg),bottle,60 ml,0.004520425150467409,0.005669812649668968,macleods pharmaceuticals,0.00295,2
+oflomac suspension 30 ml,ofloxacin-50mg,bottle | suspension,30 ml,0.002657190421308746,0.0029245476315486172,macleods pharmaceuticals ltd,0.0014500000000000001,2
+oflomac suspension 30ml,ofloxacin 50 mg /5ml,bottle suspension,30 ml,0.002407478550390575,0.00255317650373292,macleods pharmaceuticals pvt ltd,0.0014500000000000001,2
+oflomac suspension 60 ml,ofloxacin-50mg,bottle | suspension,60 ml,0.0045140222819823285,0.004965488096915059,macleods pharmaceuticals ltd,0.00295,2
+oflomac tz 100mg tablet,ofloxacin-200mg + tinidazole-600mg,strip | tablet,10 tablet,0.007267255730567294,0.007990882198517077,macleods pharmaceuticals ltd,0.00045,2
+oflomac tz 200 mg tablet 10s,ofloxacin-200mg + tinidazole-600mg,strip | tablet,10 tablet,0.007267255730567294,0.007990882198517077,macleods pharmaceuticals ltd,0.00045,2
+oflomac tz 400mg tablet,ofloxacin-200mg + tinidazole-600mg,strip | tablet,10 tablet,0.007267255730567294,0.007990882198517077,macleods pharmaceuticals ltd,0.00045,2
+oflomac tz strip of 10 tablets,tinidazole(600.0 mg) + ofloxacin(200.0 mg),strip,10 tablet,0.007267255730567294,0.007994083673756867,macleods pharmaceuticals,0.00045,4
+gutgain bottle of 5ml suspension pack of 10,bacillus clausii(2.0 b),bottle,5 ml,0.031245998207196823,0.03437103817439076,alkem laboratories ltd,0.0002,1
+gutgain oral suspension 5ml each,bacillus clausii (2billion spores),bottle,1001 ml,0.033807145601229355,0.035443532379720574,alkem laboratories ltd,0.05,1
+gutgain sachet 1gm,saccharomyces boulardii(5.0 billion cfu) + bacillus subtilis(1.0 billion cfu),sachet,1 ml,0.003329491612242284,0.0041811266631663875,alkem laboratories ltd,0.0,2
+gutgain sachet 1 gm,piroxicam(20.0 mg),packet | powder,1 ml,0.003329491612242284,0.003662487674320327,alkem laboratories ltd,0.0,4
+gutgain suspension 10x5 ml,bacillus clausii-2billion spores,packet | suspension,105 ml,0.033807145601229355,0.03718833638540639,alkem laboratories ltd,0.005200000000000001,1
+insupen blue,insulin pen,box | injection,1 ml,0.04309130490459726,0.04740104240033807,biocon ltd,0.0,1
+insupen ez device,piroxicam(20.0 mg),box,1 ml,0.047368421052631574,0.05923049341136395,biocon ltd,0.0,4
+insupen ez pen 1s,piroxicam(20.0 mg),packet | device,1 ml,0.047368421052631574,0.05210593041273419,biocon ltd,0.0,4
+insupen gold,insulin pen,box | injection,1 ml,0.04309130490459726,0.04740104240033807,biocon ltd,0.0,1
+insupen gold ease pen,human insulin(100.0 iu),device,1 ml,0.04309130490459726,0.04740104240033807,biocon ltd,0.0,1
+insupen probasalog refil 100iu 5x3ml initiation kit,insulin glargine-100iu,box | injection,1 ml,0.21276731975925214,0.21807969112166886,biocon ltd,0.0,1
+insupen pro insugen 30/70 refill initiation kit,insulin isophane (70%) + human insulin (30%),other,101 ml,0.09271353566397746,0.1124710266490799,biocon,0.005000000000000001,1
+insupen pro device 1 numbers,piroxicam(20.0 mg),box,1 ml,0.08304520425150466,0.0861524990715722,biocon biologics ltd,0.0,4
+insupen pro green,piroxicam(20.0 mg),packet | device,1 ml,0.08304520425150466,0.0913492937545621,biocon ltd,0.0,4
+insupen pro plus insugen 30/70 refil box of 1 injection,human insulin / soluble insulin(100.0 iu/ml),box,1 ml,0.09271353566397746,0.10314673001319008,biocon biologics ltd,0.0,1
+insupen pro plus insugen 30/70 refil initiation kit 5 x 3 ml,insulin human-100iu,box | injection,53 ml,0.08304520425150466,0.0913492937545621,biocon ltd,0.0026,1
+insupen red 1s,piroxicam(20.0 mg),box | device,1 ml,0.08304520425150466,0.0913492937545621,biocon ltd,0.0,4
+zocon 005 gel 15gm,fluconazole-0.5% w/w,tube | gel,15 ml,0.0030733768728390316,0.0033807578532187633,fdc ltd,0.0007,2
+zocon 03 eye drops 5ml,fluconazole(0.3 %w/v),bottle,5 ml,0.004766935587143041,0.005244016442776832,fdc ltd,0.0002,2
+zocon 05 transgel,fluconazole(0.5 %),tube,15 ml,0.003165578179024202,0.003976232247819796,fdc ltd,0.0007,1
+zocon 1 bottle of 75gm dusting powder,clotrimazole(1.0 %),bottle,75 ml,0.006210782430528877,0.006831948161712918,fdc ltd,0.0037,2
+zocon 1 dusting powder 100gm,clotrimazole(1.0 %),bottle,100 ml,0.008237290306057113,0.00906097529741705,fdc ltd,0.00495,2
+zocon 1 dusting powder 50gm,clotrimazole(1.0 %),bottle,50 ml,0.006210782430528877,0.006594238625158474,fdc ltd,0.00245,2
+zocon 1 soap,clotrimazole (1% w/w),other,10001 ml,0.008387757715456525,0.008647184622674128,fdc ltd,0.5,0
+zocon 1w/w soap 100gm,clotrimazole-1%w/w,pack | soap,100 ml,0.008387757715456525,0.009231453853935893,fdc ltd,0.00495,2
+zocon 100dt tab 1x4,fluconazole 100 mg,strip,4 ml,0.002057241644256627,0.002181005007107275,f d c india ltd,0.00015000000000000001,4
+zocon 150mg strip of 10 tablets,fluconazole(150.0 mg),strip,10 tablet,0.001376616724292483,0.0015142977884209045,fdc ltd,0.00045,4
+zocon 150mg strip of 2 tablets,fluconazole(150.0 mg),strip,2 tablet,0.0014111922141119221,0.0017832217085633059,fdc ltd,5e-05,4
+zocon 150mg strip of 3 tablets,fluconazole(150.0 mg),strip,3 tablet,0.0026892047637341525,0.0029581631215664177,fdc ltd,0.00010000000000000002,4
+zocon 150mg strip of 6 tablets,fluconazole(150.0 mg),strip,6 tablet,0.005060827250608273,0.005567365441995671,fdc ltd,0.00025,4
+zocon 150mg tablet 2s,fluconazole-150mg,strip | tablet,2 tablet,0.0015046740939941093,0.0016519612237318956,fdc ltd,5e-05,2
+zocon 150mg tablet 3s,fluconazole 150 mg,strip,3 tablet,0.002186579587655269,0.0022314282421339753,fdc ltd,0.00010000000000000002,4
+zocon 150 tablet 1s,fluconazole-150mg,strip | tablet,1 tablet,0.0008003585606351645,0.0008836071661821768,fdc ltd,0.0,2
+zocon150 tablet 3s,fluconazole-150mg,strip | tablet,3 tablet,0.0026892047637341525,0.002956562383946523,fdc ltd,0.00010000000000000002,2
+zocon 150 tablet 6s,fluconazole-150mg,strip | tablet,6 tablet,0.00505826610321424,0.005565764704375776,fdc ltd,0.00025,2
+zocon 150 tablet 6s,fluconazole 150 mg,strip,6 tablet,0.0045018568318606735,0.0046045217636286806,fdc ltd,0.00025,4
+zocon 2 w/w dusting powder 75gm,fluconazole(2.0 %),bottle,75 ml,0.006210782430528877,0.007782786307930695,fdc ltd,0.0037,2
+zocon 200mg strip of 2 tablets,fluconazole(200.0 mg),strip,2 tablet,0.0023741836342681517,0.0026116034268590968,fdc ltd,5e-05,4
+zocon 200mg tab 1x2,fluconazole 200 mg,strip,2 ml,0.0023741836342681517,0.0025179602760952245,f d c india ltd,5e-05,4
+zocon 200mg tablet 2s,fluconazole 200 mg,strip,2 tablet,0.002105263157894737,0.001813635723341316,fdc ltd,5e-05,4
+zocon 200 tablet,fluconazole (200mg),strip,401 tablet,0.004880266359328979,0.005319251110911909,fdc ltd,0.02,4
+zocon200 tablet 2s,fluconazole-200mg,strip | tablet,2 tablet,0.002369061339480087,0.0026044001075695676,fdc ltd,5e-05,2
+zocon200 tablet 4s,fluconazole-200mg,strip | tablet,4 tablet,0.004866180048661801,0.006102011807040685,fdc ltd,0.00015000000000000001,2
+zocon 400mg strip of 1 tablet,fluconazole(400.0 mg),strip,1 tablet,0.0020040978358304515,0.002204215702595756,fdc ltd,0.0,4
+zocon 400mg tab 1x1,fluconazole 400 mg,strip,1 ml,0.0020040978358304515,0.0021249791904109413,f d c india ltd,0.0,4
+zocon 400mg tablet,fluconazole 400 mg,strip,1 tablet,0.0020040978358304515,0.0020449423094161786,fdc ltd,0.0,4
+zocon 400 tablet,fluconazole (400mg),strip,101 tablet,0.0020040978358304515,0.002236230454993661,fdc ltd,0.005000000000000001,4
+zocon 400 tablet 1s,fluconazole-400mg,strip | tablet,1 tablet,0.0019848892303752077,0.002180204638297327,fdc ltd,0.0,2
+zocon 50 dt tab 1x4,fluconazole 50 mg,strip,4 ml,0.002648226405429632,0.0028092945229161595,f d c india ltd,0.00015000000000000001,4
+zocon 50 dt tablet,fluconazole (50mg),strip,401 tablet,0.002648226405429632,0.002668429612365378,fdc ltd,0.02,4
+zocon50 dt tablet 4s,fluconazole-50mg,strip | tablet,4 tablet,0.0026251760788833394,0.0028845291910512363,fdc ltd,0.00015000000000000001,2
+zocon as kit tab 1x1,azithromycin 1 gm + fluconazole 150 mg + secnidazole 1 gm,strip tablet,1 ml,0.008739915482135997,0.009281877088962595,f d c india ltd,0.0,2
+zocon as kit tablets,azithromycin(1.0 gm) + fluconazole(150.0 mg) + secnidazole(2.0 gm),strip,4 tablet,0.008640030733768728,0.01081938557287198,fdc ltd,0.00015000000000000001,4
+zocon as tablet,fluconazole (150mg) + azithromycin (1000mg) + secnidazole (1000mg),strip,401 tablet,0.008739915482135997,0.00972768251610342,fdc ltd,0.02,4
+zocon c 1 cream,clotrimazole(1.0 %w/w),tube,15 ml,0.003098988346779357,0.00357044526117635,fdc ltd,0.0007,1
+zocon c cream 15gm,clotrimazole 1 %,tube,15 ml,0.003098988346779357,0.0031670593809627473,fdc ltd,0.0007,1
+zocon c cream 15 gm,clotrimazole-1%w/w,tube | cream,15 ml,0.0030733768728390316,0.0033807578532187633,fdc ltd,0.0007,2
+zocon drops 5ml,fluconazole-0.3% w/v,bottle | eye drops,5 ml,0.0047381226789601745,0.0052136024279988225,fdc ltd,0.0002,2
+zocon dt 100mg strip of 4 tablets,fluconazole(100.0 mg),strip,4 tablet,0.002057241644256627,0.002453930771299415,fdc ltd,0.00015000000000000001,4
+zocon dt 100mg tablet 4s,fluconazole 100 mg,strip,4 tablet,0.0018222563708541427,0.0015655213922575525,fdc ltd,0.00015000000000000001,4
+zocon dt 100 tablet 4s,fluconazole-100mg,strip | tablet,4 tablet,0.002048917915226021,0.0022522378311926133,fdc ltd,0.00015000000000000001,2
+zocon dt 50mg strip of 4 tablets,fluconazole(50.0 mg),strip,4 tablet,0.002648226405429632,0.0029133424682093504,fdc ltd,0.00015000000000000001,4
+zocon dt 50mg tablet 4s,fluconazole 50 mg,strip,4 tablet,0.002648226405429632,0.0027052465776229687,fdc ltd,0.00015000000000000001,4
+zocon dusting powder,fluconazole (2% w/w),other,7501 ml,0.0036899731079523624,0.007782786307930695,fdc ltd,0.375,0
+zocon dusting powder 100gm,clotrimazole 1 %,sachet,100 ml,0.008237290306057113,0.008433486150418112,fdc ltd,0.00495,2
+zocon dusting powder 100 gm clotrimazole anti fungal anti bacterial powder treats fungal infection rashes soothes skin irritation chafing,clotrimazole-1%w/w,bottle | dusting powder,100 ml,0.008227686003329491,0.01030394805926571,fdc ltd,0.00495,2
+zocon dusting powder 75gm,clotrimazole 1 %,sachet,75 ml,0.006210782430528877,0.00635652908860403,fdc ltd,0.0037,2
+zocon dusting powder 75 gm,fluconazole-2%w/w,bottle | dusting powder,75 ml,0.008227686003329491,0.00904736902764794,fdc ltd,0.0037,2
+zocon eye drop,fluconazole (0.3% w/v),other,501 ml,0.00525035215776668,0.005621790521072111,fdc ltd,0.025,4
+zocon eye drops 5ml,fluconazole 0.3 %,drops,5 ml,0.004766935587143041,0.004876647159010873,fdc ltd,0.0002,2
+zocon eye drops 5ml,fluconazole 0.3 %w/v,bottle,5 ml,0.004766935587143041,0.005059931616488879,f d c india ltd,0.0002,2
+zocon inf 200mg infusion,fluconazole (200mg),bottle,10001 ml,0.00440389294403893,0.005349665125689918,fdc ltd,0.5,0
+zocon infusion,fluconazole(200.0 mg),injection,100 ml,0.00440389294403893,0.005524145526258501,fdc ltd,0.00495,2
+zocon kz shampoo 5 ml,ketoconazole-2%w/v + zinc pyrithione-1%w/v,tube | shampoo,5 ml,0.001536688436419516,0.0016919796642292768,fdc ltd,0.0002,2
+zocon kz shampoo 5ml,ketoconazole 2 %+zinc pyrithione 1 %,bottle,5 ml,0.0014022281982328081,0.001427857956946561,fdc ltd,0.0002,2
+zocon kz shampoo 5ml,pyrithione zinc(1.0 %) + ketoconazole(2.0 %),bottle,5 ml,0.0015552567550262517,0.00171118851566802,fdc ltd,0.0002,2
+zocon kz shampoo 60 ml,ketoconazole-2%w/v + zinc pyrithione-1%w/v,bottle | shampoo,60 ml,0.017735945703675246,0.019508189373663384,fdc ltd,0.00295,1
+zocon kz shampoo 60ml,pyrithione zinc(1.0 %) + ketoconazole(2.0 %),bottle,60 ml,0.01776155717761557,0.01953780301963145,fdc ltd,0.00295,1
+zocon kz shampoo 60ml,ketoconazole 2 %+zinc pyrithione 1 %,container,60 ml,0.01776155717761557,0.018196384894159232,fdc ltd,0.00295,1
+zocon l 1 cream 10 gm,luliconazole-1%w/w,tube | cream,10 ml,0.006819054936611602,0.0075026572244490265,fdc ltd,0.00045,2
+zocon l 1 tube of 10gm cream,luliconazole(1.0 %w/w),tube,10 ml,0.006844666410551928,0.007878030196314462,fdc ltd,0.00045,1
+zocon l 1 tube of 20gm cream,luliconazole(1.0 %w/w),tube,20 ml,0.015879113843001662,0.019868355338139815,fdc ltd,0.00095,1
+zocon l 1 tube of 30gm cream,luliconazole(1.0 %w/w),tube,30 ml,0.021001408631066715,0.023101845330328215,fdc ltd,0.0014500000000000001,1
+zocon l 1w/w cream 20gm,luliconazole-1% w/w,tube | cream,20 ml,0.006819054936611602,0.0075026572244490265,fdc ltd,0.00095,2
+zocon l cream,luliconazole (1% w/w),other,3001 ml,0.021001408631066715,0.0228377236230455,fdc ltd,0.15000000000000002,4
+zocon l cream 10gm,luliconazole 1 %,tube,10 ml,0.006844666410551928,0.0070064285622814994,fdc ltd,0.00045,1
+zocon l cream 30gm,luliconazole 1 %,tube,7 ml,0.019080548085542322,0.019548207814160765,fdc ltd,0.0003,1
+zocon l cream 30 gm,luliconazole-1%w/w,tube | cream,30 ml,0.019080548085542322,0.02098887167206649,fdc ltd,0.0014500000000000001,1
+zocon l cream 60 gm,luliconazole-1%w/w,tube | cream,60 ml,0.025483416570623637,0.02803211719960558,fdc ltd,0.00295,1
+zocon l cream 60gm,luliconazole 1 %,tube,60 ml,0.025483416570623637,0.026111232055731282,fdc ltd,0.00295,1
+zocon lotion,fluconazole (2% w/v),other,3001 ml,0.0036899731079523624,0.010604886731806016,fdc ltd,0.15000000000000002,4
+zocon lotion 30ml,fluconazole(2.0 %) + pyrithione zinc(1.0 %),bottle,30 ml,0.008468433858368549,0.009315492578980395,fdc ltd,0.0014500000000000001,2
+zocon lotion 60ml,fluconazole-2%w/v,bottle | lotion,60 ml,0.014662568830836215,0.016129032258064516,fdc ltd,0.00295,2
+zocon lotion 60ml,fluconazole(2.0 %) + pyrithione zinc(1.0 %),bottle,60 ml,0.011877321039825842,0.013065220453585012,fdc ltd,0.00295,2
+zocon lotion sachet 5ml,fluconazole(2.0 %),bottle,5 ml,0.0010244589576130106,0.0011269192844062545,fdc ltd,0.0002,2
+zocon ont ointment 15 gm,piroxicam(20.0 mg),tube,15 ml,0.0036899731079523624,0.004058670235244401,fdc ltd,0.0007,4
+zocon soap 100gm,clotrimazole 1 %,pack,100 ml,0.008387757715456525,0.008587957330738005,fdc ltd,0.00495,2
+zocon st tablets,fluconazole(150.0 mg),strip,2 tablet,0.0017774362914585735,0.002241032667853347,fdc ltd,5e-05,4
+zocon t 150 tablet 3s,fluconazole 150 mg+tinidazole 1000 mg,strip,3 tablet,0.004696504033807145,0.004804613966115586,fdc ltd,0.00010000000000000002,4
+zocon t kit 1s,fluconazole 150 mg+tinidazole 1000 mg,packet,1 ml,0.004696504033807145,0.004804613966115586,fdc ltd,0.0,2
+zocon t kit tab 1x1,fluconazole 150 mg+tinidazole 1000 mg,strip,1 ml,0.004696504033807145,0.0049854973171637494,f d c india ltd,0.0,4
+zocon t kit tablet 1s,fluconazole-150mg + tinidazole-1000mg,strip | tablet,1 tablet,0.0046740939941093615,0.005141569235103536,fdc ltd,0.0,2
+zocon t strip of 3 tablet combikit,fluconazole(150.0 mg) + tinidazole(1000.0 mg),strip,3 tablet,0.005176719170188244,0.005495332249100386,fdc ltd,0.00010000000000000002,4
+picon 1 cream 10gm,pimecrolimus(1.0 %),tube,10 ml,0.03855743373031118,0.0428973671067628,eris life sciences pvt ltd,0.00045,1
+picon 1 cream 30gm,pimecrolimus,tube,130 ml,0.10238186707645024,0.10622814993148844,biocon ltd,0.006450000000000001,1
+picon 1 lotion,pimecrolimus(1.0 %),bottle,20 ml,0.05361826098091945,0.06704289336526272,eris life sciences pvt ltd,0.00095,1
+picon 30 1 tube of 30gm cream,pimecrolimus(1.0 %),tube,30 ml,0.08477653988987065,0.09325577225985736,eris life sciences pvt ltd,0.0014500000000000001,1
+picon cream 10 gm,pimecrolimus-1%w/w,tube | cream,10 ml,0.040914329619669614,0.04500793965859468,biocon ltd,0.00045,1
+picon cream 30 gm,pimecrolimus-1%w/w,tube | cream,30 ml,0.10238186707645024,0.11262309672296995,biocon ltd,0.0014500000000000001,1
+picon lotion,pimecrolimus-1% w/v,bottle | liquid,1 ml,0.053617620694070944,0.05898013804761234,biocon ltd,0.0,1
+piconax 5mg syrup sugar free,sodium picosulfate-5mg/5ml,bottle | syrup,100 ml,0.004446792162888975,0.004891534018875899,vhc pharmaceuticals,0.00495,2
+piconet 5mg oral solution,piroxicam(20.0 mg),bottle | oral solution,100 ml,0.004353950569855295,0.004789406958726582,bioworld pharma,0.00495,4
+piconex syrup 100 ml,sodium picosulfate(5.0 mg),bottle,100 ml,0.0046740939941093615,0.004961486252865321,von remedies,0.00495,2
+piconext liquid sugar free,sodium picosulfate (5mg/5ml),other,10001 ml,0.0046420796516839545,0.005637797897271063,soinsvie pharmacia pvt ltd,0.5,0
+piconext plus laxative sugar free,sodium picosulfate (3.33mg) + liquid paraffin (1.25ml) + milk of magnesia (3.75ml),other,10001 ml,0.004894992956844667,0.005949941733150636,soinsvie pharmacia pvt ltd,0.5,0
+piconim oral suspension,piroxicam(20.0 mg),bottle | suspension,100 ml,0.005314380842617493,0.005845893787857445,nimbus health care pvt ltd,0.00495,4
+piconine 5mg oral suspension,sodium picosulfate (5mg/5ml),bottle,10001 ml,0.004289921885004482,0.0052136024279988225,medsky healthcare,0.5,0
+piconistlm sugar free laxative suspension 170 ml,liquid paraffin-1.25ml + magnesium hydroxide-3.75ml + sodium picosulfate-3.33mg,bottle | oral suspension,170 ml,0.0155589704187476,0.01711508663191999,alienist pharmaceutical pvt ltd,0.008450000000000001,2
+ibuprofenalk 250mg strip of 250 tablets,ibuprofen(250.0 mg),strip,250 tablet,0.005506466897169932,0.006057191153683618,alkem laboratories ltd,0.012450000000000001,4
+ibuprofencip syrup 60 ml,ibuprofen(100.0 mg),bottle,60 ml,0.0008720706876680752,0.0009596422031272012,cipla ltd,0.00295,2
+cetrizine 1 mg syrup 30 ml,cetirizine(1.0 mg),bottle,30 ml,0.0010212575233704698,0.001123717809166464,intas pharmaceuticals ltd,0.0014500000000000001,2
+cetrizine 10mg knoll strip of 10 tablets,cetirizine(10.0 mg),strip,10 tablet,0.0012165450121654502,0.0010356772400722254,knoll healthcare pvt ltd,0.00045,4
+cetrizine 10mg strip of 10 tablets,cetirizine hydrochloride(10.0 mg),strip,10 tablet,0.001099372518888462,0.0013934420981188134,nilsan pharmaceuticals pvt ltd,0.00045,4
+cetrizine 10mg tablet,cetirizine(10.0 mg),strip,10 tablet,0.001186451530285568,0.0012557786628078218,blue cross laboratories pvt ltd,0.00045,4
+cetrizine 10 mg tablet 10s,cetirizine-10mg,strip | tablet,10 tablet,0.0012165450121654502,0.0013398173878523224,knoll pharmaceuticals ltd,0.00045,2
+cetrizine 5mg syrup,cetirizine (5mg),other,6001 ml,0.00384172109104879,0.004669351637234438,knoll pharmaceuticals ltd,0.30000000000000004,0
+cetrizine 5 mg syrup 60 ml,cetirizine-5mg,bottle | syrup,60 ml,0.0026892047637341525,0.002956562383946523,knoll healthcare pvt ltd,0.00295,2
+cetrizine bottle of 30ml syrup,cetirizine hydrochloride(5.0 mg/5ml),bottle,30 ml,0.0012421564861057753,0.001366229558580594,knoll healthcare pvt ltd,0.0014500000000000001,2
+cetrizine bottle of 60ml syrup,cetirizine hydrochloride(5.0 mg/5ml),bottle,60 ml,0.0025995646049430145,0.0027572705502695643,knoll healthcare pvt ltd,0.00295,2
+cetrizine cold ds syrup,cetirizine (2.5mg/5ml) + paracetamol (250mg/5ml) + phenylephrine (2.5mg/5ml),other,6001 ml,0.005634524266871559,0.004469259434747532,knoll healthcare pvt ltd,0.30000000000000004,0
+cetrizine cold oral suspension,cetirizine-2.5mg + paracetamol-125mg + phenylephrine-2.5mg,bottle | suspension,60 ml,0.004289921885004482,0.00471897450345119,knoll healthcare pvt ltd,0.00295,2
+cetrizinecold suspension 60 ml,cetirizine-2.5mg + paracetamol-125mg + phenylephrine-2.5mg,bottle | oral suspension,60 ml,0.0034575489819439107,0.003803352584871109,knoll healthcare pvt ltd,0.00295,2
+cetrizine cold suspension 60ml,phenylephrine(2.5 mg) + cetirizine(2.5 mg) + paracetamol / acetaminophen(125.0 mg),bottle,60 ml,0.0046740939941093615,0.004961486252865321,knoll healthcare pvt ltd,0.00295,2
+cetrizine syrup,cetirizine (5mg),other,3001 ml,0.0012805736970162632,0.0012277657544596551,knoll pharmaceuticals ltd,0.15000000000000002,4
+cetrizine syrup 30 ml,cetirizine-5mg,bottle | syrup,30 ml,0.0012805736970162632,0.0014118505807476085,knoll healthcare pvt ltd,0.0014500000000000001,2
+cetrizine syrup 60 ml,cetirizine-5mg,bottle | syrup,60 ml,0.0026892047637341525,0.002956562383946523,nukind healthcare pvt ltd,0.00295,2
+aspirin 300mg tablet,aspirin (300mg),strip,1001 tablet,0.0,1.1205163339266726e-05,bini laboratories pvt ltd,0.05,4
+aspirin dr 50mg tablet,aspirin / acetyl salicylic acid(50.0 mg),strip,14 tablet,0.00010884876424638239,0.00012005532149214358,zydus healthcare ltd,0.00065,4
+aspirin gastro resistance tablet 14s,aspirin / acetyl salicylic acid(75.0 mg),strip,14 tablet,0.006341400947624537,0.00794606154516001,zydus healthcare ltd,0.00065,4
+aspirin protect 100mg strip of 10 tablets,aspirin / acetyl salicylic acid(100.0 mg),strip,10 tablet,0.0036899731079523624,0.0040250547452266,bayer zydus pharma,0.00045,4
+paracetamol 120mg oral suspension,paracetamol (120mg),bottle,6001 ml,0.0036899731079523624,0.001027673551972749,ciron drugs & pharmaceuticals pvt ltd,0.30000000000000004,0
+paracetamol 500 mg tablet 1000s,paracetamol-500mg,bottle | tablet,1000 tablet,0.038583685491100014,0.04244259754895056,propel healthcare,0.04995,1
+paracetamol 650 mg tablet 15,piroxicam(20.0 mg),strip,15 tablet,0.0013247534895633245,0.001457471602914623,tulip,0.0007,4
+ciprofloxacin 10mg infusion,ciprofloxacin (10mg),bottle,10001 ml,0.0007312075809962863,0.0008996145423811293,claris lifesciences ltd,0.5,0
+ciprofloxacin 500 mg tablet 10s,ciprofloxacin-500mg,strip | tablet,10 tablet,0.0032334485849660646,0.0035568389914072407,keimed pvt ltd,0.00045,2
+ciprofloxacin claris 200 mg infusion 100 ml,ciprofloxacin(200.0 mg),packet,100 ml,0.0010776027660391854,0.001366229558580594,claris lifesciences ltd,0.00495,2
+ciprofloxacin infusion 100 ml,ciprofloxacin-200mg,vial | infusion,100 ml,0.0012805736970162632,0.0014118505807476085,fresenius kabi india pvt ltd,0.00495,2
+ciprofloxacin injection 100ml,ciprofloxacin-200mg,vial | injection,100 ml,0.04654885388654117,0.05120439498520918,keimed pvt ltd,0.00495,1
+ciprofloxacin iv core 100 ml,ciprofloxacin-100ml,bottle | infusion,100 ml,0.0010564733000384171,0.0011637362496638452,core claris lifesciences ltd,0.00495,2
+ciprofloxacin iv injection 100 ml,ciprofloxacin-100ml,bottle | injection,100 ml,0.0011064156742220516,0.001217072827158755,harson laboratories,0.00495,2
+ciprofloxacin parenteral 100 mg infusion 100 ml,piroxicam(20.0 mg),bottle,100 ml,0.0009450633883980025,0.0010396790841219635,parenteral drugs india ltd,0.00495,4
+ciprofloxacin r infusion 100 ml,ciprofloxacin,vial,100 ml,0.000904085030093482,0.0009948584307648966,baxter india pvt ltd,0.00495,2
+ciprofloxacin usp 200mg infusion,ciprofloxacin (200mg),bottle,10001 ml,0.0006191573825073633,0.0007635518446900333,albert david ltd,0.5,0
+ciprofloxacin zydus 500 mg strip of 10 tablets,ciprofloxacin(500.0 mg),strip,10 tablet,0.002490715840696632,0.003132643522135,zydus healthcare ltd,0.00045,4
+metformin sr 1 gm tablet 10s,metformin-1000mg,strip | tablet,10 tablet,0.002753233448584966,0.003028595576841809,biochem pharmaceutical industries ltd,0.00045,2
+metformin sr 500 tablet 10s,metformin-500mg,strip | tablet,10 tablet,0.0012805736970162632,0.0014118505807476085,biochem pharmaceutical industries ltd,0.00045,2
+glimepiride 1 mg tablet 10 medlife pure generics,glimepiride(1.0 mg),strip,10 tablet,0.0021769752849276473,0.0023082636478889474,tulip lab pvt ltd,0.00045,4
+glimepiride 2 mg tablet 10 medlife pure generics,glimepiride(2.0 mg),strip,10 tablet,0.003329491612242284,0.0035328279271088117,tulip lab pvt ltd,0.00045,4
+amlodipine 5mg plus atenolol 50mg strip of 10 tablets medlife pure generics,amlodipine(5.0 mg) + atenolol(50.0 mg),strip,10 tablet,0.0037136637213471633,0.0030766177054386665,tulip lab pvt ltd,0.00045,4
+amlodipine 5mg strip of 10 tablets medlife pure generics,amlodipine(5.0 mg),strip,10 tablet,0.0014726597515687027,0.001359826608101013,medlife,0.00045,4
+amlodipine 5 mg tablet 10s,amlodipine-5mg,strip | tablet,10 tablet,0.00032014342425406585,0.0003521622763769546,jan aushadhi marketing federation ltd,0.00045,2
+betamethasone 05mg tablet,betamethasone (0.5mg),strip,2001 tablet,0.00019208605455243947,0.00024331211822407767,makmaul labocare,0.1,4
+betamethasone 05 mg tablet 100,piroxicam(20.0 mg),strip,100 tablet,0.0007747470866948392,0.0008523927825942195,win medicare pvt ltd,0.00495,4
+betamethasone injection 1 ml,betamethasone-4mg,vial | injection,1 ml,0.00012805736970162632,0.0001408649105507818,kishore pharmacy,0.0,2
+clindamycin injection 1 ml,piroxicam(20.0 mg),vial,1 ml,0.0036899731079523624,0.0040250547452266,pfizer ltd,0.0,4
+clindamycin phosphate gel,clindamycin (1% w/w),other,2001 ml,0.005634524266871559,0.00468535901343339,nanz med science pharma ltd,0.1,4
+diazepam 5 mg tablet 1000,piroxicam(20.0 mg),bottle,1000 tablet,0.0008906390062748111,0.0009796514233758916,wings pharmaceuticals pvt ltd,0.04995,4
+sertraline 25 mg tablet 10,piroxicam(20.0 mg),strip,10 tablet,0.00627481111537969,0.006902380616988309,ipca laboratories,0.00045,4
+ranitidine 150mg tab 1x10,ranitidine 150 mg,strip tablet,10 ml,0.001152516327314637,0.0011397251853654164,omega,0.00045,2
+ranitidine 150 mg tablet 10s,ranitidine-150mg,strip | tablet,10 tablet,0.001152516327314637,0.0012677841949570363,keimed pvt ltd,0.00045,2
+ranitidine 150 tablet 20s,ranitidine-150mg,strip | tablet,20 tablet,0.0024330900243309,0.002676433300464854,omega pharmaceuticals pvt ltd,0.00095,2
+ranitidine injection 2 ml,ranitidine-50mg,vial | injection,2 ml,0.00019208605455243947,0.0002112973658261727,levin life sciences pvt ltd,5e-05,2
+ranitidine jagsonpal 20 mg injection 1,ranitidine(20.0 mg),injection,15 ml,9.476245357920349e-05,0.00013766343531099133,jagsonpal pharmaceuticals ltd,0.0007,2
+omeprazole 20 mg capsule 10,piroxicam(20.0 mg),strip,10 ml,0.00040017928031758226,0.00044020284547119316,cadila pharmaceuticals ltd,0.00045,4
+omeprazole 20 mg capsule 10 medlife pure generics,omeprazole(20.0 mg),strip,10 ml,0.0015206812652068125,0.001611142414424567,tulip lab pvt ltd,0.00045,4
+azithromycin 100mg syrup,azithromycin (100mg),other,1501 ml,0.002390190805480855,0.0029085402553496653,abbott,0.07500000000000001,4
+cetirizine 10mg strip of 10 tablets,cetirizine(10.0 mg),strip,10 tablet,0.0012203867332564989,0.0012917952592554648,glenmark gx,0.00045,4
+cetirizine 10 mg tablet 10,cetirizine(10.0 mg),strip,10 tablet,0.0012203867332564989,0.0012917952592554648,cadila pharmaceuticals ltd,0.00045,4
+cetirizine hydrochloride 10 mg tablet 10s,cetirizine-10mg,strip | tablet,10 tablet,0.0012165450121654502,0.0013398173878523224,glenmark pharmaceuticals ltd,0.00045,2
+cetirizine syrup 30ml,cetirizine,bottle,30 ml,0.0011115379690101164,0.0011765421506230072,glaxosmithkline,0.0014500000000000001,2
+cetirizine tablet,cetirizine (10mg),strip,1001 tablet,0.0012165450121654502,0.0010596883043706542,cadila pharmaceuticals ltd,0.05,4
+cetirizine tablet 15s,cetirizine-10mg,strip | tablet,15 tablet,0.0018888462030989884,0.0020761566930041363,zydus cadila,0.0007,2
